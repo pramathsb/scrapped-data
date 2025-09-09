@@ -1,0 +1,372 @@
+[
+  {
+    "zone": "BPT",
+    "code": "BPT",
+    "name": "MUMBAI PORT TRUST"
+  },
+  {
+    "zone": "CPT",
+    "code": "CPT",
+    "name": "CALCUTTA PORT TRUST"
+  },
+  {
+    "zone": "CR",
+    "code": "BB",
+    "name": "MUMBAI"
+  },
+  {
+    "zone": "CR",
+    "code": "BSL",
+    "name": "BHUSAVAL"
+  },
+  {
+    "zone": "CR",
+    "code": "NGP",
+    "name": "NAGPUR"
+  },
+  {
+    "zone": "CR",
+    "code": "PUNE",
+    "name": "PUNE"
+  },
+  {
+    "zone": "CR",
+    "code": "SUR",
+    "name": "SOLAPUR"
+  },
+  {
+    "zone": "DFCR",
+    "code": "EDFC",
+    "name": "EASTERN DEDICATED FREIGHT CORR"
+  },
+  {
+    "zone": "EC",
+    "code": "DDU",
+    "name": "PT. DEEN DAYAL UPADHYAYA"
+  },
+  {
+    "zone": "EC",
+    "code": "DHN",
+    "name": "DHANBAD"
+  },
+  {
+    "zone": "EC",
+    "code": "DNR",
+    "name": "DANAPUR"
+  },
+  {
+    "zone": "EC",
+    "code": "SEE",
+    "name": "SONPUR"
+  },
+  {
+    "zone": "EC",
+    "code": "SPJ",
+    "name": "SAMASTIPUR"
+  },
+  {
+    "zone": "ECO",
+    "code": "KUR",
+    "name": "KHURDA ROAD"
+  },
+  {
+    "zone": "ECO",
+    "code": "SBP",
+    "name": "SAMBALPUR"
+  },
+  {
+    "zone": "ECO",
+    "code": "WAT",
+    "name": "WALTAIR"
+  },
+  {
+    "zone": "ER",
+    "code": "ASN",
+    "name": "ASANSOL"
+  },
+  {
+    "zone": "ER",
+    "code": "HWH",
+    "name": "HOWRAH"
+  },
+  {
+    "zone": "ER",
+    "code": "MLDT",
+    "name": "MALDA"
+  },
+  {
+    "zone": "ER",
+    "code": "SDAH",
+    "name": "SEALDAH"
+  },
+  {
+    "zone": "KR",
+    "code": "KAWR",
+    "name": "KARWAR"
+  },
+  {
+    "zone": "KR",
+    "code": "RN",
+    "name": "RATNAGIRI"
+  },
+  {
+    "zone": "NC",
+    "code": "AGRA",
+    "name": "AGRA"
+  },
+  {
+    "zone": "NC",
+    "code": "JHS",
+    "name": "JHANSI"
+  },
+  {
+    "zone": "NC",
+    "code": "PRYJ",
+    "name": "PRAYAGRAJ"
+  },
+  {
+    "zone": "NE",
+    "code": "BSB",
+    "name": "VARANASI"
+  },
+  {
+    "zone": "NE",
+    "code": "IZN",
+    "name": "IZZAT NAGAR"
+  },
+  {
+    "zone": "NE",
+    "code": "LJN",
+    "name": "LUCKNOW"
+  },
+  {
+    "zone": "NF",
+    "code": "APDJ",
+    "name": "ALIPUR DUAR JN"
+  },
+  {
+    "zone": "NF",
+    "code": "KIR",
+    "name": "KATIHAR"
+  },
+  {
+    "zone": "NF",
+    "code": "LMG",
+    "name": "LUMDING"
+  },
+  {
+    "zone": "NF",
+    "code": "RNY",
+    "name": "RANGIYA"
+  },
+  {
+    "zone": "NF",
+    "code": "TSK",
+    "name": "TINSUKIA"
+  },
+  {
+    "zone": "NR",
+    "code": "DLI",
+    "name": "DELHI"
+  },
+  {
+    "zone": "NR",
+    "code": "FZR",
+    "name": "FIROZPUR"
+  },
+  {
+    "zone": "NR",
+    "code": "LKO",
+    "name": "LUCKNOW"
+  },
+  {
+    "zone": "NR",
+    "code": "MB",
+    "name": "MORADABAD"
+  },
+  {
+    "zone": "NR",
+    "code": "UMB",
+    "name": "AMBALA"
+  },
+  {
+    "zone": "NW",
+    "code": "AII",
+    "name": "AJMER"
+  },
+  {
+    "zone": "NW",
+    "code": "BKN",
+    "name": "BIKANER"
+  },
+  {
+    "zone": "NW",
+    "code": "JP",
+    "name": "JAIPUR"
+  },
+  {
+    "zone": "NW",
+    "code": "JU",
+    "name": "JODHPUR"
+  },
+  {
+    "zone": "PRC",
+    "code": "PPBR",
+    "name": "PIPAVAV"
+  },
+  {
+    "zone": "SC",
+    "code": "BZA",
+    "name": "VIJAYAWADA"
+  },
+  {
+    "zone": "SC",
+    "code": "GNT",
+    "name": "GUNTUR"
+  },
+  {
+    "zone": "SC",
+    "code": "GTL",
+    "name": "GUNTAKAL"
+  },
+  {
+    "zone": "SC",
+    "code": "HYB",
+    "name": "HYDERABAD"
+  },
+  {
+    "zone": "SC",
+    "code": "NED",
+    "name": "NANDED"
+  },
+  {
+    "zone": "SC",
+    "code": "SC",
+    "name": "SECUNDERABAD"
+  },
+  {
+    "zone": "SE",
+    "code": "ADRA",
+    "name": "ADRA"
+  },
+  {
+    "zone": "SE",
+    "code": "CKP",
+    "name": "CHAKRADHAR PUR"
+  },
+  {
+    "zone": "SE",
+    "code": "KGP",
+    "name": "KHARAGPUR"
+  },
+  {
+    "zone": "SE",
+    "code": "RNC",
+    "name": "RANCHI"
+  },
+  {
+    "zone": "SEC",
+    "code": "BSP",
+    "name": "BILASPUR"
+  },
+  {
+    "zone": "SEC",
+    "code": "NAG",
+    "name": "NAGPUR"
+  },
+  {
+    "zone": "SEC",
+    "code": "R",
+    "name": "RAIPUR"
+  },
+  {
+    "zone": "SR",
+    "code": "MAS",
+    "name": "MADRAS"
+  },
+  {
+    "zone": "SR",
+    "code": "MDU",
+    "name": "MADURAI"
+  },
+  {
+    "zone": "SR",
+    "code": "PGT",
+    "name": "PALGHAT"
+  },
+  {
+    "zone": "SR",
+    "code": "SA",
+    "name": "SALEM"
+  },
+  {
+    "zone": "SR",
+    "code": "TPJ",
+    "name": "TIRUCHCHIRAPALLI"
+  },
+  {
+    "zone": "SR",
+    "code": "TVC",
+    "name": "TRIVANDRUM CENTRAL"
+  },
+  {
+    "zone": "SW",
+    "code": "MYS",
+    "name": "MYSORE"
+  },
+  {
+    "zone": "SW",
+    "code": "SBC",
+    "name": "BANGALORE"
+  },
+  {
+    "zone": "SW",
+    "code": "UBL",
+    "name": "HUBLI"
+  },
+  {
+    "zone": "WC",
+    "code": "BPL",
+    "name": "BHOPAL"
+  },
+  {
+    "zone": "WC",
+    "code": "JBP",
+    "name": "JABALPUR"
+  },
+  {
+    "zone": "WC",
+    "code": "KOTA",
+    "name": "KOTA"
+  },
+  {
+    "zone": "WR",
+    "code": "ADI",
+    "name": "AHMEDABAD"
+  },
+  {
+    "zone": "WR",
+    "code": "BCT",
+    "name": "MUMBAI CENTRAL"
+  },
+  {
+    "zone": "WR",
+    "code": "BRC",
+    "name": "VADODARA"
+  },
+  {
+    "zone": "WR",
+    "code": "BVC",
+    "name": "BHAVNAGAR"
+  },
+  {
+    "zone": "WR",
+    "code": "RJT",
+    "name": "RAJKOT"
+  },
+  {
+    "zone": "WR",
+    "code": "RTM",
+    "name": "RATLAM"
+  }
+]

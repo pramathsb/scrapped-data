@@ -1,0 +1,412 @@
+[
+  {
+    "code": "ABRD",
+    "name": "ABU ROAD DIESEL SHED",
+    "zone": "NW"
+  },
+  {
+    "code": "AQE",
+    "name": "AJNI ELECTRIC SHED",
+    "zone": "CR"
+  },
+  {
+    "code": "AMVD",
+    "name": "ALAMBAGH DIESEL SHED",
+    "zone": "NR"
+  },
+  {
+    "code": "UDLD",
+    "name": "ANDAL DIESEL SHED",
+    "zone": "ER"
+  },
+  {
+    "code": "ANGE",
+    "name": "ANGUL ELECTRIC SHED",
+    "zone": "ECO"
+  },
+  {
+    "code": "AJJE",
+    "name": "ARAKONAM ELECTRIC SHED",
+    "zone": "SR"
+  },
+  {
+    "code": "ASNL",
+    "name": "ASANSOL ELECTIC SHED",
+    "zone": "ER"
+  },
+  {
+    "code": "BJUE",
+    "name": "BARAUNI ELEKTRIC SHED",
+    "zone": "EC"
+  },
+  {
+    "code": "BWNX",
+    "name": "BARDDHAMAN DIESEL SHED",
+    "zone": "ER"
+  },
+  {
+    "code": "BGKD",
+    "name": "BHAGAT KI KOTHI DIESEL SHED",
+    "zone": "NW"
+  },
+  {
+    "code": "BIAE",
+    "name": "BHILAI ELECTRIC SHED",
+    "zone": "SEC"
+  },
+  {
+    "code": "BSLL",
+    "name": "BHUSAVAL ELECTNIC SHED",
+    "zone": "CR"
+  },
+  {
+    "code": "BSPE",
+    "name": "BILASPUR ELECTRIC SHED",
+    "zone": "SEC"
+  },
+  {
+    "code": "BKSE",
+    "name": "BOKARO STEEL ELECTRIC SHED",
+    "zone": "SE"
+  },
+  {
+    "code": "BNDX",
+    "name": "BONDAMUNDA DIESEL SHED",
+    "zone": "SE"
+  },
+  {
+    "code": "BNDL",
+    "name": "BONDAMUNDA ELECTRIC SHED",
+    "zone": "SE"
+  },
+  {
+    "code": "NMTD",
+    "name": "DIESEL LOCO SHED NAGPUR MOTIBAGH",
+    "zone": "SEC"
+  },
+  {
+    "code": "IPTE",
+    "name": "ELECTRIC LOCO SHED ISPATNAGAR",
+    "zone": "SE"
+  },
+  {
+    "code": "KGPE",
+    "name": "ELECTRIC LOCO SHED KGP",
+    "zone": "SE"
+  },
+  {
+    "code": "ERSX",
+    "name": "ERNAKULAM DIESEL SHED",
+    "zone": "SR"
+  },
+  {
+    "code": "EDDX",
+    "name": "ERODE DIESEL SHED",
+    "zone": "SR"
+  },
+  {
+    "code": "EDE",
+    "name": "ERODE ELECTRIC SHED",
+    "zone": "SR"
+  },
+  {
+    "code": "GIMD",
+    "name": "GANDHIDHAM DIESEL SHED",
+    "zone": "WR"
+  },
+  {
+    "code": "GZBE",
+    "name": "GHAZIABAD ELECTRIC SHED",
+    "zone": "NR"
+  },
+  {
+    "code": "PADX",
+    "name": "GHORPURI ELECTNIC SHED",
+    "zone": "CR"
+  },
+  {
+    "code": "GOCD",
+    "name": "GOLDEN ROCK DIESEL SHED",
+    "zone": "SR"
+  },
+  {
+    "code": "GMOE",
+    "name": "GOMO ELECTRIC SHED",
+    "zone": "EC"
+  },
+  {
+    "code": "GDDX",
+    "name": "GONDA DIESEL SHED",
+    "zone": "NE"
+  },
+  {
+    "code": "GYD",
+    "name": "GOOTY DIESEL SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "GKPL",
+    "name": "GORAKHPUR JN",
+    "zone": "NE"
+  },
+  {
+    "code": "GTLD",
+    "name": "GUNTAKAL DIESEL SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "GTLE",
+    "name": "GUNTAKAL ELECTRIC SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "HWHD",
+    "name": "HAWRAH DIESEL SHED",
+    "zone": "ER"
+  },
+  {
+    "code": "HWHE",
+    "name": "HAWRAH ELECTRIC SHED",
+    "zone": "ER"
+  },
+  {
+    "code": "UBLD",
+    "name": "HUBALI DIESEL SHED",
+    "zone": "SW"
+  },
+  {
+    "code": "ETD",
+    "name": "ITARSI DIESEL SHED",
+    "zone": "WC"
+  },
+  {
+    "code": "ETE",
+    "name": "ITARSI ELECTRIC SHED",
+    "zone": "WC"
+  },
+  {
+    "code": "IZND",
+    "name": "IZZATNAGAR DIESEL SHED",
+    "zone": "NE"
+  },
+  {
+    "code": "JMPD",
+    "name": "JAMALP UR DIESEL SHED",
+    "zone": "ER"
+  },
+  {
+    "code": "JHSD",
+    "name": "JHANSI DIESEL SHED",
+    "zone": "NC"
+  },
+  {
+    "code": "JHSE",
+    "name": "JHANSI ELECRTIC SHED",
+    "zone": "NC"
+  },
+  {
+    "code": "KYDX",
+    "name": "KALYAN DIESEL SHED",
+    "zone": "CR"
+  },
+  {
+    "code": "KYNE",
+    "name": "KALYAN ELECTRIC SHED",
+    "zone": "CR"
+  },
+  {
+    "code": "CNBE",
+    "name": "KANPUR ELECRTIC SHED",
+    "zone": "NC"
+  },
+  {
+    "code": "KZJD",
+    "name": "KAZIPET DIESEL SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "KZJL",
+    "name": "KAZIPET ELECTRIC SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "KJGE",
+    "name": "KHANALAM URA ELECTRIC SHED",
+    "zone": "NR"
+  },
+  {
+    "code": "KJMD",
+    "name": "KRISHNARAJAPURAM DIESEL  SHED",
+    "zone": "SW"
+  },
+  {
+    "code": "CLAD",
+    "name": "KURLA DIESEL SHED",
+    "zone": "CR"
+  },
+  {
+    "code": "LGDE",
+    "name": "LALLGUDA ELECTRIC SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "LDHD",
+    "name": "LUDHIANA DIESEL SHED",
+    "zone": "NR"
+  },
+  {
+    "code": "LDHE",
+    "name": "LUDHIANA ELECTRIC SHED",
+    "zone": "NR"
+  },
+  {
+    "code": "MLDD",
+    "name": "MALDA TOWN DEISEL SHED",
+    "zone": "NF"
+  },
+  {
+    "code": "MLYD",
+    "name": "MAULA ALI DIESEL SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "NGCD",
+    "name": "NEW GUWAHATI DIESEL SHED",
+    "zone": "NF"
+  },
+  {
+    "code": "NKJD",
+    "name": "NEW KATNI DIESEL SHED",
+    "zone": "WC"
+  },
+  {
+    "code": "NKJE",
+    "name": "NEW KATNI ELECTRIC SHED",
+    "zone": "WC"
+  },
+  {
+    "code": "PTRX",
+    "name": "PATRATU DIESEL SHED",
+    "zone": "EC"
+  },
+  {
+    "code": "DDUX",
+    "name": "PT.DEEN DAYAL UPADHYAYA DIESEL SHED",
+    "zone": "EC"
+  },
+  {
+    "code": "DDUE",
+    "name": "PT.DEEN DAYAL UPADHYAYA ELECTRIC SHED",
+    "zone": "EC"
+  },
+  {
+    "code": "RPDX",
+    "name": "RAIPUR DIESEL SHED",
+    "zone": "SEC"
+  },
+  {
+    "code": "RTMD",
+    "name": "RATLAM DIESEL SHED",
+    "zone": "WR"
+  },
+  {
+    "code": "ROUE",
+    "name": "ROURKELA ELECTRIC SHED",
+    "zone": "SE"
+  },
+  {
+    "code": "RPME",
+    "name": "ROYAPURAM ELECTRIC SHED",
+    "zone": "SR"
+  },
+  {
+    "code": "ROZD",
+    "name": "ROZA DIESEL  SHED (GE)",
+    "zone": "NR"
+  },
+  {
+    "code": "SBTD",
+    "name": "SABARMATI DIESEL SHED",
+    "zone": "WR"
+  },
+  {
+    "code": "SYHE",
+    "name": "SAIYEDPUR BHITRI ",
+    "zone": "NE"
+  },
+  {
+    "code": "SPJD",
+    "name": "SAMASTIPUR OIESEL SHED",
+    "zone": "EC"
+  },
+  {
+    "code": "SRCE",
+    "name": "SANTRAGACHI ELECTRIC  SHED",
+    "zone": "SE"
+  },
+  {
+    "code": "SDAD",
+    "name": "SEALDAH DIESEL SHED",
+    "zone": "ER"
+  },
+  {
+    "code": "SGUD",
+    "name": "SILIGURI DIESEL SHED",
+    "zone": "NF"
+  },
+  {
+    "code": "TATE",
+    "name": "TATANAGAR ELECTRIC SHED",
+    "zone": "SE"
+  },
+  {
+    "code": "TNPD",
+    "name": "TONDIARPET DIESEL SHED",
+    "zone": "SR"
+  },
+  {
+    "code": "TKDD",
+    "name": "TUGALAKABAD DIESEL SHED",
+    "zone": "NR"
+  },
+  {
+    "code": "TKDE",
+    "name": "TUGALAKABAD ELECTRIC SHED",
+    "zone": "WC"
+  },
+  {
+    "code": "BRCE",
+    "name": "VADODARA ELECTRIC SHED",
+    "zone": "WR"
+  },
+  {
+    "code": "BLEE",
+    "name": "VALSAD ELECTRIC SHED",
+    "zone": "WR"
+  },
+  {
+    "code": "VTAD",
+    "name": "VATVA DIESEL SHED",
+    "zone": "WR"
+  },
+  {
+    "code": "BZAD",
+    "name": "VIJAYAWADA DIESEL SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "BZAE",
+    "name": "VIJAYAWADA ELECRTIC SHED",
+    "zone": "SC"
+  },
+  {
+    "code": "WATD",
+    "name": "VISAKHAPATNAM DIESEL SHED",
+    "zone": "ECO"
+  },
+  {
+    "code": "WATE",
+    "name": "VISAKHAPATNAM ELECTRIC SHED",
+    "zone": "ECO"
+  }
+]

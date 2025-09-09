@@ -1,0 +1,146 @@
+[
+  {
+    "code": "AD",
+    "state": "ANDHRA PRADESH"
+  },
+  {
+    "code": "AN",
+    "state": "ANDAMAN AND NICOBAR"
+  },
+  {
+    "code": "AR",
+    "state": "ARUNACHAL PRADESH"
+  },
+  {
+    "code": "AS",
+    "state": "ASSAM"
+  },
+  {
+    "code": "BH",
+    "state": "BIHAR"
+  },
+  {
+    "code": "CG",
+    "state": "CHHATTISGARH"
+  },
+  {
+    "code": "CH",
+    "state": "CHANDIGARH"
+  },
+  {
+    "code": "DL",
+    "state": "DELHI"
+  },
+  {
+    "code": "DN",
+    "state": "DADRA NAGAR H DAMAN DIU"
+  },
+  {
+    "code": "GD",
+    "state": "GOA"
+  },
+  {
+    "code": "GU",
+    "state": "GUJARAT"
+  },
+  {
+    "code": "HP",
+    "state": "HIMACHAL PRADESH"
+  },
+  {
+    "code": "HR",
+    "state": "HARYANA"
+  },
+  {
+    "code": "JH",
+    "state": "JHARKHAND"
+  },
+  {
+    "code": "JK",
+    "state": "JAMMU AND KASHMIR"
+  },
+  {
+    "code": "KE",
+    "state": "KERALA"
+  },
+  {
+    "code": "KR",
+    "state": "KARNATAKA"
+  },
+  {
+    "code": "LD",
+    "state": "LAKSHADWEEP"
+  },
+  {
+    "code": "MH",
+    "state": "MAHARASHTRA"
+  },
+  {
+    "code": "ML",
+    "state": "MEGHALAYA"
+  },
+  {
+    "code": "MN",
+    "state": "MANIPUR"
+  },
+  {
+    "code": "MP",
+    "state": "MADHYA PRADESH"
+  },
+  {
+    "code": "MZ",
+    "state": "MIZORAM"
+  },
+  {
+    "code": "NL",
+    "state": "NAGALAND"
+  },
+  {
+    "code": "OR",
+    "state": "ODISHA"
+  },
+  {
+    "code": "OT",
+    "state": "OTHER TERRITORY"
+  },
+  {
+    "code": "PB",
+    "state": "PUNJAB"
+  },
+  {
+    "code": "PO",
+    "state": "PUDUCHERRY"
+  },
+  {
+    "code": "RJ",
+    "state": "RAJASTHAN"
+  },
+  {
+    "code": "SK",
+    "state": "SIKKIM"
+  },
+  {
+    "code": "TL",
+    "state": "TELANGANA"
+  },
+  {
+    "code": "TN",
+    "state": "TAMIL NADU"
+  },
+  {
+    "code": "TR",
+    "state": "TRIPURA"
+  },
+  {
+    "code": "UK",
+    "state": "UTTARAKHAND"
+  },
+  {
+    "code": "UP",
+    "state": "UTTAR PRADESH"
+  },
+  {
+    "code": "WB",
+    "state": "WEST BENGAL"
+  }
+]

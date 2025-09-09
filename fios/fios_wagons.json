@@ -1,0 +1,1670 @@
+[
+  {
+    "name": "AAA",
+    "id": "AAA"
+  },
+  {
+    "name": "ACT1",
+    "id": "TALLER HEIGHT AUTO CAR1"
+  },
+  {
+    "name": "ACT2A",
+    "id": "TALLER HEIGHT AUTO CAR2A"
+  },
+  {
+    "name": "ACT2B",
+    "id": "TALLER HEIGHT AUTO CAR2B"
+  },
+  {
+    "name": "ACT2C",
+    "id": "TALLER HEIGHT AUTO CAR2C"
+  },
+  {
+    "name": "ACT3A",
+    "id": "TALLER HEIGHT AUTO CAR3A"
+  },
+  {
+    "name": "ACT3B",
+    "id": "TALLER HEIGHT AUTO CAR3B"
+  },
+  {
+    "name": "BC",
+    "id": "BOGIE COVERED WAGON"
+  },
+  {
+    "name": "BCA",
+    "id": "BOGIE COVERED WAGON FOR CATTLE"
+  },
+  {
+    "name": "BCACBMA",
+    "id": "BCACBM-A"
+  },
+  {
+    "name": "BCACBMB",
+    "id": "BCACBM-B"
+  },
+  {
+    "name": "BCACM",
+    "id": "AUTO LOADER VAN"
+  },
+  {
+    "name": "BCBFG",
+    "id": "BOGIE COVERED BROAD GAUGE FOOD GRAIN ADANI"
+  },
+  {
+    "name": "BCCN",
+    "id": "AUTO LOADER VAN"
+  },
+  {
+    "name": "BCCNR",
+    "id": "AUTO LOADER VAN"
+  },
+  {
+    "name": "BCCW",
+    "id": "BOGIE COVERED HOPPER FOR CEMENT"
+  },
+  {
+    "name": "BCCWM",
+    "id": "BOGIE COVERED HOPPER FOR CEMENT"
+  },
+  {
+    "name": "BCDS",
+    "id": "BOGE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCF",
+    "id": "BCF"
+  },
+  {
+    "name": "BCFC",
+    "id": "BOGIE COCERD BCFC WAGON"
+  },
+  {
+    "name": "BCFCE",
+    "id": "BOGIE COVRD BCFC(DESIGN-E)"
+  },
+  {
+    "name": "BCFCM",
+    "id": "BOGIE COVRD BCFC(MODIFIED)"
+  },
+  {
+    "name": "BCFCM1",
+    "id": "BCFCM1"
+  },
+  {
+    "name": "BCL8AXLE",
+    "id": "BCL(8 AXLE)"
+  },
+  {
+    "name": "BCLA",
+    "id": "BOGE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCLHTC8AXL",
+    "id": "BCLHTC(8 AXLE)"
+  },
+  {
+    "name": "BCN",
+    "id": "BOGE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCNA",
+    "id": "BOGIES COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCNAHS",
+    "id": "BOGIE COVERED AIR BRAKE HIGH SPEED"
+  },
+  {
+    "name": "BCNAHSM1",
+    "id": "BOGIE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCNAM1",
+    "id": "BOGIES COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCNAMI",
+    "id": "BOGIES COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCNHL",
+    "id": "BOGE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCNHS",
+    "id": "BOGIE COV. AIR BRAK "
+  },
+  {
+    "name": "BCNHSM1",
+    "id": "BOGIE COV. AIR BRAK "
+  },
+  {
+    "name": "BCNHSM2",
+    "id": "BOGIE COV. AIR BRAK "
+  },
+  {
+    "name": "BCNM1",
+    "id": "BOGE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCNM2",
+    "id": "BOGE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCNMI",
+    "id": "BOGE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCR",
+    "id": "BOGIE COVERED WAGON"
+  },
+  {
+    "name": "BCW",
+    "id": "BCW"
+  },
+  {
+    "name": "BCX",
+    "id": "BOGIE COVERED"
+  },
+  {
+    "name": "BCXC",
+    "id": "BOGIE COVERED CBC"
+  },
+  {
+    "name": "BCXN",
+    "id": "BOGE COVERED AIR BRAKES"
+  },
+  {
+    "name": "BCXR",
+    "id": "BOGIE COVERED SCREW"
+  },
+  {
+    "name": "BCXT",
+    "id": "BOGIE COVERED TRANSITION COUPLERS"
+  },
+  {
+    "name": "BCXY",
+    "id": "BOGIE COVERED WAGON UPWARD OPENING DOORS"
+  },
+  {
+    "name": "BFAT",
+    "id": "BOGIE FLAT FOR ARJUN TANK"
+  },
+  {
+    "name": "BFD",
+    "id": "CRANE DUMMY WAGON"
+  },
+  {
+    "name": "BFK",
+    "id": "BOGIE CONTAINER FLAT IRS"
+  },
+  {
+    "name": "BFKHN",
+    "id": "BOGIE FLAT FOR CONTAINERS (HIGH SPEED)"
+  },
+  {
+    "name": "BFKI",
+    "id": "FLAT TO CARRY DOMESTIC ISO FREIGHT CONTAINERS"
+  },
+  {
+    "name": "BFKN",
+    "id": "BOGIE FLAT CONTAINER"
+  },
+  {
+    "name": "BFKX",
+    "id": "FLATS TO CARRY DOMESTIC FRIGHT CONTAINERS"
+  },
+  {
+    "name": "BFNS",
+    "id": "BOGIE FLAT HIGH SPEED"
+  },
+  {
+    "name": "BFNS22.9",
+    "id": "BFNS 22.9 WAGON"
+  },
+  {
+    "name": "BFNSM",
+    "id": "BFNSM 22.9 WAGON"
+  },
+  {
+    "name": "BFNSM1",
+    "id": "BFNS 22.9 WAGON"
+  },
+  {
+    "name": "BFNV",
+    "id": "BOGIE FLATE STEEL WAGON"
+  },
+  {
+    "name": "BFR",
+    "id": "BOGIE FLAT FOR RAILS"
+  },
+  {
+    "name": "BFRF",
+    "id": "BFRF"
+  },
+  {
+    "name": "BFT",
+    "id": "BOGIE FLAT FOR TIMBER"
+  },
+  {
+    "name": "BFU",
+    "id": "BOGIE WELL WAGON"
+  },
+  {
+    "name": "BFUF",
+    "id": "BOGIE WELL WAGON"
+  },
+  {
+    "name": "BFWP",
+    "id": "BOGIE RAIL TRUCK AIR-BRAKE"
+  },
+  {
+    "name": "BG",
+    "id": "BG"
+  },
+  {
+    "name": "BK",
+    "id": "BK"
+  },
+  {
+    "name": "BKC",
+    "id": "BOGIE OPEN WAGON HIGH SPEED"
+  },
+  {
+    "name": "BKCA",
+    "id": "BOGIE OPEN WAGON HIGH SIDED"
+  },
+  {
+    "name": "BKCC",
+    "id": "BOGIE OPEN WAGON HIGH SIDED"
+  },
+  {
+    "name": "BKCF",
+    "id": "BKCF"
+  },
+  {
+    "name": "BKCW",
+    "id": "BKCW"
+  },
+  {
+    "name": "BKCX",
+    "id": "BOGIE OPEN WAGON"
+  },
+  {
+    "name": "BKCXY",
+    "id": "BOX  WAGONS WITH SEALED UPWARD OPENING DOOR"
+  },
+  {
+    "name": "BKD",
+    "id": "BOGIE OPEN WITH MEDIUM HEIGHT"
+  },
+  {
+    "name": "BKDF",
+    "id": "BKDF"
+  },
+  {
+    "name": "BKE",
+    "id": "BOGIE OPEN GENERAL / ELEPHANT"
+  },
+  {
+    "name": "BKF",
+    "id": "BOGIE OPEN END OPENING"
+  },
+  {
+    "name": "BKH",
+    "id": "BOGIE OPEN HOPPER"
+  },
+  {
+    "name": "BKHF",
+    "id": "BOGIE OPEN HOPPER"
+  },
+  {
+    "name": "BKHN",
+    "id": "BOGIE OPEN HOPPER"
+  },
+  {
+    "name": "BKI",
+    "id": "BOGIE FLAT FOR CONTAINERS FLATS MODIFIED"
+  },
+  {
+    "name": "BKK",
+    "id": "BKK"
+  },
+  {
+    "name": "BKL",
+    "id": "BOGIE OPEN LOW SIDED"
+  },
+  {
+    "name": "BKM",
+    "id": "BOGIE OPEN WAGON FOR MILITARY"
+  },
+  {
+    "name": "BKU",
+    "id": "BOGIE OPEN PLATFORM WAGONS"
+  },
+  {
+    "name": "BKW",
+    "id": "BOGIE OPEN WAGON BALLAST"
+  },
+  {
+    "name": "BLCSA",
+    "id": "BOGIE CONTAINER FLAT WAGON BLCS(A-CAR)"
+  },
+  {
+    "name": "BLCSB",
+    "id": "BOGIE CONTAINER FLAT WAGON BLCS(B-CAR)"
+  },
+  {
+    "name": "BLLMA",
+    "id": "BOGIE FLAT FOR MODIFIED CONTAINER LONG CAR A"
+  },
+  {
+    "name": "BLLMB",
+    "id": "BOGIE FLAT FOR MODIFIED CONTAINER LONG CAR B"
+  },
+  {
+    "name": "BLSSA",
+    "id": "BLSSA"
+  },
+  {
+    "name": "BLSSB",
+    "id": "BLSSB"
+  },
+  {
+    "name": "BMKM",
+    "id": "FLAT/WAGON FOR CARRYING MILITARY VEHICLES"
+  },
+  {
+    "name": "BNE",
+    "id": "BOGIE STORE VAN"
+  },
+  {
+    "name": "BOB",
+    "id": "OPEN WAGON HOPPER"
+  },
+  {
+    "name": "BOBC",
+    "id": "OPEN WAGON HOPPER WITH CENTRE DISCHARGE ARRANGEMENTS"
+  },
+  {
+    "name": "BOBR",
+    "id": "BOGIE HOPPER RAPID DISCHARGE (VAC)"
+  },
+  {
+    "name": "BOBRM1",
+    "id": "BOGIE HOPPER RAPID DISCHARGE (VAC)"
+  },
+  {
+    "name": "BOBRN",
+    "id": "BOGIE HOPPER RAPID DISCHARGE (AIR)"
+  },
+  {
+    "name": "BOBRNAHSM1",
+    "id": "BOGIE HOPPER RAPID DISCHARGE HIGH SPEED"
+  },
+  {
+    "name": "BOBRNEL",
+    "id": "BOGIE HOPPER RAPID DISCHARGE (AIR)"
+  },
+  {
+    "name": "BOBRNHS",
+    "id": "BOGIE HOPPER RAPID DISCHARGE HIGH SPEED"
+  },
+  {
+    "name": "BOBRNHSM1",
+    "id": "BOGIE HOPPER RAPID DISCHARGE HIGH SPEED"
+  },
+  {
+    "name": "BOBRNHSM2",
+    "id": "BOGIE HOPPER RAPID DISCHARGE HIGH SPEED"
+  },
+  {
+    "name": "BOBRNM1",
+    "id": "BOGIE HOPPER RAPID DISCHARGE (AIR)"
+  },
+  {
+    "name": "BOBRNM2",
+    "id": "BOBRNM2"
+  },
+  {
+    "name": "BOBRNSHM1",
+    "id": "BOGIE OPEN RAPID DISCHARGE HOPPER WAGON"
+  },
+  {
+    "name": "BOBS",
+    "id": "OPEN WAGON HOPPER WITH SIDE DISCHARGE"
+  },
+  {
+    "name": "BOBSN",
+    "id": "OPEN WAGON HOPPER WITH SIDE DISCHARGE AIR BRAKE"
+  },
+  {
+    "name": "BOBSNM",
+    "id": "BOBSNMI  LOADED WITH IORE ON MXA-DRZ"
+  },
+  {
+    "name": "BOBSNM1",
+    "id": "BOBSNMI  LOADED WITH IORE ON MXA-DRZ"
+  },
+  {
+    "name": "BOBSNS",
+    "id": "OPEN WAGON HOPPER WITH SIDE DISCHARGE AIR BRAKE"
+  },
+  {
+    "name": "BOBX",
+    "id": "OPEN WAGON HOPPER WITH CENTRE AND SIDE DISCHARGE ARRANGEMENT"
+  },
+  {
+    "name": "BOBY",
+    "id": "HOPPER WAGON BOTTOM DISCHARGE"
+  },
+  {
+    "name": "BOBYN",
+    "id": "HOPPER WAGON BOTTOM DISCHARGE AIR BRAKE"
+  },
+  {
+    "name": "BOBYN22.9",
+    "id": "HOPPER WGN BOTTOM DISCRG(HIGH SPEED)"
+  },
+  {
+    "name": "BOBYNH",
+    "id": "HOPPER WAGON BOTTOM DISCHARGE HIGH SPEED"
+  },
+  {
+    "name": "BOBYNHS",
+    "id": "HOPPER WGN BOTTOM DISCRG(HIGH SPEED)"
+  },
+  {
+    "name": "BOBYNHSM1",
+    "id": "HOPPER WGN BOTTOM DISCRG(HIGH SPEED)"
+  },
+  {
+    "name": "BOBYNM1",
+    "id": "HOPPER WAGON BOTTOM DISCHARGE AIR BRAKE"
+  },
+  {
+    "name": "BOI",
+    "id": "OPEN WAGON GONDOLA"
+  },
+  {
+    "name": "BOIN",
+    "id": "BOGIE OPEN WAGON GONDOLA"
+  },
+  {
+    "name": "BOM",
+    "id": "BOGIE OPEN MILITARY WAGON"
+  },
+  {
+    "name": "BOMN",
+    "id": "BOGIE OPEN MILITARY AIRBRAKE WAGON"
+  },
+  {
+    "name": "BOSM",
+    "id": "BOGIE OPEN STEEL WGON"
+  },
+  {
+    "name": "BOST",
+    "id": "BOGIE OPEN AIR-BRAK"
+  },
+  {
+    "name": "BOSTHS",
+    "id": "BOGIE OPEN AIR-BRAK"
+  },
+  {
+    "name": "BOSTHSM1",
+    "id": "BOGIE OPEN AIR-BRAK"
+  },
+  {
+    "name": "BOSTHSM2",
+    "id": "BOGIE OPEN AIR-BRAK"
+  },
+  {
+    "name": "BOSTHSM3",
+    "id": "BOGIE OPEN AIR-BRAK"
+  },
+  {
+    "name": "BOSTM1",
+    "id": "BOGIE OPEN AIR-BRAK"
+  },
+  {
+    "name": "BOX",
+    "id": "BOGIE OPEN WAGON"
+  },
+  {
+    "name": "BOXC",
+    "id": "BOX WAGONS WITH  CBC"
+  },
+  {
+    "name": "BOXCY",
+    "id": "BOX WAGONS WITH SEALED UPWARD OPENING DOORS"
+  },
+  {
+    "name": "BOXK",
+    "id": "BOGIE OPEN CONTAINER"
+  },
+  {
+    "name": "BOXKH",
+    "id": "BOGIE OPEN CONTAINER (HEAVY)"
+  },
+  {
+    "name": "BOXN",
+    "id": "BOGIE OPEN WAGON AIR BRAKES"
+  },
+  {
+    "name": "BOXNAL",
+    "id": "BOXNAL"
+  },
+  {
+    "name": "BOXNB",
+    "id": "BOXNB"
+  },
+  {
+    "name": "BOXNCR",
+    "id": "BOGIE OPEN WAGON AIR BRAKE CORROSION RESISTANT"
+  },
+  {
+    "name": "BOXNCRM1",
+    "id": "BOGIE OPEN WAGON AIR BRAKE CORROSION RESISTANT"
+  },
+  {
+    "name": "BOXNEL",
+    "id": "BOXNEL LOADED WITH IORE ON BSPX-DATR-JKPR-PRDP"
+  },
+  {
+    "name": "BOXNF",
+    "id": "BOXNF"
+  },
+  {
+    "name": "BOXNG",
+    "id": "BOXNG"
+  },
+  {
+    "name": "BOXNHA",
+    "id": "BOX WAGON (HIGH SPEED)"
+  },
+  {
+    "name": "BOXNHAM",
+    "id": "BOX WAGON (HIGH SPEED)"
+  },
+  {
+    "name": "BOXNHL",
+    "id": "BOGIE OPEN WAGON AIR BRAKES"
+  },
+  {
+    "name": "BOXNHL25T",
+    "id": "BOGIE OPEN WAGON AIR BRAKES 25T"
+  },
+  {
+    "name": "BOXNHS",
+    "id": "BOGIE OPEN AIR-BRAK "
+  },
+  {
+    "name": "BOXNHSM1",
+    "id": "BOGIE OPEN AIR-BRAK "
+  },
+  {
+    "name": "BOXNHSM2",
+    "id": "BOGIE OPEN AIR-BRAK "
+  },
+  {
+    "name": "BOXNLW",
+    "id": "BOGIE OPEN WAGON AIR BRAKES"
+  },
+  {
+    "name": "BOXNLWM1",
+    "id": "BOGIE OPEN WAGON AIR BRAKES"
+  },
+  {
+    "name": "BOXNLWM2",
+    "id": "BOGIE OPEN WAGON AIR BRAKES"
+  },
+  {
+    "name": "BOXNM1",
+    "id": "BOGIE OPEN WAGON AIR BRAKES LIGHT WEIGHT MODIFIED 1"
+  },
+  {
+    "name": "BOXNM2",
+    "id": "BOGIE OPEN WAGON AIR BRAKES LIGHT WEIGHT MODIFIED 1"
+  },
+  {
+    "name": "BOXNR",
+    "id": "BOGIE OPEN WAGON AIR BRAKES-REHABILITATION"
+  },
+  {
+    "name": "BOXNRHS",
+    "id": "BOGIE OPEN WAGON AIR BRAKES-REHABILITATION"
+  },
+  {
+    "name": "BOXNRHSM1",
+    "id": "BOGIE OPEN WAGON AIR BRAKES-REHABILITATION"
+  },
+  {
+    "name": "BOXNRM1",
+    "id": "BOGIE OPEN WAGON AIR BRAKES-REHABILITATION"
+  },
+  {
+    "name": "BOXNRM2",
+    "id": "BOGIE OPEN WAGON AIR BRAKES-REHABILITATION"
+  },
+  {
+    "name": "BOXNS",
+    "id": "BOGIE OPEN WAGON (SWING CUM FLAP DOORS SLIDING ROOF)"
+  },
+  {
+    "name": "BOXNUG",
+    "id": "BOGIE OPEN WAGON AIR BRAKES"
+  },
+  {
+    "name": "BOXR",
+    "id": "BOX WAGONS SCREW COUPLINGS"
+  },
+  {
+    "name": "BOXRY",
+    "id": "BOX WAGONS SEALED UPWARD OPENING DOORS SCREW COUPLINGS"
+  },
+  {
+    "name": "BOXS",
+    "id": "BOGIE OPEN WAGON (SWING CUM FLAP DOORS SLIDING ROOF)"
+  },
+  {
+    "name": "BOXSR",
+    "id": "BOGIE OPEN WAGON WITH SLIDING ROOF"
+  },
+  {
+    "name": "BOXT",
+    "id": "BOX WAGONS WITH SWING CUM FLAP DOORS-TRANSITION"
+  },
+  {
+    "name": "BOXTY",
+    "id": "BOX WAGONS UPWARD OPENING DOORS"
+  },
+  {
+    "name": "BOXY",
+    "id": "BOX WAGON SEALED UPWARD OPENING DOOR"
+  },
+  {
+    "name": "BOY",
+    "id": "BOGIE OPEN FOR IRON ORE"
+  },
+  {
+    "name": "BOYEL",
+    "id": "BOYEL  LOADED WITH IORE ON  KRDL-KTV-VZP"
+  },
+  {
+    "name": "BOYN",
+    "id": "BOGIE OPEN FOR IRON ORE(AIR BRAKE)"
+  },
+  {
+    "name": "BRH",
+    "id": "BOGIE RAIL TRUCK"
+  },
+  {
+    "name": "BRHC",
+    "id": "BOGIE RAIL WAGON"
+  },
+  {
+    "name": "BRHN",
+    "id": "BOGIE RAIL TRUCK"
+  },
+  {
+    "name": "BRHNEHS",
+    "id": "BOGIE RAIL TRUCK"
+  },
+  {
+    "name": "BRHNEHSM1",
+    "id": "BRHNEHSM1"
+  },
+  {
+    "name": "BRHT",
+    "id": "BOGIE RAIL WAGON"
+  },
+  {
+    "name": "BRN",
+    "id": "BOGIE RAIL TRUCK AIR-BRAKE"
+  },
+  {
+    "name": "BRN22.9",
+    "id": "BRN22.9"
+  },
+  {
+    "name": "BRN22.9M1",
+    "id": "BRN22.9"
+  },
+  {
+    "name": "BRNA",
+    "id": "BOGIE RAIL TRUCK AIR"
+  },
+  {
+    "name": "BRNAHA",
+    "id": "BRNAHA"
+  },
+  {
+    "name": "BRNAHS",
+    "id": "BOGIE RAIL TRUCK AIR HI-SPEED"
+  },
+  {
+    "name": "BRNAHSHA",
+    "id": "BRNAHSHA"
+  },
+  {
+    "name": "BRNAM1",
+    "id": "BRNAM1"
+  },
+  {
+    "name": "BRNHA",
+    "id": "BRNHA"
+  },
+  {
+    "name": "BRNM1",
+    "id": "BRNM1"
+  },
+  {
+    "name": "BRS",
+    "id": "BOGIE RAIL TRUCK"
+  },
+  {
+    "name": "BRST",
+    "id": "BOGIE RAIL TRUCK-TRANSITION"
+  },
+  {
+    "name": "BRSTN",
+    "id": "BRSTN"
+  },
+  {
+    "name": "BRT",
+    "id": "BOGIE RAIL TRUCK"
+  },
+  {
+    "name": "BTA",
+    "id": "BOGIE TANK WAGON ACID"
+  },
+  {
+    "name": "BTAL",
+    "id": "BOGIE TANK WAGON AMMONIA"
+  },
+  {
+    "name": "BTALN",
+    "id": "BOGIE TANK WAGON FOR LIQUID AMMONIA"
+  },
+  {
+    "name": "BTAP",
+    "id": "TANK WAGON FOR AMMONIA ,ALUMINA"
+  },
+  {
+    "name": "BTAPHP",
+    "id": "BOGIE TANK WAGON ALUMINA POWDER"
+  },
+  {
+    "name": "BTCS",
+    "id": "BOGIE C. SODA TANK IRS"
+  },
+  {
+    "name": "BTE",
+    "id": "BOGIE TANK WAGON LIQUID CAUSTIC SODA"
+  },
+  {
+    "name": "BTF",
+    "id": "TANK WAGON AMMONIA"
+  },
+  {
+    "name": "BTFC",
+    "id": "TANK WAGON FOR AMMONIA ,ALUMINA"
+  },
+  {
+    "name": "BTFLN",
+    "id": "TANK WAGON FOR POL"
+  },
+  {
+    "name": "BTFN",
+    "id": "BOGIE TANK AMMONIA"
+  },
+  {
+    "name": "BTHA",
+    "id": "BOGIE TANK WAGON HYDROCHLORIC ACID"
+  },
+  {
+    "name": "BTK",
+    "id": " BOGIE TANK WAGON KEROSENE"
+  },
+  {
+    "name": "BTL",
+    "id": "BOGIE TANK WAGON KEROSENE"
+  },
+  {
+    "name": "BTM",
+    "id": " BOGIETANK WAGON MOLASSES"
+  },
+  {
+    "name": "BTO",
+    "id": "BTO"
+  },
+  {
+    "name": "BTOH",
+    "id": " BOGIE TANK WAGON HEAVY OIL"
+  },
+  {
+    "name": "BTP",
+    "id": " BOGIE TANK WAGON PETROL"
+  },
+  {
+    "name": "BTPA",
+    "id": "BOGIE TANK WAGON FOR ALUMINA"
+  },
+  {
+    "name": "BTPG",
+    "id": "BOGIE TANK WAGON FOR LPG"
+  },
+  {
+    "name": "BTPGL",
+    "id": "BOGIE LPG TANK"
+  },
+  {
+    "name": "BTPGLN",
+    "id": "BOGIE TANK WAGON FOR LPG"
+  },
+  {
+    "name": "BTPGN",
+    "id": "BOGIE TANK WAGON FOR LIQUAFIED PETROLIUM GAS"
+  },
+  {
+    "name": "BTPH",
+    "id": " BOGIE TANK WAGON PHOSPHORIC ACID"
+  },
+  {
+    "name": "BTPN",
+    "id": "BOGIE TANK WAGON AIR BRAKE"
+  },
+  {
+    "name": "BTPX",
+    "id": "BOGIE TANK WGON PETROL"
+  },
+  {
+    "name": "BTS",
+    "id": "BTS"
+  },
+  {
+    "name": "BTSA",
+    "id": "TANK WAGON SULPHURIC ACID"
+  },
+  {
+    "name": "BTV",
+    "id": " BOGIE TANK WAGON VEGETABLE OIL"
+  },
+  {
+    "name": "BTW",
+    "id": "BOGIE TANK WAGON WATER"
+  },
+  {
+    "name": "BV",
+    "id": "BRAKE VAN"
+  },
+  {
+    "name": "BVCM",
+    "id": "BRAKE VAN"
+  },
+  {
+    "name": "BVG",
+    "id": "BRAKE VAN"
+  },
+  {
+    "name": "BVGC",
+    "id": "BRAKE VAN. CBC"
+  },
+  {
+    "name": "BVGT",
+    "id": "BRAKE VAN. TRANSITION CBC"
+  },
+  {
+    "name": "BVZC",
+    "id": "GOODS BRAKE VAN (AIR BRAKE SYSTEM)"
+  },
+  {
+    "name": "BVZI",
+    "id": "BRAKE VAN"
+  },
+  {
+    "name": "BWE",
+    "id": "12 AXLE 150T SPECIAL WELL WAGON"
+  },
+  {
+    "name": "BWH",
+    "id": "BOGIE WELL WAGON"
+  },
+  {
+    "name": "BWL",
+    "id": "BOGIE WELL WAGON"
+  },
+  {
+    "name": "BWS",
+    "id": "BOGIE WELL WAGON GROSS LOAD 132.08 TONNES"
+  },
+  {
+    "name": "BWT",
+    "id": "BOGIE WELL WAGON GROSS LOAD 55.88 TON"
+  },
+  {
+    "name": "BWTA",
+    "id": "BWTA"
+  },
+  {
+    "name": "BWTB",
+    "id": "BG BOGIE WELL WAGON TYPE"
+  },
+  {
+    "name": "BWW",
+    "id": "BOGIE WELL WAGON"
+  },
+  {
+    "name": "BWZ",
+    "id": "BOGIE WELL SPL. 12 AXL 182"
+  },
+  {
+    "name": "BXC",
+    "id": "BXC"
+  },
+  {
+    "name": "C",
+    "id": "COVERED WAGON GENERAL"
+  },
+  {
+    "name": "CA",
+    "id": "4 WHEELER COVERED. CATTLE"
+  },
+  {
+    "name": "CAF",
+    "id": "4 WHEELER COVERED. CATTLE"
+  },
+  {
+    "name": "CAW",
+    "id": "CAW"
+  },
+  {
+    "name": "CC",
+    "id": "CC"
+  },
+  {
+    "name": "CJ",
+    "id": "COVERED WAGON FOR JUTE"
+  },
+  {
+    "name": "CORA",
+    "id": "BOGIE DOUBLE DECK AUTO CAR"
+  },
+  {
+    "name": "CORB",
+    "id": "BOGIE DOUBLE DECK AUTO CAR"
+  },
+  {
+    "name": "COV",
+    "id": "COVERED STOCK"
+  },
+  {
+    "name": "CRANE",
+    "id": "CRANE"
+  },
+  {
+    "name": "CRC",
+    "id": "COVERED GOODS"
+  },
+  {
+    "name": "CRT",
+    "id": "4 WHEELER COVERED TRANSITION CBC"
+  },
+  {
+    "name": "CS",
+    "id": "COVERED WAGON FOR SALT"
+  },
+  {
+    "name": "CV",
+    "id": "CV"
+  },
+  {
+    "name": "CW",
+    "id": "CW"
+  },
+  {
+    "name": "DBFU",
+    "id": "WELL WAGON MILITARY"
+  },
+  {
+    "name": "DBFUA",
+    "id": "WELL WAGON MILITARY"
+  },
+  {
+    "name": "DBKM",
+    "id": "BOGIE OPEN MILITARY"
+  },
+  {
+    "name": "DBWT",
+    "id": "WELL WAGON MILITARY"
+  },
+  {
+    "name": "EAB",
+    "id": "END ADAPTOR BOGIE"
+  },
+  {
+    "name": "FD",
+    "id": "DUMMY TRUCK OR RELIEF TRUCK"
+  },
+  {
+    "name": "FK",
+    "id": "FLATS FOR CONTAINERS"
+  },
+  {
+    "name": "FLATCOIL3",
+    "id": "FLATCOIL3"
+  },
+  {
+    "name": "FMPA",
+    "id": "RORO(CAR-A)"
+  },
+  {
+    "name": "FMPAB",
+    "id": "RORO(CAR-A)"
+  },
+  {
+    "name": "FMPB",
+    "id": "RORO(CAR-A)"
+  },
+  {
+    "name": "FR",
+    "id": "RAIL TRUCK"
+  },
+  {
+    "name": "FRT",
+    "id": "RAIL TRUCK TWIN"
+  },
+  {
+    "name": "FT",
+    "id": "TIMBER TRUCK"
+  },
+  {
+    "name": "FTT",
+    "id": "TIMBER TRUCK TWIN"
+  },
+  {
+    "name": "FU",
+    "id": "OPEN WELL"
+  },
+  {
+    "name": "FW",
+    "id": "FW"
+  },
+  {
+    "name": "FX",
+    "id": "TRUCK FOR LIQUID OXYGEN"
+  },
+  {
+    "name": "IRCA",
+    "id": "IRCA"
+  },
+  {
+    "name": "IRS",
+    "id": "IRS"
+  },
+  {
+    "name": "IRSTPR",
+    "id": "IRSTPR"
+  },
+  {
+    "name": "ITS",
+    "id": "ITS"
+  },
+  {
+    "name": "J",
+    "id": "J"
+  },
+  {
+    "name": "JI",
+    "id": "JI"
+  },
+  {
+    "name": "K",
+    "id": "OPEN WAGON"
+  },
+  {
+    "name": "KC",
+    "id": "OPEN WAGON HIGHSIDED"
+  },
+  {
+    "name": "KCA",
+    "id": "OPEN WAGON HIGHSIDED (WITH ANGLEIRONS )"
+  },
+  {
+    "name": "KCC",
+    "id": "OPEN WAGON HIGHSIDED (SPECIAL COAL)"
+  },
+  {
+    "name": "KCF",
+    "id": "KCF"
+  },
+  {
+    "name": "KCH",
+    "id": "4 WHEELER HOPPER WAGONS"
+  },
+  {
+    "name": "KCW",
+    "id": "OPEN WAGON WOODEN BDY"
+  },
+  {
+    "name": "KD",
+    "id": "4 WHEELER OPEN MEDIUM HEIGHT"
+  },
+  {
+    "name": "KE",
+    "id": "4 WHEELER GENERAL/ELEPHANT TRUCK"
+  },
+  {
+    "name": "KF",
+    "id": "4 WHEELER OPEN WAGONS"
+  },
+  {
+    "name": "KFW",
+    "id": "KFW"
+  },
+  {
+    "name": "KH",
+    "id": "4 WHEELER OPEN WAGON HOPPER"
+  },
+  {
+    "name": "KI",
+    "id": "KI"
+  },
+  {
+    "name": "KK",
+    "id": "4 WHEELER OPEN WAGON SUGARCANE"
+  },
+  {
+    "name": "KL",
+    "id": "4 WHEELER OPEN WAGON LOW-SIDED"
+  },
+  {
+    "name": "KLF",
+    "id": "KLF"
+  },
+  {
+    "name": "KLW",
+    "id": "KLW"
+  },
+  {
+    "name": "KM",
+    "id": "4 WHEELER OPEN WAGON MILITARY"
+  },
+  {
+    "name": "KMF",
+    "id": "4 WHEELER OPEN WAGON MILITARY"
+  },
+  {
+    "name": "KOH",
+    "id": "OPEN WAGON HIGH SIDED"
+  },
+  {
+    "name": "KP",
+    "id": "4 WHEELER OPEN WAGON POLES OR BAMBOO"
+  },
+  {
+    "name": "KR",
+    "id": "4 WHEELER OPEN REEL WAGON FOR WIRING CUM BREAK DOWN TRAIN"
+  },
+  {
+    "name": "KS",
+    "id": "4 WHEELER OPEN WAGON SALT"
+  },
+  {
+    "name": "KSW",
+    "id": "KSW"
+  },
+  {
+    "name": "KU",
+    "id": "4 WHEELER PLATFORM WAGONS"
+  },
+  {
+    "name": "KV",
+    "id": "4 WHEELER OPEN WAGON WEIGHBRIDGE TESTING"
+  },
+  {
+    "name": "KW",
+    "id": "4 WHEELER OPEN WAGON BALLAST"
+  },
+  {
+    "name": "KWF",
+    "id": "KWF"
+  },
+  {
+    "name": "LLRM",
+    "id": "MILITARY"
+  },
+  {
+    "name": "M",
+    "id": "MILITARY"
+  },
+  {
+    "name": "MAB",
+    "id": "MIDDLE ADAPTOR BOGIE"
+  },
+  {
+    "name": "MACCN",
+    "id": "MILITARY"
+  },
+  {
+    "name": "MACCW",
+    "id": "MILITARY 2AC SLEEPER"
+  },
+  {
+    "name": "MBFU",
+    "id": "BOGIE WELL WAGON MILITARY"
+  },
+  {
+    "name": "MBFUF",
+    "id": "BOGIE WELL WAGON MILITARY"
+  },
+  {
+    "name": "MBKM",
+    "id": "BOGIE FLAT WAGON FOR CARRYING MILITARY VEHICLES"
+  },
+  {
+    "name": "MBOX",
+    "id": "MODIFIED BOX"
+  },
+  {
+    "name": "MBOXN",
+    "id": "MBOXN"
+  },
+  {
+    "name": "MBWT",
+    "id": "BOGIE WELL WAGON MILITARY"
+  },
+  {
+    "name": "MFR",
+    "id": "MILITARY RAMP WAGON FLAT"
+  },
+  {
+    "name": "MGR",
+    "id": "RAPID DISCHARGE COAL HOPPER"
+  },
+  {
+    "name": "MGS",
+    "id": "MILITARY GS"
+  },
+  {
+    "name": "MGSCN",
+    "id": "MILITARY SECOND CLASS SLEEPER"
+  },
+  {
+    "name": "MGSCNY",
+    "id": "MILITARY"
+  },
+  {
+    "name": "MGSLR",
+    "id": "MILITARY RAMP WAGON FLAT"
+  },
+  {
+    "name": "MILATRY",
+    "id": "MILITARY 2AC SLEEPER WITH PANTRY CAR"
+  },
+  {
+    "name": "MKC",
+    "id": "OPEN WAGON MATERIAL"
+  },
+  {
+    "name": "ML",
+    "id": "MILITARY"
+  },
+  {
+    "name": "MLACCN",
+    "id": "MILITARY"
+  },
+  {
+    "name": "MLACCW",
+    "id": "MILITARY"
+  },
+  {
+    "name": "MOFK",
+    "id": "FLATS FOR CONTAINERS"
+  },
+  {
+    "name": "MRG",
+    "id": "MILITARY CARRIAGE FOR FAMILY"
+  },
+  {
+    "name": "MSLR",
+    "id": "MILITARY LUGGAGE"
+  },
+  {
+    "name": "MWCB",
+    "id": "MILITARY PANTRY CAR"
+  },
+  {
+    "name": "MWFC",
+    "id": "MILITARY FIRST CLASS"
+  },
+  {
+    "name": "MWGACCN",
+    "id": "MILITARY RAMP WAGON FLAT"
+  },
+  {
+    "name": "MWGACCW",
+    "id": "MILITARY RAMP WAGON FLAT"
+  },
+  {
+    "name": "MWGCB",
+    "id": "MILITARY RAMP WAGON FLAT"
+  },
+  {
+    "name": "MWGSCN",
+    "id": "MILITARY RAMP WAGON FLAT"
+  },
+  {
+    "name": "MWGSCNY",
+    "id": "MILITARY RAMP WAGON FLAT"
+  },
+  {
+    "name": "NE",
+    "id": "STORE VAN"
+  },
+  {
+    "name": "NF",
+    "id": "FISH VAN"
+  },
+  {
+    "name": "NH",
+    "id": "FRUIT VAN"
+  },
+  {
+    "name": "NMG",
+    "id": "AUTO LOADER VAN"
+  },
+  {
+    "name": "NMGH",
+    "id": "AUTO LOADER VAN"
+  },
+  {
+    "name": "NMGHS",
+    "id": "AUTO LOADER VAN"
+  },
+  {
+    "name": "NMGHSFS",
+    "id": "AUTO LOADER VAN FRICTION SNUBBER"
+  },
+  {
+    "name": "NMGHSR",
+    "id": "AUTOMOBILE CARRIER CUM BREAK VAN"
+  },
+  {
+    "name": "OC",
+    "id": "4 WHEELER COVERED"
+  },
+  {
+    "name": "OCV",
+    "id": "OTHER COACHING VEHICLES"
+  },
+  {
+    "name": "OM",
+    "id": "OPEN WAGON MILITARY"
+  },
+  {
+    "name": "OMT",
+    "id": "OPEN WAGON MILITARY"
+  },
+  {
+    "name": "PCV",
+    "id": "PSGR COACHING VEHICLES"
+  },
+  {
+    "name": "PRC",
+    "id": "4 WHEEL PAKISTAN RAILWAY COVERED WAGON"
+  },
+  {
+    "name": "PREIRS",
+    "id": "PREIRS"
+  },
+  {
+    "name": "ROROCARA",
+    "id": "RORO(CAR-A)"
+  },
+  {
+    "name": "ROROCARB",
+    "id": "RORO(CAR-B)"
+  },
+  {
+    "name": "RX",
+    "id": "BALLAST PLOUGH VAN"
+  },
+  {
+    "name": "SLR",
+    "id": "PARCEL"
+  },
+  {
+    "name": "TA",
+    "id": "TANK WAGON SULFURIC ACID"
+  },
+  {
+    "name": "TAP",
+    "id": "TANK WAGON ALUMINA"
+  },
+  {
+    "name": "TAP2",
+    "id": "TANK WAGON FOR AMMONIA ,ALUMINA"
+  },
+  {
+    "name": "TB",
+    "id": "TANK WAGON BENZOL"
+  },
+  {
+    "name": "TC",
+    "id": "4 WHEELER TANK WAGON CREOSOTE"
+  },
+  {
+    "name": "TCS",
+    "id": "TANK WAGON LIQUID C.SODA"
+  },
+  {
+    "name": "TD",
+    "id": "4 WHEELER TANK WAGON BITUMEN"
+  },
+  {
+    "name": "TE",
+    "id": "4 WHEELER TANK WAGON LIQ CAUSTIC SODA"
+  },
+  {
+    "name": "TF",
+    "id": "4 WHEELER TANK WAGON AMMONIA"
+  },
+  {
+    "name": "TG",
+    "id": "4 WHEELER TANK WAGON LIQUIFIED PETROL"
+  },
+  {
+    "name": "TH",
+    "id": "4 WHEELER TANK WAGON HEXANE"
+  },
+  {
+    "name": "THA",
+    "id": "4 WHEELER TANK WAGON HYD ACID"
+  },
+  {
+    "name": "TK",
+    "id": "4 WHEELER TANK WAGON KEROSENE"
+  },
+  {
+    "name": "TKOPEN",
+    "id": "TKOPEN"
+  },
+  {
+    "name": "TL",
+    "id": "4 WHEELER TANK WAGON BLACK OIL"
+  },
+  {
+    "name": "TM",
+    "id": "4 WHEELER TANK WAGON MOLASSES"
+  },
+  {
+    "name": "TN",
+    "id": "4 WHEELER TANK WAGON MENTHONOL"
+  },
+  {
+    "name": "TO",
+    "id": "TO"
+  },
+  {
+    "name": "TOH",
+    "id": "4 WHEELER TANK WAGON HEAVY OIL"
+  },
+  {
+    "name": "TOHT",
+    "id": "TANK WAGON HEAVY OIL"
+  },
+  {
+    "name": "TORH",
+    "id": "4 WHEELER TANK WAGON HEAVY OIL"
+  },
+  {
+    "name": "TORHC",
+    "id": "4 WHEELER TANK WAGON HEAVY OIL CBC"
+  },
+  {
+    "name": "TORHT",
+    "id": "4 WHEELER TANK WAGON HEAVY OIL"
+  },
+  {
+    "name": "TORX",
+    "id": "TANK WAGON HEAVY OIL"
+  },
+  {
+    "name": "TORXC",
+    "id": "TORXC"
+  },
+  {
+    "name": "TORXT",
+    "id": "TORXT"
+  },
+  {
+    "name": "TORXTK",
+    "id": "TORXTK"
+  },
+  {
+    "name": "TORXTV",
+    "id": "TORXTV"
+  },
+  {
+    "name": "TP",
+    "id": "4 WHEELER TANK WAGON PETROL"
+  },
+  {
+    "name": "TPGL",
+    "id": " 4 WHEELER TANK WAGON LIQ. PETROL GAS"
+  },
+  {
+    "name": "TPGLR",
+    "id": "4 WHEELER TANK WAGON LIQ. PETROL GAS"
+  },
+  {
+    "name": "TPR",
+    "id": " 4 WHEELER TANK WAGON PETROL"
+  },
+  {
+    "name": "TPRC",
+    "id": "TANK WAGON"
+  },
+  {
+    "name": "TPRIRS",
+    "id": "TPRIRS"
+  },
+  {
+    "name": "TPTPRC",
+    "id": "TPTPRC"
+  },
+  {
+    "name": "TR",
+    "id": "4 WHEELER TANK WAGON COAL TAR"
+  },
+  {
+    "name": "TRACK",
+    "id": "TRACK"
+  },
+  {
+    "name": "TRS",
+    "id": "TRS"
+  },
+  {
+    "name": "TS",
+    "id": "4 WHEELER TANK WAGON COUNTRY SPIRIT"
+  },
+  {
+    "name": "TSA",
+    "id": "4 WHEELER TANK WAGON SULPHURIC ACID"
+  },
+  {
+    "name": "TV",
+    "id": "4 WHEELER TANK WAGON VEGETABLE OIL"
+  },
+  {
+    "name": "TW",
+    "id": "4 WHEELER TANK WAGON WATER"
+  },
+  {
+    "name": "TWF",
+    "id": "4 WHEELER TANK WAGON WATER"
+  },
+  {
+    "name": "TWT",
+    "id": "4 WHEELER TANK WAGON WATER"
+  },
+  {
+    "name": "TX",
+    "id": "4 WHEELER TANK WAGON LIQUID CHLORINE"
+  },
+  {
+    "name": "TZ",
+    "id": "4 WHEELER TANK WAGON LUBRICATING OIL"
+  },
+  {
+    "name": "V",
+    "id": "4 WHEELER BRAKE VAN. ORDINARY"
+  },
+  {
+    "name": "VB",
+    "id": "4 WHEELER BRAKE VAN.  ORDINARY"
+  },
+  {
+    "name": "VH",
+    "id": "4 WHEELER BRAKE VAN.  HEAVY"
+  },
+  {
+    "name": "VM",
+    "id": "4 WHEELER BRAKE VAN.  MEDIUM"
+  },
+  {
+    "name": "VP",
+    "id": "PARCEL"
+  },
+  {
+    "name": "VPH",
+    "id": "PARCEL"
+  },
+  {
+    "name": "VPU",
+    "id": "BOGIE MOTOR CUM PARCEL VAN"
+  },
+  {
+    "name": "VVHN1",
+    "id": "RAIL MILK TANK VAN"
+  },
+  {
+    "name": "VY",
+    "id": "BRAKE VAN"
+  },
+  {
+    "name": "X",
+    "id": "EXPLOSIVES"
+  },
+  {
+    "name": "XC",
+    "id": "EXPLOSIVES"
+  },
+  {
+    "name": "XK",
+    "id": "EXPLOSIVES"
+  }
+]

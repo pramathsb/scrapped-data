@@ -1,0 +1,2738 @@
+[
+  {
+    "name": "ABSOLUTE ALCOHOLS",
+    "id": "2818458"
+  },
+  {
+    "name": "ACETIC ACID",
+    "id": "2818459"
+  },
+  {
+    "name": "ANHYDROUS DENATURED ETHANOL",
+    "id": "2818467"
+  },
+  {
+    "name": "BENZOIC ACID",
+    "id": "2818460"
+  },
+  {
+    "name": "BENZYL ALCOHOL",
+    "id": "2818452"
+  },
+  {
+    "name": "BORIC ACID",
+    "id": "2819417"
+  },
+  {
+    "name": "BUTYL ALCOHOL",
+    "id": "2818462"
+  },
+  {
+    "name": "CITRIC ACID",
+    "id": "2818649"
+  },
+  {
+    "name": "HYDROCHLORIC ACID",
+    "id": "2818464"
+  },
+  {
+    "name": "NITRIC ACID",
+    "id": "2819215"
+  },
+  {
+    "name": "PHOSPHORIC ACID",
+    "id": "2819454"
+  },
+  {
+    "name": "SPIRIT",
+    "id": "2818465"
+  },
+  {
+    "name": "SULPHURIC ACID",
+    "id": "2818466"
+  },
+  {
+    "name": "ALLOY PIPES",
+    "id": "3313011"
+  },
+  {
+    "name": "ALLOY STEEL CASTINGS",
+    "id": "3313012"
+  },
+  {
+    "name": "ALLOY STEEL",
+    "id": "3313037"
+  },
+  {
+    "name": "ALUMINA",
+    "id": "1491645"
+  },
+  {
+    "name": "ALUMINIUM BILLETS",
+    "id": "3313057"
+  },
+  {
+    "name": "ALUMINIUM INGOTS",
+    "id": "3334110"
+  },
+  {
+    "name": "ALUMINIUM POWDER",
+    "id": "3399120"
+  },
+  {
+    "name": "BEARING PLATES",
+    "id": "3562191"
+  },
+  {
+    "name": "BRASS",
+    "id": "3313038"
+  },
+  {
+    "name": "COPPER ANODE AND CATHODS",
+    "id": "3313455"
+  },
+  {
+    "name": "COPPER CONCENTRATES",
+    "id": "1021210"
+  },
+  {
+    "name": "COPPER INGOTS",
+    "id": "3331115"
+  },
+  {
+    "name": "COPPER SLAB",
+    "id": "3331125"
+  },
+  {
+    "name": "ELECTROPLATED TIN PLATES",
+    "id": "3312726"
+  },
+  {
+    "name": "FERRO CHROME",
+    "id": "3313210"
+  },
+  {
+    "name": "FERRO MANGANESE",
+    "id": "3313110"
+  },
+  {
+    "name": "FERRO SILICON",
+    "id": "3313039"
+  },
+  {
+    "name": "KANSA",
+    "id": "3313058"
+  },
+  {
+    "name": "LEAD",
+    "id": "3313059"
+  },
+  {
+    "name": "SILICO CHROME",
+    "id": "3313060"
+  },
+  {
+    "name": "SILICON MANGANESE",
+    "id": "3313041"
+  },
+  {
+    "name": "SILICON",
+    "id": "3313040"
+  },
+  {
+    "name": "TIN PLATE",
+    "id": "3313042"
+  },
+  {
+    "name": "ZINC",
+    "id": "3313056"
+  },
+  {
+    "name": "BALLAST CHIPS",
+    "id": "3299642"
+  },
+  {
+    "name": "BALLAST",
+    "id": "1421931"
+  },
+  {
+    "name": "BRICKS BROKEN",
+    "id": "3251114"
+  },
+  {
+    "name": "CERAMIC TILES",
+    "id": "3299643"
+  },
+  {
+    "name": "CHAKKEES",
+    "id": "3313044"
+  },
+  {
+    "name": "FIRE BRICKS",
+    "id": "3255110"
+  },
+  {
+    "name": "FLOORING STONE",
+    "id": "3313046"
+  },
+  {
+    "name": "FLOORING TILES",
+    "id": "3313045"
+  },
+  {
+    "name": "GLASS STONE",
+    "id": "3229992"
+  },
+  {
+    "name": "GRANITE BLOCKS UNDRESSED",
+    "id": "1411110"
+  },
+  {
+    "name": "GRANITE BOULDERS UNDRESSED",
+    "id": "1411109"
+  },
+  {
+    "name": "GRANITE",
+    "id": "3313047"
+  },
+  {
+    "name": "GRAVEL",
+    "id": "1441290"
+  },
+  {
+    "name": "KOTA STONE",
+    "id": "3281116"
+  },
+  {
+    "name": "KUNKER",
+    "id": "1421910"
+  },
+  {
+    "name": "MARBEL DRESSED",
+    "id": "3313049"
+  },
+  {
+    "name": "MARBLE CHIPS",
+    "id": "3313048"
+  },
+  {
+    "name": "MARBLE POWDER (ALL TYPES)",
+    "id": "3255111"
+  },
+  {
+    "name": "MARBLE UN",
+    "id": "DRESSED"
+  },
+  {
+    "name": "MILL STONE",
+    "id": "3313051"
+  },
+  {
+    "name": "POLISHED GRANITE SLAB",
+    "id": "3281979"
+  },
+  {
+    "name": "QUARTZ/QUARTZITE((CHIPS,STONES,GRAVEL AND POWDER)",
+    "id": "3281977"
+  },
+  {
+    "name": "ROLLERS STONE",
+    "id": "3281963"
+  },
+  {
+    "name": "SANITARY WARES",
+    "id": "3313052"
+  },
+  {
+    "name": "SLATE STONE",
+    "id": "1411166"
+  },
+  {
+    "name": "SLATE",
+    "id": "3313053"
+  },
+  {
+    "name": "SLATES IN TILES",
+    "id": "1411115"
+  },
+  {
+    "name": "STONE CUT",
+    "id": "3281111"
+  },
+  {
+    "name": "STONE DUST",
+    "id": "3295959"
+  },
+  {
+    "name": "STONE ENGRAVED",
+    "id": "3281115"
+  },
+  {
+    "name": "STONE NOC",
+    "id": "1411156"
+  },
+  {
+    "name": "STONE PILLARS",
+    "id": "3281976"
+  },
+  {
+    "name": "STONE WARE",
+    "id": "3313055"
+  },
+  {
+    "name": "STONEGRIT",
+    "id": "1421990"
+  },
+  {
+    "name": "AMMONIUM BICARBONATE FOOD GRADE",
+    "id": "2812324"
+  },
+  {
+    "name": "CAUSTIC POTASH LIQUOR",
+    "id": "2819934"
+  },
+  {
+    "name": "CAUSTIC POTASH SOLID",
+    "id": "2812411"
+  },
+  {
+    "name": "CAUSTIC SODA FLAKES",
+    "id": "2812223"
+  },
+  {
+    "name": "CAUSTIC SODA LIQUOR",
+    "id": "2819935"
+  },
+  {
+    "name": "CAUSTIC SODA LYE",
+    "id": "2819936"
+  },
+  {
+    "name": "CAUSTIC SODA",
+    "id": "2812220"
+  },
+  {
+    "name": "CHLORATE OF SODA",
+    "id": "2819924"
+  },
+  {
+    "name": "SODA ASH DENSE",
+    "id": "2812332"
+  },
+  {
+    "name": "SODA ASH LIGHT",
+    "id": "2812323"
+  },
+  {
+    "name": "SODA ASH",
+    "id": "2812322"
+  },
+  {
+    "name": "SODA BICARBONATE",
+    "id": "2812316"
+  },
+  {
+    "name": "SULPHATE OF SODA",
+    "id": "2812355"
+  },
+  {
+    "name": "SULPHUR",
+    "id": "2819937"
+  },
+  {
+    "name": "WASHING SODA",
+    "id": "2841910"
+  },
+  {
+    "name": "ACID RESISTING CEMENT",
+    "id": "3241111"
+  },
+  {
+    "name": "ASBESTOS JOINTING AND PACKING SHEETS NONGRAPHITED",
+    "id": "3292971"
+  },
+  {
+    "name": "ASBESTOS",
+    "id": "3241112"
+  },
+  {
+    "name": "BEAMS (PRESTRESSED CEMENT CONCRETE)",
+    "id": "3271510"
+  },
+  {
+    "name": "BED ASH",
+    "id": "4011209"
+  },
+  {
+    "name": "BULK CEMENT (CEMENT IN LOOSE FORM)",
+    "id": "3271515"
+  },
+  {
+    "name": "CEMENT BLOCKS",
+    "id": "3241113"
+  },
+  {
+    "name": "CEMENT MANUFACTURED",
+    "id": "3241114"
+  },
+  {
+    "name": "CEMENT PIPES",
+    "id": "3241115"
+  },
+  {
+    "name": "CEMENT PLASTER",
+    "id": "2891103"
+  },
+  {
+    "name": "CEMENT SHEETS",
+    "id": "3292968"
+  },
+  {
+    "name": "CEMENT TILES",
+    "id": "3241125"
+  },
+  {
+    "name": "CEMENT",
+    "id": "2891122"
+  },
+  {
+    "name": "CLINKER",
+    "id": "3241110"
+  },
+  {
+    "name": "COLOURED CEMENT",
+    "id": "2891131"
+  },
+  {
+    "name": "COLUMNS (PRESTRESSED CEMENT CONCRETE)",
+    "id": "3271511"
+  },
+  {
+    "name": "FLY ASH BLOCK",
+    "id": "4011210"
+  },
+  {
+    "name": "FLY ASH",
+    "id": "4011208"
+  },
+  {
+    "name": "OIL WELL CEMENT",
+    "id": "2891125"
+  },
+  {
+    "name": "POST SLEEPERS(PRESTRESSED CEMENT CONCRETE)",
+    "id": "3271512"
+  },
+  {
+    "name": "POZZOLONA  CEMENT",
+    "id": "2891107"
+  },
+  {
+    "name": "PRESTRESSED CEMENT  CONCRETE",
+    "id": "3271509"
+  },
+  {
+    "name": "SUPER FINE CEMENT",
+    "id": "2891108"
+  },
+  {
+    "name": "SUPER MASONRY CEMENT",
+    "id": "2891109"
+  },
+  {
+    "name": "WHITE CEMENT",
+    "id": "2891123"
+  },
+  {
+    "name": "AMMONIUM NITRO PHOSPHATE",
+    "id": "2819147"
+  },
+  {
+    "name": "AMMONIUM PHOSPHATE SULPHATE",
+    "id": "2871446"
+  },
+  {
+    "name": "AMMONIUM PHOSPHATE",
+    "id": "2819146"
+  },
+  {
+    "name": "AMMONIUM SULPHATE NITRATE",
+    "id": "2819158"
+  },
+  {
+    "name": "AMMONIUM SULPHATE PHOSPHATE",
+    "id": "2871445"
+  },
+  {
+    "name": "BENTONITE SULPHER PASTILLES (STRAIGHT SULPHUR FERTILIZER)",
+    "id": "2819160"
+  },
+  {
+    "name": "BORONATED SUPHALA",
+    "id": "4967001"
+  },
+  {
+    "name": "CALCIUM AMMONIUM NITRATE",
+    "id": "2871244"
+  },
+  {
+    "name": "CALCIUM AMMONIUM NITRO PHOSPHATE",
+    "id": "2819148"
+  },
+  {
+    "name": "CALCIUM NITRATE",
+    "id": "2812639"
+  },
+  {
+    "name": "CALCIUM SULPHATE",
+    "id": "2812644"
+  },
+  {
+    "name": "CHEMICAL MANURES NOC",
+    "id": "2871990"
+  },
+  {
+    "name": "COMPLEX FERTILIZER",
+    "id": "2871110"
+  },
+  {
+    "name": "CYANAMIDE",
+    "id": "2871435"
+  },
+  {
+    "name": "DI",
+    "id": "AMMONIUM PHOSPHATE"
+  },
+  {
+    "name": "DIHYDRATE POLYHALITE(POLYSULPHATE)",
+    "id": "2871449"
+  },
+  {
+    "name": "GROUND PHOSPHATE",
+    "id": "3295961"
+  },
+  {
+    "name": "KAINITE",
+    "id": "1471326"
+  },
+  {
+    "name": "LIME NITROGEN",
+    "id": "2871923"
+  },
+  {
+    "name": "MANURE MIXTURE",
+    "id": "2871941"
+  },
+  {
+    "name": "MINERAL PHOSPHATE",
+    "id": "1471410"
+  },
+  {
+    "name": "MONO",
+    "id": "AMMONIUM PHOSPHATE"
+  },
+  {
+    "name": "MURIATE OF AMMONIA",
+    "id": "2819125"
+  },
+  {
+    "name": "MURIATE OF POTASH NOC",
+    "id": "2812535"
+  },
+  {
+    "name": "MURIATE OF POTASH",
+    "id": "2812534"
+  },
+  {
+    "name": "MYCEILUM",
+    "id": "2871924"
+  },
+  {
+    "name": "NANO FERTILIZERS",
+    "id": "ALL TYPES"
+  },
+  {
+    "name": "NEEM COATED UREA",
+    "id": "4967000"
+  },
+  {
+    "name": "NITRO PHOSPHATE",
+    "id": "2871917"
+  },
+  {
+    "name": "NITROPHOSKA",
+    "id": "2871916"
+  },
+  {
+    "name": "NPK FERTILIZER",
+    "id": "2871918"
+  },
+  {
+    "name": "POLYHALITE(ALL TYPES)",
+    "id": "2871927"
+  },
+  {
+    "name": "POTASSIUM MAGNESIUM SULPHATE",
+    "id": "2871447"
+  },
+  {
+    "name": "POTASSIUM SULPHATE",
+    "id": "2871452"
+  },
+  {
+    "name": "ROCK PHOSPHATE (IN BAG)",
+    "id": "2871245"
+  },
+  {
+    "name": "ROCK PHOSPHATE(LOOSE)",
+    "id": "2871247"
+  },
+  {
+    "name": "SINGLE SUPER PHOSPHATE",
+    "id": "2871241"
+  },
+  {
+    "name": "SNPK FERTILIZERS",
+    "id": "2871919"
+  },
+  {
+    "name": "SODIUM SULPHIDE",
+    "id": "2812552"
+  },
+  {
+    "name": "SULPHATE OF AMMONIA",
+    "id": "2819155"
+  },
+  {
+    "name": "SULPHATE OF ZINC",
+    "id": "2819548"
+  },
+  {
+    "name": "SULPHUR COATED UREA",
+    "id": "2871451"
+  },
+  {
+    "name": "SUPER PHOSPHATE",
+    "id": "2871250"
+  },
+  {
+    "name": "TRIPLE SUPERPHOSPHATE",
+    "id": "2871252"
+  },
+  {
+    "name": "UREA AMMONIUM PHOSPHATE 20.20.0",
+    "id": "4966977"
+  },
+  {
+    "name": "UREA",
+    "id": "2818170"
+  },
+  {
+    "name": "URVARA",
+    "id": "2871939"
+  },
+  {
+    "name": "WATER SOLUBLE FERTILIZER",
+    "id": "2819161"
+  },
+  {
+    "name": "BENTONITE POWDER",
+    "id": "3295232"
+  },
+  {
+    "name": "BENTONITE",
+    "id": "1451110"
+  },
+  {
+    "name": "CHINA CLAY",
+    "id": "1451410"
+  },
+  {
+    "name": "CLAY NOC",
+    "id": "1451990"
+  },
+  {
+    "name": "FIRE CLAY",
+    "id": "1451416"
+  },
+  {
+    "name": "GROUND SILICA",
+    "id": "1441321"
+  },
+  {
+    "name": "LUTING SAND",
+    "id": "1441324"
+  },
+  {
+    "name": "MOORUM",
+    "id": "1421911"
+  },
+  {
+    "name": "OCHRE IN LUMPS",
+    "id": "2816940"
+  },
+  {
+    "name": "OCHRE IN POWDER",
+    "id": "2816941"
+  },
+  {
+    "name": "OCHRE,NOC",
+    "id": "1011220"
+  },
+  {
+    "name": "RED MUD",
+    "id": "1441325"
+  },
+  {
+    "name": "SAND",
+    "id": "1441190"
+  },
+  {
+    "name": "SILICA SAND",
+    "id": "1441322"
+  },
+  {
+    "name": "WHITE CLAY(LUMPS/POWDER)",
+    "id": "3295112"
+  },
+  {
+    "name": "ANTHRACITE COAL",
+    "id": "1111111"
+  },
+  {
+    "name": "ASSAM COAL",
+    "id": "2991143"
+  },
+  {
+    "name": "BHUTAN COAL",
+    "id": "2991144"
+  },
+  {
+    "name": "BREEZE COKE",
+    "id": "2991325"
+  },
+  {
+    "name": "BRIQUETTED FUEL MIXTURE",
+    "id": "2991137"
+  },
+  {
+    "name": "CALCINED PETROLEUM COKE",
+    "id": "2991315"
+  },
+  {
+    "name": "CILCOKE / CILCOKE FINES",
+    "id": "2991332"
+  },
+  {
+    "name": "COAL BRIQUETTES",
+    "id": "2991138"
+  },
+  {
+    "name": "COAL CHAR",
+    "id": "3443368"
+  },
+  {
+    "name": "COAL DUST",
+    "id": "2991316"
+  },
+  {
+    "name": "COAL FINES",
+    "id": "2991124"
+  },
+  {
+    "name": "COAL MILL REJECT",
+    "id": "2991492"
+  },
+  {
+    "name": "COAL SHALE",
+    "id": "2991136"
+  },
+  {
+    "name": "COAL(GOVT RLY ACCOUNT)",
+    "id": "2991142"
+  },
+  {
+    "name": "COKE BRIQUETTES",
+    "id": "2991139"
+  },
+  {
+    "name": "COKE HARD",
+    "id": "2991317"
+  },
+  {
+    "name": "COKE SOFT",
+    "id": "2991318"
+  },
+  {
+    "name": "COKE",
+    "id": "2991320"
+  },
+  {
+    "name": "COKING COAL (IMPORTED)",
+    "id": "2991120"
+  },
+  {
+    "name": "COKING COAL WASHED",
+    "id": "2991119"
+  },
+  {
+    "name": "COKING COAL",
+    "id": "2991319"
+  },
+  {
+    "name": "HARD COKE REJECTIONS",
+    "id": "2991335"
+  },
+  {
+    "name": "LIGNITE",
+    "id": "2991455"
+  },
+  {
+    "name": "METALLURGICAL COKE",
+    "id": "2991487"
+  },
+  {
+    "name": "MIDDLING COAL",
+    "id": "2991490"
+  },
+  {
+    "name": "NON COKING COAL WASHED",
+    "id": "2991118"
+  },
+  {
+    "name": "NUT COKE (IN OPEN WAGON)",
+    "id": "2991408"
+  },
+  {
+    "name": "PATENT FUEL (AS COAL)",
+    "id": "2991321"
+  },
+  {
+    "name": "PEARL COKE (IN COVERED WAGON)",
+    "id": "2991499"
+  },
+  {
+    "name": "PET COKE CINDER",
+    "id": "2991312"
+  },
+  {
+    "name": "PETROLEUM COKE",
+    "id": "2991314"
+  },
+  {
+    "name": "RAW PETROLEUM COKE",
+    "id": "2991313"
+  },
+  {
+    "name": "RUF PITCH",
+    "id": "2991336"
+  },
+  {
+    "name": "RUN OF MINES (ROM) COAL (A)",
+    "id": "2991125"
+  },
+  {
+    "name": "RUN OF MINES (ROM) COAL (B)",
+    "id": "2991126"
+  },
+  {
+    "name": "RUN OF MINES (ROM) COAL (C)",
+    "id": "2991127"
+  },
+  {
+    "name": "RUN OF MINES (ROM) COAL (D)",
+    "id": "2991128"
+  },
+  {
+    "name": "RUN OF MINES (ROM) COAL (E)",
+    "id": "2991129"
+  },
+  {
+    "name": "RUN OF MINES (ROM) COAL (F)",
+    "id": "2991130"
+  },
+  {
+    "name": "RUN OFF MINES COAL(ROM)",
+    "id": "2991323"
+  },
+  {
+    "name": "SLACK COAL (GOVT RLY ACCOUNT)",
+    "id": "2991477"
+  },
+  {
+    "name": "SLV SLACK COAL",
+    "id": "2991117"
+  },
+  {
+    "name": "SLV STEAM COAL",
+    "id": "2991116"
+  },
+  {
+    "name": "SPECIAL QUALITY LOW ASH METALLURGICAL COKE",
+    "id": "2991488"
+  },
+  {
+    "name": "STEAM COAL (IMPORTED)",
+    "id": "2991121"
+  },
+  {
+    "name": "STEAM COAL",
+    "id": "2991141"
+  },
+  {
+    "name": "WASHED COAL",
+    "id": "2991324"
+  },
+  {
+    "name": "WASHERY MIDDLING COAL",
+    "id": "2991489"
+  },
+  {
+    "name": "WASHERY REJECT",
+    "id": "2991491"
+  },
+  {
+    "name": "ATTA",
+    "id": "119015"
+  },
+  {
+    "name": "BAJRA",
+    "id": "119016"
+  },
+  {
+    "name": "BARLEY",
+    "id": "113111"
+  },
+  {
+    "name": "BESAN",
+    "id": "119017"
+  },
+  {
+    "name": "CHANA DAL",
+    "id": "119018"
+  },
+  {
+    "name": "CORN GERMS",
+    "id": "2046730"
+  },
+  {
+    "name": "DHALL",
+    "id": "119053"
+  },
+  {
+    "name": "GRAINS AND PULSES NOC",
+    "id": "113991"
+  },
+  {
+    "name": "GRAM DAL",
+    "id": "2042012"
+  },
+  {
+    "name": "GRAM",
+    "id": "119011"
+  },
+  {
+    "name": "JOWAR",
+    "id": "119019"
+  },
+  {
+    "name": "MAIDA",
+    "id": "2041111"
+  },
+  {
+    "name": "MAIZE GERMS",
+    "id": "2046731"
+  },
+  {
+    "name": "MAIZE",
+    "id": "2100000"
+  },
+  {
+    "name": "MILO (MILLETS)",
+    "id": "113655"
+  },
+  {
+    "name": "MOONG DAL",
+    "id": "119020"
+  },
+  {
+    "name": "MUSOOR DAL",
+    "id": "2042015"
+  },
+  {
+    "name": "PADDY PARCHED",
+    "id": "2034223"
+  },
+  {
+    "name": "PADDY",
+    "id": "119010"
+  },
+  {
+    "name": "PEAS",
+    "id": "134210"
+  },
+  {
+    "name": "PULSES",
+    "id": "113992"
+  },
+  {
+    "name": "RICE  BOILED  GR",
+    "id": "A (BRA)"
+  },
+  {
+    "name": "RICE (BROKEN)",
+    "id": "113423"
+  },
+  {
+    "name": "RICE (IR",
+    "id": "8)"
+  },
+  {
+    "name": "RICE BASMATI (BROKEN)",
+    "id": "113418"
+  },
+  {
+    "name": "RICE BASMATI",
+    "id": "113421"
+  },
+  {
+    "name": "RICE COMMON (R)",
+    "id": "113410"
+  },
+  {
+    "name": "RICE COMMON BOILED (BR)",
+    "id": "113412"
+  },
+  {
+    "name": "RICE PARMAL(BROKEN)",
+    "id": "113422"
+  },
+  {
+    "name": "RICE RAW GR",
+    "id": "A (RRA)"
+  },
+  {
+    "name": "RICE",
+    "id": "119021"
+  },
+  {
+    "name": "SUJI",
+    "id": "2041112"
+  },
+  {
+    "name": "TOOR DAL",
+    "id": "119023"
+  },
+  {
+    "name": "URAD DAL",
+    "id": "119024"
+  },
+  {
+    "name": "WHEAT (PFG)",
+    "id": "113710"
+  },
+  {
+    "name": "WHEAT (SFG)",
+    "id": "113711"
+  },
+  {
+    "name": "WHEAT",
+    "id": "119025"
+  },
+  {
+    "name": "FLOATING FISH FEED",
+    "id": "2094251"
+  },
+  {
+    "name": "POULTRY FEEDS",
+    "id": "2094252"
+  },
+  {
+    "name": "ALL REFINED AND NON REFINED EDIBLE OILS",
+    "id": "2093356"
+  },
+  {
+    "name": "ALL REFINED AND NON",
+    "id": "REFINED OIL(IN COVERED WAGONS)"
+  },
+  {
+    "name": "CASTOR OIL",
+    "id": "2093357"
+  },
+  {
+    "name": "CORN OIL (IN COVERED WAGONS)",
+    "id": "2046510"
+  },
+  {
+    "name": "CORN OIL",
+    "id": "2046511"
+  },
+  {
+    "name": "CRUDE DEGUMMED SOYA",
+    "id": "2046521"
+  },
+  {
+    "name": "CRUDE PALMOLEIN",
+    "id": "2046531"
+  },
+  {
+    "name": "GROUND NUT OIL(IN COVERED WAGONS)",
+    "id": "2093210"
+  },
+  {
+    "name": "GROUNDNUT OIL",
+    "id": "2093358"
+  },
+  {
+    "name": "HYDROGENATED OILS (IN COVERED WAGONS)",
+    "id": "2093328"
+  },
+  {
+    "name": "HYDROGENATED OILS",
+    "id": "2093363"
+  },
+  {
+    "name": "MUSTARD OIL(IN COVERED WAGONS)",
+    "id": "2093364"
+  },
+  {
+    "name": "MUSTARD OIL",
+    "id": "2093359"
+  },
+  {
+    "name": "PALM OIL (IN COVERED WAGONS)",
+    "id": "2093307"
+  },
+  {
+    "name": "PALM OIL",
+    "id": "2093360"
+  },
+  {
+    "name": "SOYABEAN OIL (IN COVERED WAGONS)",
+    "id": "2092113"
+  },
+  {
+    "name": "SOYABEAN OIL",
+    "id": "2046520"
+  },
+  {
+    "name": "SUNFLOWER OIL (IN COVERED WAGONS)",
+    "id": "2093344"
+  },
+  {
+    "name": "SUNFLOWER OIL",
+    "id": "2093361"
+  },
+  {
+    "name": "VANASPATI GHEE(IN COVERED WAGONS)",
+    "id": "2093366"
+  },
+  {
+    "name": "VANASPATI GHEE",
+    "id": "2093362"
+  },
+  {
+    "name": "ALLOY CONSTRUCTIONAL STEELS",
+    "id": "3313020"
+  },
+  {
+    "name": "ANGLES",
+    "id": "3312523"
+  },
+  {
+    "name": "AXLES IRON OR STEEL NOC",
+    "id": "3799419"
+  },
+  {
+    "name": "BANDS",
+    "id": "3481345"
+  },
+  {
+    "name": "BARS INCLUDING CARBON STEEL BARS",
+    "id": "3312433"
+  },
+  {
+    "name": "BARS IRON OR STEEL GALVANISED",
+    "id": "3312435"
+  },
+  {
+    "name": "BEAMS",
+    "id": "3312528"
+  },
+  {
+    "name": "BILLETS",
+    "id": "3312120"
+  },
+  {
+    "name": "BLOOMS",
+    "id": "3312121"
+  },
+  {
+    "name": "CABLES WIRE",
+    "id": "3315130"
+  },
+  {
+    "name": "CASTINGS NOC",
+    "id": "3321972"
+  },
+  {
+    "name": "CHAINS IRON  NOC",
+    "id": "3312447"
+  },
+  {
+    "name": "CHANNELS",
+    "id": "3312534"
+  },
+  {
+    "name": "COLD ROLLED COILS",
+    "id": "3443226"
+  },
+  {
+    "name": "COLD ROLLED SHEETS",
+    "id": "3312128"
+  },
+  {
+    "name": "COLLIERY ARCH AND Z",
+    "id": "PILLING"
+  },
+  {
+    "name": "CORRUGATEDSHEETS",
+    "id": "3312333"
+  },
+  {
+    "name": "DOG SPIKES",
+    "id": "3312872"
+  },
+  {
+    "name": "ELASTIC RAIL CLIPS(STYPE)",
+    "id": "3312831"
+  },
+  {
+    "name": "FISH PLATES",
+    "id": "3312876"
+  },
+  {
+    "name": "FITTINGS PIPES",
+    "id": "3494240"
+  },
+  {
+    "name": "FLAT IRON OR STEEL GIRDERS",
+    "id": "3441143"
+  },
+  {
+    "name": "FLAT, IRON OR STEEL",
+    "id": "3312130"
+  },
+  {
+    "name": "GALVANISED SHEETS (CORRUGATED)",
+    "id": "3312335"
+  },
+  {
+    "name": "GALVANISED SHEETS (PLAIN)",
+    "id": "3312332"
+  },
+  {
+    "name": "GALVANSED COILS",
+    "id": "3494331"
+  },
+  {
+    "name": "GUTTERS",
+    "id": "3444545"
+  },
+  {
+    "name": "HEAVY ROLLS SPOILS",
+    "id": "3312127"
+  },
+  {
+    "name": "HOT ROLLED COILS",
+    "id": "3443223"
+  },
+  {
+    "name": "HOT ROLLED SHEETS",
+    "id": "3312351"
+  },
+  {
+    "name": "INGOTS",
+    "id": "3312122"
+  },
+  {
+    "name": "IRON OR STEEL MATERIAL USED OLD DEFACTED FOR REROLNG MELTING",
+    "id": "4021953"
+  },
+  {
+    "name": "IRON OR STEEL PIPE CUTTINGS",
+    "id": "3312666"
+  },
+  {
+    "name": "IRON OR STEEL SLAB",
+    "id": "3312140"
+  },
+  {
+    "name": "IRON SHEET CUTTINGS",
+    "id": "3312345"
+  },
+  {
+    "name": "JOINTS",
+    "id": "3441129"
+  },
+  {
+    "name": "LATTICE/TRANSMISSION TOWER PARTS",
+    "id": "4966978"
+  },
+  {
+    "name": "MILL SCALE IRON OR STEEL",
+    "id": "3311945"
+  },
+  {
+    "name": "NICKLED STEEL BARS",
+    "id": "3312434"
+  },
+  {
+    "name": "PERMANENT WAY MATERIALS NOC",
+    "id": "3742909"
+  },
+  {
+    "name": "PILES SCREWS",
+    "id": "3452150"
+  },
+  {
+    "name": "PIPES (APJ) OF ANY LENGTH AND DIA LOADED",
+    "id": "3312676"
+  },
+  {
+    "name": "PIPES(STEEL) OF ANY LEN AND DIA ABOVE 80MM",
+    "id": "3312673"
+  },
+  {
+    "name": "PLATES",
+    "id": "3312746"
+  },
+  {
+    "name": "POLES",
+    "id": "3612645"
+  },
+  {
+    "name": "RAILS P WAY MATERIAL NOC",
+    "id": "3312839"
+  },
+  {
+    "name": "RIBBED WIRE ROD IN COILS",
+    "id": "3312444"
+  },
+  {
+    "name": "RODS INCLUDING HIGH CARBON STEEL RODS",
+    "id": "3312456"
+  },
+  {
+    "name": "ROUNDS",
+    "id": "3312141"
+  },
+  {
+    "name": "SAFES IRON",
+    "id": "3492136"
+  },
+  {
+    "name": "SAFES STEEL",
+    "id": "3492137"
+  },
+  {
+    "name": "SHEETS",
+    "id": "3443224"
+  },
+  {
+    "name": "SHELL BLOOMS",
+    "id": "3312119"
+  },
+  {
+    "name": "SLEEPERS (CAST IRON)",
+    "id": "3312124"
+  },
+  {
+    "name": "SLEEPERS(OTHER THAN CAST IRON)",
+    "id": "3312125"
+  },
+  {
+    "name": "SPIRAL WELDED STEEL PIPES WITH DIA LESS THAN 610 MM",
+    "id": "3312681"
+  },
+  {
+    "name": "SPOONS (IRON)",
+    "id": "3914125"
+  },
+  {
+    "name": "SPRINGS",
+    "id": "3493140"
+  },
+  {
+    "name": "SQUARES (CAST IRON)",
+    "id": "3312432"
+  },
+  {
+    "name": "SQUARES (OTHER THAN CAST IRON)",
+    "id": "3312431"
+  },
+  {
+    "name": "STAINLESS STEEL  PIPES",
+    "id": "3312615"
+  },
+  {
+    "name": "STAINLESS STEEL BARS",
+    "id": "3312416"
+  },
+  {
+    "name": "STAINLESS STEEL IN COIL FORM",
+    "id": "3499905"
+  },
+  {
+    "name": "STAINLESS STEEL RODS",
+    "id": "3312414"
+  },
+  {
+    "name": "STAINLESS STEEL SHEETS",
+    "id": "3312317"
+  },
+  {
+    "name": "STAINLESS STEEL SLABS",
+    "id": "3312147"
+  },
+  {
+    "name": "STAINLESS STEEL WARE",
+    "id": "3312114"
+  },
+  {
+    "name": "STAINLESS STEEL",
+    "id": "3312131"
+  },
+  {
+    "name": "STEEL PIPES (OF DIAMETER <=16 INCHES)",
+    "id": "3312133"
+  },
+  {
+    "name": "STEEL PIPES (OF DIAMETER >16 INCHES)",
+    "id": "3312134"
+  },
+  {
+    "name": "STEEL PIPES",
+    "id": "3312132"
+  },
+  {
+    "name": "STEEL SHEET CUTTINGS",
+    "id": "3312343"
+  },
+  {
+    "name": "STEEL SHEETS PILINGS",
+    "id": "3312576"
+  },
+  {
+    "name": "STRUCTURAL COBBLES",
+    "id": "3441147"
+  },
+  {
+    "name": "TACKS",
+    "id": "3312215"
+  },
+  {
+    "name": "THERMO MECHANICAL TREATED(TMT) BARS",
+    "id": "3312216"
+  },
+  {
+    "name": "TIES",
+    "id": "3315565"
+  },
+  {
+    "name": "TIN BARS",
+    "id": "3312745"
+  },
+  {
+    "name": "TYRES (IRON)",
+    "id": "3799935"
+  },
+  {
+    "name": "WEIGHTS",
+    "id": "3321952"
+  },
+  {
+    "name": "WHEELS",
+    "id": "3499904"
+  },
+  {
+    "name": "WIRE ROD IN COILS",
+    "id": "3312445"
+  },
+  {
+    "name": "HIDES AND SKINS",
+    "id": "3071645"
+  },
+  {
+    "name": "LEATHER CLOTH",
+    "id": "3111137"
+  },
+  {
+    "name": "LEATHER GOODS",
+    "id": "3071646"
+  },
+  {
+    "name": "LEATHER REFUSE",
+    "id": "3071647"
+  },
+  {
+    "name": "PLASTIC GOODS",
+    "id": "3071644"
+  },
+  {
+    "name": "PLASTIC WASTE",
+    "id": "3041291"
+  },
+  {
+    "name": "POLYPROPYLENE",
+    "id": "3071979"
+  },
+  {
+    "name": "PVC COMPOUND",
+    "id": "2821145"
+  },
+  {
+    "name": "PVC PIPES",
+    "id": "3071976"
+  },
+  {
+    "name": "PVC POWDER",
+    "id": "3071978"
+  },
+  {
+    "name": "RUBBER CRUDE",
+    "id": "2821222"
+  },
+  {
+    "name": "RUBBER TUBES",
+    "id": "3041290"
+  },
+  {
+    "name": "RUBBER TYRES",
+    "id": "3011993"
+  },
+  {
+    "name": "ALUNITE",
+    "id": "1092992"
+  },
+  {
+    "name": "BARYTES POWDER",
+    "id": "1471111"
+  },
+  {
+    "name": "BARYTES",
+    "id": "1092993"
+  },
+  {
+    "name": "BAUXITE",
+    "id": "1051110"
+  },
+  {
+    "name": "BLUE DUST",
+    "id": "1032111"
+  },
+  {
+    "name": "BURNT LIME",
+    "id": "1032116"
+  },
+  {
+    "name": "CALCITE",
+    "id": "3295919"
+  },
+  {
+    "name": "CALIBRATED LUMP IRON ORE",
+    "id": "1011292"
+  },
+  {
+    "name": "CHEMICAL GYPSUM",
+    "id": "1491116"
+  },
+  {
+    "name": "CHROME ORE",
+    "id": "1081110"
+  },
+  {
+    "name": "DOLOMITE CHIPS",
+    "id": "1421311"
+  },
+  {
+    "name": "DOLOMITE LUMPS",
+    "id": "1421312"
+  },
+  {
+    "name": "DOLOMITE POWDER",
+    "id": "1421309"
+  },
+  {
+    "name": "DOLOMITE",
+    "id": "1421310"
+  },
+  {
+    "name": "DUNITE",
+    "id": "1421970"
+  },
+  {
+    "name": "FELSPAR",
+    "id": "1411158"
+  },
+  {
+    "name": "GYPSUM IN  LUMPS",
+    "id": "1491110"
+  },
+  {
+    "name": "GYPSUM IN POWDER",
+    "id": "1491114"
+  },
+  {
+    "name": "GYPSUM",
+    "id": "1421313"
+  },
+  {
+    "name": "HOT BRIQUETTED IRON",
+    "id": "1421315"
+  },
+  {
+    "name": "HYDRATED LIME",
+    "id": "1032114"
+  },
+  {
+    "name": "ILIMENITE ORE",
+    "id": "4025120"
+  },
+  {
+    "name": "IMPORTED IRON ORE",
+    "id": "1011295"
+  },
+  {
+    "name": "IRON ORE FINES",
+    "id": "1421318"
+  },
+  {
+    "name": "IRON ORE FOR EXPORT",
+    "id": "1032112"
+  },
+  {
+    "name": "IRON ORE LUMP",
+    "id": "1421317"
+  },
+  {
+    "name": "IRON ORE NATURAL PALLET",
+    "id": "1011293"
+  },
+  {
+    "name": "IRON ORE PELLETS",
+    "id": "1011319"
+  },
+  {
+    "name": "IRON ORE POWDER",
+    "id": "2819550"
+  },
+  {
+    "name": "IRON ORE REJECTS",
+    "id": "1421319"
+  },
+  {
+    "name": "IRON ORE",
+    "id": "1011290"
+  },
+  {
+    "name": "IRON PYRITES",
+    "id": "1471940"
+  },
+  {
+    "name": "LATERITE",
+    "id": "1011225"
+  },
+  {
+    "name": "LD AND GCP SLUDGE",
+    "id": "1032120"
+  },
+  {
+    "name": "LEAD CONCENTRATE",
+    "id": "1032119"
+  },
+  {
+    "name": "LIME NOC",
+    "id": "1032113"
+  },
+  {
+    "name": "LIME POWDER",
+    "id": "1032117"
+  },
+  {
+    "name": "LIME STONE CHIPS",
+    "id": "1421965"
+  },
+  {
+    "name": "LIME STONE POWDER/LUMPS",
+    "id": "1421316"
+  },
+  {
+    "name": "LIME STONE",
+    "id": "1421968"
+  },
+  {
+    "name": "LITHIUM ORE",
+    "id": "1491923"
+  },
+  {
+    "name": "MANGANESE ORES",
+    "id": "1061110"
+  },
+  {
+    "name": "MARINE GYPSUM",
+    "id": "913960"
+  },
+  {
+    "name": "MINERAL GYPSUM",
+    "id": "1491112"
+  },
+  {
+    "name": "MONAZITE",
+    "id": "4025122"
+  },
+  {
+    "name": "NON CALIBRATED LUMP IRON ORE",
+    "id": "1011294"
+  },
+  {
+    "name": "OLIFLUX",
+    "id": "4025121"
+  },
+  {
+    "name": "PHOSPHOGYPSUM",
+    "id": "1421974"
+  },
+  {
+    "name": "PYROXINITE",
+    "id": "1421971"
+  },
+  {
+    "name": "QUICK LIME",
+    "id": "1032115"
+  },
+  {
+    "name": "SINTER",
+    "id": "1011320"
+  },
+  {
+    "name": "SOAP STONE POWDER",
+    "id": "3281446"
+  },
+  {
+    "name": "SOAP STONE TILES",
+    "id": "3281448"
+  },
+  {
+    "name": "SOAP STONE",
+    "id": "1491520"
+  },
+  {
+    "name": "TALC POWDER",
+    "id": "1421973"
+  },
+  {
+    "name": "WOLLASTONITE",
+    "id": "3295920"
+  },
+  {
+    "name": "ZINC CONCENTRATE",
+    "id": "1032118"
+  },
+  {
+    "name": "ZINC ORES",
+    "id": "1032110"
+  },
+  {
+    "name": "AXLES WITH WHEELS",
+    "id": "3742514"
+  },
+  {
+    "name": "BOILERS",
+    "id": "3531412"
+  },
+  {
+    "name": "CRANES",
+    "id": "3531411"
+  },
+  {
+    "name": "ENGINES",
+    "id": "3511211"
+  },
+  {
+    "name": "LOCOMOTIVES UNASSEMBLED COMPONENT PARTS",
+    "id": "3741301"
+  },
+  {
+    "name": "MACHINERY PARTS",
+    "id": "3531413"
+  },
+  {
+    "name": "SEWING MACHINES",
+    "id": "3636145"
+  },
+  {
+    "name": "VEHICLES RAILWAY UNASSEMBLED COMPONENT PARTS",
+    "id": "3742518"
+  },
+  {
+    "name": "WAGONS RAILWAY UNASSEMBLED COMPONENT PARTS",
+    "id": "3742512"
+  },
+  {
+    "name": "BRASS SCRAP",
+    "id": "4021240"
+  },
+  {
+    "name": "COPPER SCRAP",
+    "id": "4021242"
+  },
+  {
+    "name": "COPPER SLAG",
+    "id": "3295279"
+  },
+  {
+    "name": "FERRO MANGANESE SLAG",
+    "id": "4021172"
+  },
+  {
+    "name": "GROUND GRANULATED BLAST",
+    "id": "FURNACE SLAG"
+  },
+  {
+    "name": "IRON AND STEEL SLAG (GRANULATED)",
+    "id": "3311292"
+  },
+  {
+    "name": "IRON AND STEEL SLAG",
+    "id": "3311291"
+  },
+  {
+    "name": "IRON PIG (PIG IRON)",
+    "id": "3311115"
+  },
+  {
+    "name": "IRON SCRAP",
+    "id": "4021244"
+  },
+  {
+    "name": "SLAG NOC",
+    "id": "1491956"
+  },
+  {
+    "name": "SLAG",
+    "id": "4021245"
+  },
+  {
+    "name": "SPONGE IRON",
+    "id": "3312946"
+  },
+  {
+    "name": "STEEL/STAINLESS STEEL SCRAP",
+    "id": "4021123"
+  },
+  {
+    "name": "COTTON SEED OIL CAKES",
+    "id": "114113"
+  },
+  {
+    "name": "COTTON SEED WASTE",
+    "id": "114114"
+  },
+  {
+    "name": "COTTON SEED",
+    "id": "114110"
+  },
+  {
+    "name": "DE",
+    "id": "OILED CAKES"
+  },
+  {
+    "name": "DE",
+    "id": "OILED RICE BRAN"
+  },
+  {
+    "name": "GINGERLY SEED",
+    "id": "114117"
+  },
+  {
+    "name": "GROUND NUT SEEDS",
+    "id": "114212"
+  },
+  {
+    "name": "LINSEED",
+    "id": "114211"
+  },
+  {
+    "name": "MUSTARD SEEDS",
+    "id": "191566"
+  },
+  {
+    "name": "OILED CAKES",
+    "id": "114924"
+  },
+  {
+    "name": "RAPE SEEDS",
+    "id": "114950"
+  },
+  {
+    "name": "SAL SEEDS",
+    "id": "114923"
+  },
+  {
+    "name": "SOYABEAN EXTRACTIONS/TOSTED MEALS/FLAKES",
+    "id": "2092303"
+  },
+  {
+    "name": "SOYABEAN",
+    "id": "114118"
+  },
+  {
+    "name": "SOYABEANS SEEDS",
+    "id": "114411"
+  },
+  {
+    "name": "SUNFLOWER SEEDS",
+    "id": "114940"
+  },
+  {
+    "name": "ALKYLATE",
+    "id": "4966974"
+  },
+  {
+    "name": "AMMONIA (ANHYDROUS LIQUEFIED GAS)",
+    "id": "2819816"
+  },
+  {
+    "name": "AMMONIA LIQUIFIED GAS",
+    "id": "2813937"
+  },
+  {
+    "name": "ANHYDROUS DENATURED ETHANOL(MEANT FOR BLENDING WITH FOSSIL FUELS)",
+    "id": "2813958"
+  },
+  {
+    "name": "ARGON GAS",
+    "id": "2813938"
+  },
+  {
+    "name": "AVIATION SPIRIT",
+    "id": "2813939"
+  },
+  {
+    "name": "AVIATION TURBINE FUEL (ATF)",
+    "id": "2813940"
+  },
+  {
+    "name": "BITUMEN",
+    "id": "2813941"
+  },
+  {
+    "name": "CARBON BLACK FEED STOCK",
+    "id": "2913239"
+  },
+  {
+    "name": "COAL TAR PITCH(SOLID)",
+    "id": "4966980"
+  },
+  {
+    "name": "COAL TAR PITCH",
+    "id": "2911638"
+  },
+  {
+    "name": "COALTAR",
+    "id": "2911637"
+  },
+  {
+    "name": "COMPRESSED GASES",
+    "id": "2813942"
+  },
+  {
+    "name": "CRUDE OIL",
+    "id": "2813943"
+  },
+  {
+    "name": "DIESEL OIL",
+    "id": "2813944"
+  },
+  {
+    "name": "FURNACE OIL",
+    "id": "2813945"
+  },
+  {
+    "name": "FUSEL OIL",
+    "id": "2818406"
+  },
+  {
+    "name": "HEXANE",
+    "id": "2813946"
+  },
+  {
+    "name": "HEXENE",
+    "id": "1"
+  },
+  {
+    "name": "HIGH SPEED DIESEL (HSD)",
+    "id": "2813947"
+  },
+  {
+    "name": "HIGH SPEED DIESEL(HSD) BLENDED WITH BIO",
+    "id": "DIESEL"
+  },
+  {
+    "name": "HYDROGENATED PYROLYSIS GASOLINE",
+    "id": "2813971"
+  },
+  {
+    "name": "LIGHT DIESEL OIL",
+    "id": "2813950"
+  },
+  {
+    "name": "LIQUEFIED NATURAL GAS",
+    "id": "2813969"
+  },
+  {
+    "name": "LIQUEFIED PETROLEUM GAS (LPG)",
+    "id": "2813949"
+  },
+  {
+    "name": "LIQUIFD PROPANE",
+    "id": "2812191"
+  },
+  {
+    "name": "LIQUIFIED BUTANE",
+    "id": "2812192"
+  },
+  {
+    "name": "LOW SULPHUR HEAVY STOCK",
+    "id": "2813951"
+  },
+  {
+    "name": "LUBRICATING OILS NOC",
+    "id": "2911491"
+  },
+  {
+    "name": "METHANE GAS",
+    "id": "2813952"
+  },
+  {
+    "name": "MINERAL TURPENTINE OIL (MTO)",
+    "id": "2813963"
+  },
+  {
+    "name": "NAPHTHA",
+    "id": "2813953"
+  },
+  {
+    "name": "NAPTHA (BARAUNI)",
+    "id": "2911998"
+  },
+  {
+    "name": "NAPTHA(KOYALI)",
+    "id": "2911994"
+  },
+  {
+    "name": "NITROGEN GAS",
+    "id": "2813954"
+  },
+  {
+    "name": "PARAFFIN OIL",
+    "id": "2813955"
+  },
+  {
+    "name": "PETROL (MOTOR SPIRIT)",
+    "id": "2813961"
+  },
+  {
+    "name": "PETROL(MOTOR SPIRIT) BLENDED WITH ETHANOL",
+    "id": "2911306"
+  },
+  {
+    "name": "REFORMAT",
+    "id": "4966976"
+  },
+  {
+    "name": "RESIDUAL FUEL OIL (RFO)",
+    "id": "2813962"
+  },
+  {
+    "name": "SUPERIOR KEROSENE OIL",
+    "id": "2911210"
+  },
+  {
+    "name": "TOLUENE",
+    "id": "2814185"
+  },
+  {
+    "name": "WAXY CRUDE OIL",
+    "id": "2814186"
+  },
+  {
+    "name": "XYLENE",
+    "id": "2814171"
+  },
+  {
+    "name": "BLACK SALT",
+    "id": "1471511"
+  },
+  {
+    "name": "EARTH SALT",
+    "id": "2899101"
+  },
+  {
+    "name": "IODISED SALT",
+    "id": "2899145"
+  },
+  {
+    "name": "NON REFINED SALT FOR HUMAN CONSUMPTION(IODISED SALT/SALT MEANT FOR IODISATION)",
+    "id": "2899123"
+  },
+  {
+    "name": "NON REFINED SALT",
+    "id": "2899122"
+  },
+  {
+    "name": "REFINED IODISED SALT",
+    "id": "2899148"
+  },
+  {
+    "name": "REFINED SALT",
+    "id": "2899121"
+  },
+  {
+    "name": "ROCK SALT",
+    "id": "1471510"
+  },
+  {
+    "name": "SALT FOR INDUSTRIAL USE",
+    "id": "2899105"
+  },
+  {
+    "name": "SALT FOR TABLE USE",
+    "id": "2899102"
+  },
+  {
+    "name": "VACUUM SALT",
+    "id": "2899104"
+  },
+  {
+    "name": "LIQUID SOAP",
+    "id": "2841990"
+  },
+  {
+    "name": "SOAP",
+    "id": "2841991"
+  },
+  {
+    "name": "SYNTHETIC DETERGENTS",
+    "id": "2841156"
+  },
+  {
+    "name": "SYNTHETIC SOAP",
+    "id": "2842000"
+  },
+  {
+    "name": "RAW CANE SUGAR",
+    "id": "2062907"
+  },
+  {
+    "name": "SUGAR (GR.A)",
+    "id": "2062910"
+  },
+  {
+    "name": "SUGAR (GR.B)",
+    "id": "2062908"
+  },
+  {
+    "name": "SUGAR (GR.C)",
+    "id": "2062909"
+  },
+  {
+    "name": "SUGAR CANDY",
+    "id": "2071120"
+  },
+  {
+    "name": "ASHES",
+    "id": "4011207"
+  },
+  {
+    "name": "BETEL NUTS",
+    "id": "2816923"
+  },
+  {
+    "name": "BIOMASS BRIQUETTES",
+    "id": "2042237"
+  },
+  {
+    "name": "CATTLE FEED",
+    "id": "2816928"
+  },
+  {
+    "name": "CHALK CALCIUM CARBONATE",
+    "id": "2816924"
+  },
+  {
+    "name": "CHALK IN LUMPS OR POWDER",
+    "id": "2816916"
+  },
+  {
+    "name": "DOLOCHAR",
+    "id": "2281184"
+  },
+  {
+    "name": "GLASS SCRAP",
+    "id": "2046622"
+  },
+  {
+    "name": "GLUCOSE",
+    "id": "2816925"
+  },
+  {
+    "name": "GUNNIES",
+    "id": "2393126"
+  },
+  {
+    "name": "GUNNY BAGS",
+    "id": "2393125"
+  },
+  {
+    "name": "HOUSEHOLD EFFECTS",
+    "id": "2816926"
+  },
+  {
+    "name": "MOLASSES SUGAR MILL(NOT KHANDSARI MOLASSES)",
+    "id": "2061694"
+  },
+  {
+    "name": "MOLASSES",
+    "id": "2816927"
+  },
+  {
+    "name": "MONO CALCIUM PHOSPHATE FOR ANIMAL AQUA AND POULTRY FEED",
+    "id": "2046625"
+  },
+  {
+    "name": "PURIFIED TEREPHTHALIC ACID(PTA)",
+    "id": "2046621"
+  },
+  {
+    "name": "PUTTY",
+    "id": "2851325"
+  },
+  {
+    "name": "REFUSE DERIVED FUEL WASTE",
+    "id": "2046627"
+  },
+  {
+    "name": "ROLL ON",
+    "id": "ROLL OFF(RORO) SERVICES"
+  },
+  {
+    "name": "SECONDARY NUTRIENT/SOIL CONDITIONER(CMS)",
+    "id": "2819162"
+  },
+  {
+    "name": "STARCH",
+    "id": "2046620"
+  },
+  {
+    "name": "WATER FOR INDUSTRIAL USE",
+    "id": "2046623"
+  },
+  {
+    "name": "BARRELS",
+    "id": "2062931"
+  },
+  {
+    "name": "BOOKS/EXERCISE BOOKS/NOTE BOOKS AND WORK BOOKS",
+    "id": "2062932"
+  },
+  {
+    "name": "COLOURS AND DYES",
+    "id": "2815615"
+  },
+  {
+    "name": "DRY BATTERIES",
+    "id": "3692140"
+  },
+  {
+    "name": "DYNAMOS",
+    "id": "3621211"
+  },
+  {
+    "name": "ELECTRIC APPLIANCES NOC",
+    "id": "3634348"
+  },
+  {
+    "name": "ELECTRIC BULBS",
+    "id": "3641126"
+  },
+  {
+    "name": "ELECTRIC FANS",
+    "id": "3634117"
+  },
+  {
+    "name": "ELECTRIC MOTORS",
+    "id": "3621110"
+  },
+  {
+    "name": "ELECTRIC PUMPS",
+    "id": "3561945"
+  },
+  {
+    "name": "ELECTRIC WIRES",
+    "id": "2062920"
+  },
+  {
+    "name": "ELECTRONIC INSTRUMENTS NOC",
+    "id": "3662158"
+  },
+  {
+    "name": "EMPTY DRUMS",
+    "id": "2062921"
+  },
+  {
+    "name": "FIRE WOOD",
+    "id": "2411715"
+  },
+  {
+    "name": "FIREWORKS",
+    "id": "2899320"
+  },
+  {
+    "name": "FUSE WIRE",
+    "id": "3613232"
+  },
+  {
+    "name": "GENERATORS, SMOKE",
+    "id": "4902952"
+  },
+  {
+    "name": "GENERATORS",
+    "id": "3621210"
+  },
+  {
+    "name": "GUR",
+    "id": "2062919"
+  },
+  {
+    "name": "JAGREE POWDER",
+    "id": "2062912"
+  },
+  {
+    "name": "JAGREE",
+    "id": "2062911"
+  },
+  {
+    "name": "JERRYCANES",
+    "id": "2062930"
+  },
+  {
+    "name": "JOINTING MATERIALS",
+    "id": "3644241"
+  },
+  {
+    "name": "JUTE CADDIES",
+    "id": "4022148"
+  },
+  {
+    "name": "JUTE",
+    "id": "2062922"
+  },
+  {
+    "name": "MILK PRODUCTS",
+    "id": "2062923"
+  },
+  {
+    "name": "MILK",
+    "id": "2026290"
+  },
+  {
+    "name": "ORGANIC MANURES",
+    "id": "2062924"
+  },
+  {
+    "name": "PAINTS AND POLISHES",
+    "id": "2062925"
+  },
+  {
+    "name": "PLYWOOD IN BOARDS, PANELS",
+    "id": "2062927"
+  },
+  {
+    "name": "SANDAL WOOD",
+    "id": "2411140"
+  },
+  {
+    "name": "SPLINTS FOR MATCHES",
+    "id": "2429926"
+  },
+  {
+    "name": "TELEVISION SETS",
+    "id": "3651215"
+  },
+  {
+    "name": "TIMBER WASTE",
+    "id": "2062928"
+  },
+  {
+    "name": "TIMBER",
+    "id": "2062926"
+  },
+  {
+    "name": "VEGETABLE OIL PITCHES",
+    "id": "2093396"
+  },
+  {
+    "name": "WATER",
+    "id": "1492210"
+  },
+  {
+    "name": "WOOD PIECES",
+    "id": "2062929"
+  },
+  {
+    "name": "BOILER COMPONENTS",
+    "id": "3443360"
+  },
+  {
+    "name": "CARD BOARDS",
+    "id": "3443363"
+  },
+  {
+    "name": "CHARCOAL",
+    "id": "3443361"
+  },
+  {
+    "name": "CYCLE OR CYCLE PARTS",
+    "id": "3519920"
+  },
+  {
+    "name": "PAPER CUTTINGS",
+    "id": "3443366"
+  },
+  {
+    "name": "PAPER IN REELS/ROLLS",
+    "id": "3443364"
+  },
+  {
+    "name": "PAPER NOC IN BUNDLES",
+    "id": "2621992"
+  },
+  {
+    "name": "PAPER SLUDGE",
+    "id": "3443367"
+  },
+  {
+    "name": "PAPER WASTE",
+    "id": "3443365"
+  },
+  {
+    "name": "PAPER",
+    "id": "3443362"
+  },
+  {
+    "name": "AGRICULTURAL WASTE OR CROP RESIDUE (PARALI, STUBBLE ETC.)",
+    "id": "2046855"
+  },
+  {
+    "name": "ALUM",
+    "id": "2819610"
+  },
+  {
+    "name": "BAGASSE",
+    "id": "2061810"
+  },
+  {
+    "name": "BAMBOO CHIPS",
+    "id": "2492113"
+  },
+  {
+    "name": "BAMBOO CRUSHED",
+    "id": "2492120"
+  },
+  {
+    "name": "BAMBOO CUTS",
+    "id": "2492114"
+  },
+  {
+    "name": "BAMBOO PULP",
+    "id": "2492112"
+  },
+  {
+    "name": "BAMBOOS",
+    "id": "2492110"
+  },
+  {
+    "name": "BANANA",
+    "id": "123210"
+  },
+  {
+    "name": "BARLEY  HUSK",
+    "id": "113110"
+  },
+  {
+    "name": "BED SHEETS",
+    "id": "2281144"
+  },
+  {
+    "name": "BHOOSA",
+    "id": "119121"
+  },
+  {
+    "name": "BROOMS",
+    "id": "3991191"
+  },
+  {
+    "name": "CHARI",
+    "id": "119122"
+  },
+  {
+    "name": "CHILLIES",
+    "id": "2099735"
+  },
+  {
+    "name": "CHUNI",
+    "id": "2041913"
+  },
+  {
+    "name": "COCONUT HUSK",
+    "id": "2042222"
+  },
+  {
+    "name": "COFFEE AND TEA",
+    "id": "2492139"
+  },
+  {
+    "name": "COIR MATS",
+    "id": "2279992"
+  },
+  {
+    "name": "COIR",
+    "id": "2299519"
+  },
+  {
+    "name": "CORIANDER(DHANIA) SEEDS",
+    "id": "191537"
+  },
+  {
+    "name": "COTTON AND OTHER TEXTILES NOC",
+    "id": "2292112"
+  },
+  {
+    "name": "COTTON HALF/FULL PRESSED",
+    "id": "2281145"
+  },
+  {
+    "name": "COTTON RAW FULL PRESSED",
+    "id": "112911"
+  },
+  {
+    "name": "COTTON RAW",
+    "id": "2281146"
+  },
+  {
+    "name": "COTTON SEED HUSK",
+    "id": "2042210"
+  },
+  {
+    "name": "DATES",
+    "id": "2071963"
+  },
+  {
+    "name": "DRY GRASS",
+    "id": "2042221"
+  },
+  {
+    "name": "EDIBLE SNACKS",
+    "id": "2042227"
+  },
+  {
+    "name": "EXTRUDED FOODS",
+    "id": "2099996"
+  },
+  {
+    "name": "FODDER AND HUSK NOC",
+    "id": "2042217"
+  },
+  {
+    "name": "FRUITS AND VEGETABLES NOC",
+    "id": "139990"
+  },
+  {
+    "name": "GARLIC",
+    "id": "131990"
+  },
+  {
+    "name": "GRAM HUSK",
+    "id": "2042211"
+  },
+  {
+    "name": "GROCERIES NOC",
+    "id": "2099515"
+  },
+  {
+    "name": "HAND SPUN YARN COTTON",
+    "id": "2281143"
+  },
+  {
+    "name": "HAY",
+    "id": "119123"
+  },
+  {
+    "name": "IV AND INSECTICIDE FLUID",
+    "id": "2042236"
+  },
+  {
+    "name": "JCB",
+    "id": "3711518"
+  },
+  {
+    "name": "JEERA",
+    "id": "2042228"
+  },
+  {
+    "name": "KHADDAR",
+    "id": "2221039"
+  },
+  {
+    "name": "KIRBY KUTTI (KUTTAR)",
+    "id": "2042223"
+  },
+  {
+    "name": "KIRBY",
+    "id": "119124"
+  },
+  {
+    "name": "LIVE STOCK",
+    "id": "2042234"
+  },
+  {
+    "name": "MAIZE FLAKES",
+    "id": "2042232"
+  },
+  {
+    "name": "MANGO",
+    "id": "123991"
+  },
+  {
+    "name": "MOTOR CARS",
+    "id": "3711517"
+  },
+  {
+    "name": "MOTOR CYCLES",
+    "id": "3519918"
+  },
+  {
+    "name": "MOTOR TRACTORS NOC",
+    "id": "3714892"
+  },
+  {
+    "name": "MOTOR VEHICLES",
+    "id": "2042235"
+  },
+  {
+    "name": "ONIONS",
+    "id": "131810"
+  },
+  {
+    "name": "ORANGE",
+    "id": "121410"
+  },
+  {
+    "name": "PADDY HUSK",
+    "id": "2041712"
+  },
+  {
+    "name": "PEAS HUSK",
+    "id": "2042224"
+  },
+  {
+    "name": "PEPPER",
+    "id": "2042229"
+  },
+  {
+    "name": "PICKLES (INDIGENOUS)",
+    "id": "2035290"
+  },
+  {
+    "name": "POTATOES SWEET",
+    "id": "119410"
+  },
+  {
+    "name": "POTATOES",
+    "id": "119510"
+  },
+  {
+    "name": "RICE FLAKES",
+    "id": "2042233"
+  },
+  {
+    "name": "RICE PARCHED",
+    "id": "2043166"
+  },
+  {
+    "name": "RIG MOUNTED TRUCKS",
+    "id": "3711519"
+  },
+  {
+    "name": "SAGO COMMON",
+    "id": "2046635"
+  },
+  {
+    "name": "SILK",
+    "id": "2281147"
+  },
+  {
+    "name": "SOYA PROTEIN TEXTURED",
+    "id": "2042230"
+  },
+  {
+    "name": "SPICES",
+    "id": "2042231"
+  },
+  {
+    "name": "STICKS",
+    "id": "2492138"
+  },
+  {
+    "name": "SUGAR CANE",
+    "id": "119810"
+  },
+  {
+    "name": "SYNTHETIC YARNS",
+    "id": "2281148"
+  },
+  {
+    "name": "TENDER COCONUT",
+    "id": "119411"
+  },
+  {
+    "name": "TOOR HUSK",
+    "id": "2041711"
+  },
+  {
+    "name": "TOWELS",
+    "id": "2281178"
+  },
+  {
+    "name": "TRUCK MIXERS",
+    "id": "3711520"
+  },
+  {
+    "name": "TURMERIC",
+    "id": "191536"
+  },
+  {
+    "name": "VISCOSE STAPLE FIBRE(VSF)",
+    "id": "2281180"
+  },
+  {
+    "name": "WHEAT BRAN(CHOKAR)",
+    "id": "2042225"
+  },
+  {
+    "name": "WOOL",
+    "id": "2281179"
+  }
+]

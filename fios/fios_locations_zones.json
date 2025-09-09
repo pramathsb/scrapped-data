@@ -1,0 +1,74 @@
+[
+  {
+    "code": "CR",
+    "name": "CENTRAL RAILWAY"
+  },
+  {
+    "code": "DFCR",
+    "name": "DEDICATED FREIGHT CORRIDOR RAILWAY"
+  },
+  {
+    "code": "EC",
+    "name": "EAST CENTRAL RAILWAY"
+  },
+  {
+    "code": "ECO",
+    "name": "EAST COAST RAILWAY"
+  },
+  {
+    "code": "ER",
+    "name": "EASTERN RAILWAY"
+  },
+  {
+    "code": "KR",
+    "name": "KONKAN RAILWAYS CORPORATION  LTD"
+  },
+  {
+    "code": "NC",
+    "name": "NORTH CENTRAL RAILWAY"
+  },
+  {
+    "code": "NE",
+    "name": "NORTH EASTERN"
+  },
+  {
+    "code": "NF",
+    "name": "NORTHEAST FRONTIER"
+  },
+  {
+    "code": "NR",
+    "name": "NORTHERN RAILWAY"
+  },
+  {
+    "code": "NW",
+    "name": "NORTH WESTERN RAILWAY"
+  },
+  {
+    "code": "SC",
+    "name": "SOUTH CENTRAL"
+  },
+  {
+    "code": "SE",
+    "name": "SOUTH EASTERN"
+  },
+  {
+    "code": "SEC",
+    "name": "SOUTH EAST CENTRAL RAILWAY"
+  },
+  {
+    "code": "SR",
+    "name": "SOUTHERN RAILWAY"
+  },
+  {
+    "code": "SW",
+    "name": "SOUTH WESTERN RAILWAY"
+  },
+  {
+    "code": "WC",
+    "name": "WEST CENTRAL RAILWAY "
+  },
+  {
+    "code": "WR",
+    "name": "WESTERN RAILWAY"
+  }
+]

@@ -1,0 +1,3070 @@
+[
+  {
+    "name": "ABR",
+    "code": "ABU ROAD"
+  },
+  {
+    "name": "AH",
+    "code": "ACHHNERA JN."
+  },
+  {
+    "name": "ADB",
+    "code": "ADILABAD"
+  },
+  {
+    "name": "AD",
+    "code": "ADONI"
+  },
+  {
+    "name": "ADRA",
+    "code": "ADRA JN."
+  },
+  {
+    "name": "AGTL",
+    "code": "AGARTALA"
+  },
+  {
+    "name": "AGC",
+    "code": "AGRA CANT JN."
+  },
+  {
+    "name": "AF",
+    "code": "AGRA FORT"
+  },
+  {
+    "name": "ANG",
+    "code": "AHMADNAGAR"
+  },
+  {
+    "name": "ADI",
+    "code": "AHMEDABAD JN."
+  },
+  {
+    "name": "ASH",
+    "code": "AISH BAGH JN."
+  },
+  {
+    "name": "AII",
+    "code": "AJMER JN."
+  },
+  {
+    "name": "AJNI",
+    "code": "AJNI"
+  },
+  {
+    "name": "AKVD",
+    "code": "AKIVIDU"
+  },
+  {
+    "name": "AK",
+    "code": "AKOLA JN."
+  },
+  {
+    "name": "ALJN",
+    "code": "ALIGARH JN."
+  },
+  {
+    "name": "APDJ",
+    "code": "ALIPUR DUAR JN."
+  },
+  {
+    "name": "ALY",
+    "code": "ALLAHABAD CITY"
+  },
+  {
+    "name": "ALD",
+    "code": "ALLAHABAD JN."
+  },
+  {
+    "name": "ALLP",
+    "code": "ALLEPPEY"
+  },
+  {
+    "name": "AWR",
+    "code": "ALWAR JN."
+  },
+  {
+    "name": "AWY",
+    "code": "ALWAYE"
+  },
+  {
+    "name": "AN",
+    "code": "AMALNER"
+  },
+  {
+    "name": "UMB",
+    "code": "AMBALA CANT JN."
+  },
+  {
+    "name": "ABKP",
+    "code": "AMBIKAPUR"
+  },
+  {
+    "name": "AMB",
+    "code": "AMBODALA"
+  },
+  {
+    "name": "AMI",
+    "code": "AMRAVATI"
+  },
+  {
+    "name": "ASR",
+    "code": "AMRITSAR JN."
+  },
+  {
+    "name": "AMRO",
+    "code": "AMROHA"
+  },
+  {
+    "name": "AKP",
+    "code": "ANAKAPALLE"
+  },
+  {
+    "name": "ANND",
+    "code": "ANAND JN."
+  },
+  {
+    "name": "ANVT",
+    "code": "ANAND VIHAR TERMINAL"
+  },
+  {
+    "name": "ATP",
+    "code": "ANANTAPUR"
+  },
+  {
+    "name": "ANT",
+    "code": "ANANTNAG"
+  },
+  {
+    "name": "ANR",
+    "code": "ANARA JN."
+  },
+  {
+    "name": "AFK",
+    "code": "ANGAMALI (FOR KALADI)"
+  },
+  {
+    "name": "ANGL",
+    "code": "ANGUL"
+  },
+  {
+    "name": "AKV",
+    "code": "ANKLESHWAR JN."
+  },
+  {
+    "name": "APR",
+    "code": "ANUPPUR JN."
+  },
+  {
+    "name": "AJJ",
+    "code": "ARAKKONAM JN."
+  },
+  {
+    "name": "ASK",
+    "code": "ARSIKERE JN."
+  },
+  {
+    "name": "ASN",
+    "code": "ASANSOL JN."
+  },
+  {
+    "name": "ASKN",
+    "code": "ASHOK NAGAR"
+  },
+  {
+    "name": "ATT",
+    "code": "ATARI"
+  },
+  {
+    "name": "AWB",
+    "code": "AURANGABAD"
+  },
+  {
+    "name": "AMH",
+    "code": "AZAM GARH"
+  },
+  {
+    "name": "ACLE",
+    "code": "AZIMGANJ CITY"
+  },
+  {
+    "name": "AZ",
+    "code": "AZIMGANJ JN."
+  },
+  {
+    "name": "BCA",
+    "code": "BACHWARA JN."
+  },
+  {
+    "name": "BPB",
+    "code": "BADARPUR JN."
+  },
+  {
+    "name": "BD",
+    "code": "BADNERA JN."
+  },
+  {
+    "name": "BGK",
+    "code": "BAGALKOT"
+  },
+  {
+    "name": "BHI",
+    "code": "BAHERI"
+  },
+  {
+    "name": "BRK",
+    "code": "BAHRAICH"
+  },
+  {
+    "name": "BYPL",
+    "code": "BAIYYAPPANAHALLI"
+  },
+  {
+    "name": "BLGR",
+    "code": "BALANGIR"
+  },
+  {
+    "name": "BLS",
+    "code": "BALASORE"
+  },
+  {
+    "name": "BPQ",
+    "code": "BALHARSHAH"
+  },
+  {
+    "name": "BUI",
+    "code": "BALLIA"
+  },
+  {
+    "name": "BLT",
+    "code": "BALOTRA JN."
+  },
+  {
+    "name": "BLP",
+    "code": "BALRAMPUR"
+  },
+  {
+    "name": "BMB",
+    "code": "BAMRA"
+  },
+  {
+    "name": "BAND",
+    "code": "BANASWADI"
+  },
+  {
+    "name": "BNDA",
+    "code": "BANDA JN."
+  },
+  {
+    "name": "BDC",
+    "code": "BANDEL JN."
+  },
+  {
+    "name": "BDTS",
+    "code": "BANDRA TERMINUS"
+  },
+  {
+    "name": "BNC",
+    "code": "BANGALORE CANTT."
+  },
+  {
+    "name": "SBC",
+    "code": "BANGALORE CITY JN."
+  },
+  {
+    "name": "BWT",
+    "code": "BANGARPET JN."
+  },
+  {
+    "name": "BAHL",
+    "code": "BANIHAL"
+  },
+  {
+    "name": "BQA",
+    "code": "BANKURA JN."
+  },
+  {
+    "name": "BPP",
+    "code": "BAPATIA"
+  },
+  {
+    "name": "BMKI",
+    "code": "BAPUDHAM MOTIHARI"
+  },
+  {
+    "name": "BBM",
+    "code": "BARABHUM"
+  },
+  {
+    "name": "BAZ",
+    "code": "BARAN"
+  },
+  {
+    "name": "BJU",
+    "code": "BARAUNI JN."
+  },
+  {
+    "name": "BBN",
+    "code": "BARBIL"
+  },
+  {
+    "name": "BWN",
+    "code": "BARDDHAMAN JN."
+  },
+  {
+    "name": "BC",
+    "code": "BAREILLY CITY"
+  },
+  {
+    "name": "BE",
+    "code": "BAREILLY JN."
+  },
+  {
+    "name": "BRGA",
+    "code": "BARGARH ROAD"
+  },
+  {
+    "name": "BRGW",
+    "code": "BARGAWAN"
+  },
+  {
+    "name": "BHW",
+    "code": "BARHARWA JN."
+  },
+  {
+    "name": "BRKA",
+    "code": "BARKA KANA JN."
+  },
+  {
+    "name": "BRLF",
+    "code": "BARLANGFER"
+  },
+  {
+    "name": "BME",
+    "code": "BARMER"
+  },
+  {
+    "name": "BXP",
+    "code": "BARPATHAR"
+  },
+  {
+    "name": "BPRD",
+    "code": "BARPETA ROAD"
+  },
+  {
+    "name": "BWR",
+    "code": "BARWA SAGAR"
+  },
+  {
+    "name": "BST",
+    "code": "BASTI"
+  },
+  {
+    "name": "BAT",
+    "code": "BATALA JN."
+  },
+  {
+    "name": "BXN",
+    "code": "BAYANA JN."
+  },
+  {
+    "name": "BER",
+    "code": "BEAWAR"
+  },
+  {
+    "name": "BVV",
+    "code": "BEDETTI"
+  },
+  {
+    "name": "BGS",
+    "code": "BEGU SARAI"
+  },
+  {
+    "name": "BPA",
+    "code": "BELAMPALLI"
+  },
+  {
+    "name": "BAP",
+    "code": "BELAPUR"
+  },
+  {
+    "name": "BLDA",
+    "code": "BELDA"
+  },
+  {
+    "name": "BGM",
+    "code": "BELGAUM"
+  },
+  {
+    "name": "BAY",
+    "code": "BELLARY JN."
+  },
+  {
+    "name": "BEHR",
+    "code": "BEOHARI"
+  },
+  {
+    "name": "BAM",
+    "code": "BERHAMPUR"
+  },
+  {
+    "name": "BTH",
+    "code": "BETTIAH"
+  },
+  {
+    "name": "BZU",
+    "code": "BETUL"
+  },
+  {
+    "name": "BDCR",
+    "code": "BHADRACHALAM ROAD"
+  },
+  {
+    "name": "BHC",
+    "code": "BHADRAKH"
+  },
+  {
+    "name": "VAA",
+    "code": "BHAGA"
+  },
+  {
+    "name": "BGP",
+    "code": "BHAGALPUR JN."
+  },
+  {
+    "name": "BGKT",
+    "code": "BHAGAT KI KOTHI"
+  },
+  {
+    "name": "BHRB",
+    "code": "BHAIRABI"
+  },
+  {
+    "name": "BTE",
+    "code": "BHARATPUR JN."
+  },
+  {
+    "name": "BH",
+    "code": "BHARUCH JN."
+  },
+  {
+    "name": "BTI",
+    "code": "BHATINDA JN."
+  },
+  {
+    "name": "BVC",
+    "code": "BHAVNAGAR TERMINUS"
+  },
+  {
+    "name": "BWM",
+    "code": "BHAWANI MANDI"
+  },
+  {
+    "name": "BHGN",
+    "code": "BHILGAON"
+  },
+  {
+    "name": "BHL",
+    "code": "BHILWARA"
+  },
+  {
+    "name": "BVRM",
+    "code": "BHIMAVARAM JN."
+  },
+  {
+    "name": "BVRT",
+    "code": "BHIMAVARAM TOWN"
+  },
+  {
+    "name": "BIX",
+    "code": "BHIND"
+  },
+  {
+    "name": "BNW",
+    "code": "BHIWANI JN."
+  },
+  {
+    "name": "BOJ",
+    "code": "BHOJO"
+  },
+  {
+    "name": "BPL",
+    "code": "BHOPAL JN."
+  },
+  {
+    "name": "BBS",
+    "code": "BHUBANESWAR"
+  },
+  {
+    "name": "BHUJ",
+    "code": "BHUJ"
+  },
+  {
+    "name": "BSL",
+    "code": "BHUSAVAL JN."
+  },
+  {
+    "name": "BIDR",
+    "code": "BIDAR"
+  },
+  {
+    "name": "BJP",
+    "code": "BIJAPUR"
+  },
+  {
+    "name": "BKN",
+    "code": "BIKANER JN."
+  },
+  {
+    "name": "BSP",
+    "code": "BILASPUR JN."
+  },
+  {
+    "name": "BIM",
+    "code": "BILIMORA JN."
+  },
+  {
+    "name": "BINA",
+    "code": "BINA JN."
+  },
+  {
+    "name": "RRB",
+    "code": "BIRUR JN."
+  },
+  {
+    "name": "VSU",
+    "code": "BISHNUPUR"
+  },
+  {
+    "name": "VBL",
+    "code": "BOBBILI JN."
+  },
+  {
+    "name": "BXJ",
+    "code": "BOKAJAN"
+  },
+  {
+    "name": "BKSC",
+    "code": "BOKARO STEEL CITY"
+  },
+  {
+    "name": "BHP",
+    "code": "BOLPUR"
+  },
+  {
+    "name": "BFD",
+    "code": "BORHAT"
+  },
+  {
+    "name": "BVI",
+    "code": "BORIVALI"
+  },
+  {
+    "name": "BTD",
+    "code": "BOTAD JN."
+  },
+  {
+    "name": "BDGM",
+    "code": "BUDGAM"
+  },
+  {
+    "name": "BSC",
+    "code": "BULANDSHAHR"
+  },
+  {
+    "name": "BAU",
+    "code": "BURHANPUR"
+  },
+  {
+    "name": "BUW",
+    "code": "BURHWAL JN."
+  },
+  {
+    "name": "BYD",
+    "code": "BYADGI"
+  },
+  {
+    "name": "KOP",
+    "code": "CH. SAHU MAHARAJ TRML"
+  },
+  {
+    "name": "CBSA",
+    "code": "CHAIBASA"
+  },
+  {
+    "name": "CKP",
+    "code": "CHAKRADHARPUR"
+  },
+  {
+    "name": "CPH",
+    "code": "CHAMPA JN."
+  },
+  {
+    "name": "CH",
+    "code": "CHANDAUSI JN."
+  },
+  {
+    "name": "CNA",
+    "code": "CHANDERIYA"
+  },
+  {
+    "name": "CDG",
+    "code": "CHANDIGARH"
+  },
+  {
+    "name": "CDGR",
+    "code": "CHANDRA KONA ROAD"
+  },
+  {
+    "name": "CPT",
+    "code": "CHANNA PATNA"
+  },
+  {
+    "name": "CPK",
+    "code": "CHAPARMUKH JN."
+  },
+  {
+    "name": "CMU",
+    "code": "CHAU MAHLA"
+  },
+  {
+    "name": "MAS",
+    "code": "CHENNAI CENTRAL"
+  },
+  {
+    "name": "MS",
+    "code": "CHENNAI EGMORE"
+  },
+  {
+    "name": "CAG",
+    "code": "CHHABRA GUGOR"
+  },
+  {
+    "name": "CPR",
+    "code": "CHHAPRA JN."
+  },
+  {
+    "name": "CYI",
+    "code": "CHHAYA PURI"
+  },
+  {
+    "name": "CWA",
+    "code": "CHHINDWARA JN."
+  },
+  {
+    "name": "CBP",
+    "code": "CHIKBALLAPUR"
+  },
+  {
+    "name": "CLX",
+    "code": "CHIRALA"
+  },
+  {
+    "name": "CKTD",
+    "code": "CHITRAKUT DHAMKARWI"
+  },
+  {
+    "name": "COR",
+    "code": "CHITTAURGARH"
+  },
+  {
+    "name": "CTO",
+    "code": "CHITTOOR"
+  },
+  {
+    "name": "CJA",
+    "code": "CHONGAJAN"
+  },
+  {
+    "name": "CPU",
+    "code": "CHOPAN"
+  },
+  {
+    "name": "CAR",
+    "code": "CHUNAR JN."
+  },
+  {
+    "name": "CUR",
+    "code": "CHURU"
+  },
+  {
+    "name": "CBE",
+    "code": "COIMBATORE JN."
+  },
+  {
+    "name": "HX",
+    "code": "CUDDAPAH"
+  },
+  {
+    "name": "CBM",
+    "code": "CUMBUM"
+  },
+  {
+    "name": "CTC",
+    "code": "CUTTACK JN."
+  },
+  {
+    "name": "DRD",
+    "code": "DAHANU ROAD"
+  },
+  {
+    "name": "DHD",
+    "code": "DAHOD"
+  },
+  {
+    "name": "DTO",
+    "code": "DALTONGANJ"
+  },
+  {
+    "name": "DMO",
+    "code": "DAMOH"
+  },
+  {
+    "name": "DNR",
+    "code": "DANAPUR"
+  },
+  {
+    "name": "DBG",
+    "code": "DARBHANGA JN."
+  },
+  {
+    "name": "DD",
+    "code": "DAUND JN."
+  },
+  {
+    "name": "DVG",
+    "code": "DAVANGERE"
+  },
+  {
+    "name": "DNA",
+    "code": "DEGANA JN."
+  },
+  {
+    "name": "DDN",
+    "code": "DEHRADUN"
+  },
+  {
+    "name": "DKGN",
+    "code": "DEKAGRAON"
+  },
+  {
+    "name": "DKZ",
+    "code": "DELHI"
+  },
+  {
+    "name": "DLI",
+    "code": "DELHI JN."
+  },
+  {
+    "name": "DEE",
+    "code": "DELHI SARAI ROHILLA"
+  },
+  {
+    "name": "DBD",
+    "code": "DEOBAND"
+  },
+  {
+    "name": "DGHR",
+    "code": "DEOGHAR"
+  },
+  {
+    "name": "DEOS",
+    "code": "DEORIA SADAR"
+  },
+  {
+    "name": "DVL",
+    "code": "DEVLALI"
+  },
+  {
+    "name": "DWX",
+    "code": "DEWAS"
+  },
+  {
+    "name": "DPR",
+    "code": "DHAMPUR"
+  },
+  {
+    "name": "DHN",
+    "code": "DHANBAD JN."
+  },
+  {
+    "name": "DXG",
+    "code": "DHARAN GAON"
+  },
+  {
+    "name": "DAB",
+    "code": "DHARMABAD"
+  },
+  {
+    "name": "DMR",
+    "code": "DHARMANAGAR"
+  },
+  {
+    "name": "DPJ",
+    "code": "DHARMAPURI"
+  },
+  {
+    "name": "DMM",
+    "code": "DHARMAVARAM JN."
+  },
+  {
+    "name": "DWR",
+    "code": "DHARWAD"
+  },
+  {
+    "name": "DHO",
+    "code": "DHAULPUR JN."
+  },
+  {
+    "name": "DNKL",
+    "code": "DHENKANAL"
+  },
+  {
+    "name": "DHNE",
+    "code": "DHONE JN"
+  },
+  {
+    "name": "DBB",
+    "code": "DHUBRI"
+  },
+  {
+    "name": "DGLE",
+    "code": "DHULIANGANGA"
+  },
+  {
+    "name": "DQG",
+    "code": "DHUPGURI"
+  },
+  {
+    "name": "DUI",
+    "code": "DHURI JN."
+  },
+  {
+    "name": "DBRG",
+    "code": "DIBRUGARH"
+  },
+  {
+    "name": "DBRT",
+    "code": "DIBRUGARH TOWN"
+  },
+  {
+    "name": "DMT",
+    "code": "DIGUVAMETTA"
+  },
+  {
+    "name": "DMV",
+    "code": "DIMAPUR"
+  },
+  {
+    "name": "DG",
+    "code": "DINDIGUL JN."
+  },
+  {
+    "name": "DHH",
+    "code": "DINHATA"
+  },
+  {
+    "name": "DPU",
+    "code": "DIPHU"
+  },
+  {
+    "name": "DADN",
+    "code": "DR. AMBEDKAR NAGAR"
+  },
+  {
+    "name": "DJG",
+    "code": "DULIAJAN"
+  },
+  {
+    "name": "DURG",
+    "code": "DURG JN."
+  },
+  {
+    "name": "DGR",
+    "code": "DURGAPUR"
+  },
+  {
+    "name": "EE",
+    "code": "ELURU"
+  },
+  {
+    "name": "ERS",
+    "code": "ERNAKULAM JN."
+  },
+  {
+    "name": "ERN",
+    "code": "ERNAKULAM TOWN"
+  },
+  {
+    "name": "ED",
+    "code": "ERODE JN."
+  },
+  {
+    "name": "ETW",
+    "code": "ETAWAH"
+  },
+  {
+    "name": "FD",
+    "code": "FAIZABAD JN."
+  },
+  {
+    "name": "FKM",
+    "code": "FAKIRAGRAM JN."
+  },
+  {
+    "name": "FLK",
+    "code": "FALAKATA"
+  },
+  {
+    "name": "FA",
+    "code": "FALNA"
+  },
+  {
+    "name": "FDK",
+    "code": "FARIDKOT"
+  },
+  {
+    "name": "FBD",
+    "code": "FARRUKHABAD"
+  },
+  {
+    "name": "FN",
+    "code": "FARUKHNAGAR"
+  },
+  {
+    "name": "FTP",
+    "code": "FATEHPUR"
+  },
+  {
+    "name": "FKA",
+    "code": "FAZILKA JN."
+  },
+  {
+    "name": "FZD",
+    "code": "FIROZABAD"
+  },
+  {
+    "name": "FZR",
+    "code": "FIROZPUR CANTT JN."
+  },
+  {
+    "name": "FBG",
+    "code": "FORBESGANJ JN."
+  },
+  {
+    "name": "FKG",
+    "code": "FURKATING JN."
+  },
+  {
+    "name": "GDG",
+    "code": "GADAG JN."
+  },
+  {
+    "name": "GAR",
+    "code": "GADARWARA"
+  },
+  {
+    "name": "GWD",
+    "code": "GADWAL"
+  },
+  {
+    "name": "GIMB",
+    "code": "GANDHIDHAM JN."
+  },
+  {
+    "name": "GAJ",
+    "code": "GANESH GANJ"
+  },
+  {
+    "name": "GGC",
+    "code": "GANGAPUR CITY"
+  },
+  {
+    "name": "BAQ",
+    "code": "GANJ BASODA"
+  },
+  {
+    "name": "GBA",
+    "code": "GARHBETA"
+  },
+  {
+    "name": "GHH",
+    "code": "GARHI HARSARU JN."
+  },
+  {
+    "name": "GHQ",
+    "code": "GARHWA"
+  },
+  {
+    "name": "GHD",
+    "code": "GARWA ROAD JN."
+  },
+  {
+    "name": "GAYA",
+    "code": "GAYA JN."
+  },
+  {
+    "name": "GPB",
+    "code": "GHATPRABHA"
+  },
+  {
+    "name": "GCT",
+    "code": "GHAZIPUR CITY"
+  },
+  {
+    "name": "GVD",
+    "code": "GHOLVAD"
+  },
+  {
+    "name": "GID",
+    "code": "GIDDALUR"
+  },
+  {
+    "name": "GVN",
+    "code": "GODAVRI"
+  },
+  {
+    "name": "GDA",
+    "code": "GODHRA JN."
+  },
+  {
+    "name": "GLP",
+    "code": "GOLLAPROLU"
+  },
+  {
+    "name": "GMO",
+    "code": "GOMOH JN."
+  },
+  {
+    "name": "GD",
+    "code": "GONDA JN."
+  },
+  {
+    "name": "G",
+    "code": "GONDIA JN."
+  },
+  {
+    "name": "GY",
+    "code": "GOOTY JN."
+  },
+  {
+    "name": "GKP",
+    "code": "GORAKHPUR JN."
+  },
+  {
+    "name": "GOGH",
+    "code": "GOSAIGAON HAT"
+  },
+  {
+    "name": "GDV",
+    "code": "GUDIVADA JN."
+  },
+  {
+    "name": "GDR",
+    "code": "GUDUR JN."
+  },
+  {
+    "name": "GUNA",
+    "code": "GUNA JN."
+  },
+  {
+    "name": "GTL",
+    "code": "GUNTAKAL JN."
+  },
+  {
+    "name": "GNT",
+    "code": "GUNTUR JN."
+  },
+  {
+    "name": "GHY",
+    "code": "GUWAHATI"
+  },
+  {
+    "name": "GWL",
+    "code": "GWALIOR JN."
+  },
+  {
+    "name": "HBJ",
+    "code": "HABIBGANJ"
+  },
+  {
+    "name": "HBN",
+    "code": "HAIBARGAON"
+  },
+  {
+    "name": "HJP",
+    "code": "HAJIPUR JN."
+  },
+  {
+    "name": "HDB",
+    "code": "HALDIBARI"
+  },
+  {
+    "name": "HMH",
+    "code": "HANUMANGARH JN."
+  },
+  {
+    "name": "HPU",
+    "code": "HAPUR JN."
+  },
+  {
+    "name": "HD",
+    "code": "HARDA"
+  },
+  {
+    "name": "HRI",
+    "code": "HARDOI"
+  },
+  {
+    "name": "HW",
+    "code": "HARIDWAR"
+  },
+  {
+    "name": "HCR",
+    "code": "HARISH CHANDARAPUR"
+  },
+  {
+    "name": "HAS",
+    "code": "HASSAN JN."
+  },
+  {
+    "name": "HTC",
+    "code": "HATHRAS CITY"
+  },
+  {
+    "name": "HTE",
+    "code": "HATIA"
+  },
+  {
+    "name": "HVR",
+    "code": "HAVERI"
+  },
+  {
+    "name": "NZM",
+    "code": "HAZRAT NIZAM"
+  },
+  {
+    "name": "HIJ",
+    "code": "HIJLI"
+  },
+  {
+    "name": "HAN",
+    "code": "HINDAUN CITY (HAN)"
+  },
+  {
+    "name": "HUP",
+    "code": "HINDUPUR"
+  },
+  {
+    "name": "HNL",
+    "code": "HINGOLI(DECCAN)"
+  },
+  {
+    "name": "HSR",
+    "code": "HISSAR JN."
+  },
+  {
+    "name": "HJI",
+    "code": "HOJAI"
+  },
+  {
+    "name": "HSX",
+    "code": "HOSHIARPUR"
+  },
+  {
+    "name": "HPT",
+    "code": "HOSPET JN."
+  },
+  {
+    "name": "HSRA",
+    "code": "HOSUR"
+  },
+  {
+    "name": "HWH",
+    "code": "HOWRAH JN."
+  },
+  {
+    "name": "UBL",
+    "code": "HUBLI JN."
+  },
+  {
+    "name": "HYB",
+    "code": "HYDERABAD DECCAN"
+  },
+  {
+    "name": "IPM",
+    "code": "ICHCHA PURAM"
+  },
+  {
+    "name": "IGP",
+    "code": "IGAT PURI"
+  },
+  {
+    "name": "INDB",
+    "code": "INDORE JN."
+  },
+  {
+    "name": "IJK",
+    "code": "IRINJALAKUDA"
+  },
+  {
+    "name": "ET",
+    "code": "ITARSI JN."
+  },
+  {
+    "name": "ITR",
+    "code": "ITWARI JN."
+  },
+  {
+    "name": "JBP",
+    "code": "JABALPUR JN."
+  },
+  {
+    "name": "JDB",
+    "code": "JAGADALPUR"
+  },
+  {
+    "name": "JID",
+    "code": "JAGI ROAD"
+  },
+  {
+    "name": "JP",
+    "code": "JAIPUR JN."
+  },
+  {
+    "name": "JSM",
+    "code": "JAISALMER"
+  },
+  {
+    "name": "JJKR",
+    "code": "JAJPUR KEONJHAR ROAD"
+  },
+  {
+    "name": "JRC",
+    "code": "JALANDHAR CANTT JN."
+  },
+  {
+    "name": "JUC",
+    "code": "JALANDHAR CITY JN."
+  },
+  {
+    "name": "JSC",
+    "code": "JALESAR CITY"
+  },
+  {
+    "name": "JER",
+    "code": "JALESWAR"
+  },
+  {
+    "name": "JL",
+    "code": "JALGAON JN."
+  },
+  {
+    "name": "J",
+    "code": "JALNA"
+  },
+  {
+    "name": "JPG",
+    "code": "JALPAIGURI"
+  },
+  {
+    "name": "JAM",
+    "code": "JAM NAGAR JN."
+  },
+  {
+    "name": "JMP",
+    "code": "JAMALPUR JN."
+  },
+  {
+    "name": "JMKT",
+    "code": "JAMIKUNTA"
+  },
+  {
+    "name": "JAT",
+    "code": "JAMMU TAWI"
+  },
+  {
+    "name": "JAO",
+    "code": "JAORA"
+  },
+  {
+    "name": "JRJ",
+    "code": "JARGAON"
+  },
+  {
+    "name": "JSME",
+    "code": "JASIDIH JN."
+  },
+  {
+    "name": "JNU",
+    "code": "JAUNPUR JN."
+  },
+  {
+    "name": "JYG",
+    "code": "JAYNAGAR"
+  },
+  {
+    "name": "JJR",
+    "code": "JEJURI"
+  },
+  {
+    "name": "JAJ",
+    "code": "JHAJHA"
+  },
+  {
+    "name": "JAA",
+    "code": "JHALIDA"
+  },
+  {
+    "name": "JHS",
+    "code": "JHANSI JN."
+  },
+  {
+    "name": "JSG",
+    "code": "JHARSUGUDA JN."
+  },
+  {
+    "name": "JSGR",
+    "code": "JHARSUGUDA ROAD"
+  },
+  {
+    "name": "JIND",
+    "code": "JIND JN."
+  },
+  {
+    "name": "JU",
+    "code": "JODHPUR JN."
+  },
+  {
+    "name": "JBN",
+    "code": "JOGBANI"
+  },
+  {
+    "name": "JTJ",
+    "code": "JOLARPETTAI JN."
+  },
+  {
+    "name": "JTTN",
+    "code": "JORHAT TOWN"
+  },
+  {
+    "name": "JND",
+    "code": "JUNAGADH JN."
+  },
+  {
+    "name": "KCG",
+    "code": "KACHEGUDA"
+  },
+  {
+    "name": "KRY",
+    "code": "KADIRI"
+  },
+  {
+    "name": "KKLR",
+    "code": "KAIKALUR"
+  },
+  {
+    "name": "COA",
+    "code": "KAKINADA PORT"
+  },
+  {
+    "name": "CCT",
+    "code": "KAKINADA TOWN"
+  },
+  {
+    "name": "KLBG",
+    "code": "KALABURAGI"
+  },
+  {
+    "name": "KLK",
+    "code": "KALKA"
+  },
+  {
+    "name": "KYN",
+    "code": "KALYAN JN."
+  },
+  {
+    "name": "KYQ",
+    "code": "KAMAKHYA"
+  },
+  {
+    "name": "KAMG",
+    "code": "KAMAKHYA GURI"
+  },
+  {
+    "name": "KKM",
+    "code": "KAMALAPURAM"
+  },
+  {
+    "name": "KMC",
+    "code": "KAMAREDDI"
+  },
+  {
+    "name": "KKF",
+    "code": "KANKARIA"
+  },
+  {
+    "name": "KJN",
+    "code": "KANNAUJ"
+  },
+  {
+    "name": "CAPE",
+    "code": "KANNIYA KUMARI"
+  },
+  {
+    "name": "CAN",
+    "code": "KANNORE"
+  },
+  {
+    "name": "CPA",
+    "code": "KANPUR (ANWAR GANJ)"
+  },
+  {
+    "name": "CNB",
+    "code": "KANPUR CENTRAL JN."
+  },
+  {
+    "name": "KBJ",
+    "code": "KANTABANJI"
+  },
+  {
+    "name": "CPJ",
+    "code": "KAPTANGANJ JN."
+  },
+  {
+    "name": "KRD",
+    "code": "KARAD"
+  },
+  {
+    "name": "KIK",
+    "code": "KARAIKAL"
+  },
+  {
+    "name": "KEB",
+    "code": "KARAM BELI"
+  },
+  {
+    "name": "KY",
+    "code": "KARELI"
+  },
+  {
+    "name": "KXJ",
+    "code": "KARIMGANJ JN."
+  },
+  {
+    "name": "KRR",
+    "code": "KARUR JN."
+  },
+  {
+    "name": "KGQ",
+    "code": "KASARAGOD"
+  },
+  {
+    "name": "KSJ",
+    "code": "KASGANJ JN."
+  },
+  {
+    "name": "KPV",
+    "code": "KASHI PUR JN."
+  },
+  {
+    "name": "KGM",
+    "code": "KATHGODAM"
+  },
+  {
+    "name": "KIR",
+    "code": "KATIHAR JN."
+  },
+  {
+    "name": "KTE",
+    "code": "KATNI JN."
+  },
+  {
+    "name": "KMZ",
+    "code": "KATNI MURWARA"
+  },
+  {
+    "name": "KPD",
+    "code": "KATPADI JN."
+  },
+  {
+    "name": "KWAE",
+    "code": "KATWA JN."
+  },
+  {
+    "name": "KVZ",
+    "code": "KAVALI"
+  },
+  {
+    "name": "KYJ",
+    "code": "KAYANKULAM JN."
+  },
+  {
+    "name": "KZJ",
+    "code": "KAZIPET JN."
+  },
+  {
+    "name": "KSD",
+    "code": "KESHOD"
+  },
+  {
+    "name": "KSNG",
+    "code": "KESINGA"
+  },
+  {
+    "name": "KUH",
+    "code": "KHACHROD"
+  },
+  {
+    "name": "KGG",
+    "code": "KHAGARIA JN."
+  },
+  {
+    "name": "KLD",
+    "code": "KHALILABAD"
+  },
+  {
+    "name": "KMT",
+    "code": "KHAMMAM"
+  },
+  {
+    "name": "KNW",
+    "code": "KHANDWA JN. (CR)"
+  },
+  {
+    "name": "KGP",
+    "code": "KHARAGPUR JN."
+  },
+  {
+    "name": "KRAR",
+    "code": "KHARIAR ROAD"
+  },
+  {
+    "name": "KRBP",
+    "code": "KHUDIRAMBOSE ROAD PUSA"
+  },
+  {
+    "name": "KUR",
+    "code": "KHURDA ROAD JN."
+  },
+  {
+    "name": "KNVT",
+    "code": "KINWAT"
+  },
+  {
+    "name": "KNE",
+    "code": "KISHANGANJ"
+  },
+  {
+    "name": "KIUL",
+    "code": "KIUL JN."
+  },
+  {
+    "name": "KCVL",
+    "code": "KOCHUVELI"
+  },
+  {
+    "name": "KQR",
+    "code": "KODERMA"
+  },
+  {
+    "name": "KOU",
+    "code": "KODURU"
+  },
+  {
+    "name": "KOAA",
+    "code": "KOLKATA"
+  },
+  {
+    "name": "QLN",
+    "code": "KOLLAM JN."
+  },
+  {
+    "name": "KBL",
+    "code": "KOPPAL"
+  },
+  {
+    "name": "KRPU",
+    "code": "KORAPUT JN."
+  },
+  {
+    "name": "KRBA",
+    "code": "KORBA"
+  },
+  {
+    "name": "KOTA",
+    "code": "KOTA JN."
+  },
+  {
+    "name": "KTW",
+    "code": "KOTDWARA"
+  },
+  {
+    "name": "KKP",
+    "code": "KOTKAPURA JN."
+  },
+  {
+    "name": "KTYM",
+    "code": "KOTTAYAM"
+  },
+  {
+    "name": "CLT",
+    "code": "KOZHIKODE"
+  },
+  {
+    "name": "KJM",
+    "code": "KRISHNA RAJA PURAM"
+  },
+  {
+    "name": "KMU",
+    "code": "KUMBAKONAM"
+  },
+  {
+    "name": "KPN",
+    "code": "KUPPAM"
+  },
+  {
+    "name": "KWV",
+    "code": "KURDUVADI JN."
+  },
+  {
+    "name": "KRNT",
+    "code": "KURNOOL CITY"
+  },
+  {
+    "name": "KURJ",
+    "code": "Khajauraho"
+  },
+  {
+    "name": "LMP",
+    "code": "LAKHIMPUR"
+  },
+  {
+    "name": "LRJ",
+    "code": "LAKSAR JN."
+  },
+  {
+    "name": "LGH",
+    "code": "LALGARH JN."
+  },
+  {
+    "name": "LAR",
+    "code": "LALITPUR"
+  },
+  {
+    "name": "LKU",
+    "code": "LALKUA JN."
+  },
+  {
+    "name": "LKG",
+    "code": "LAMSAKHANG"
+  },
+  {
+    "name": "LCT",
+    "code": "LANGCHOLIET"
+  },
+  {
+    "name": "LKA",
+    "code": "LANKA"
+  },
+  {
+    "name": "LS",
+    "code": "LASAL GAON"
+  },
+  {
+    "name": "LTHR",
+    "code": "LATEHER"
+  },
+  {
+    "name": "LUR",
+    "code": "LATUR"
+  },
+  {
+    "name": "LEDO",
+    "code": "LEDO"
+  },
+  {
+    "name": "LCH",
+    "code": "LINCH"
+  },
+  {
+    "name": "LHU",
+    "code": "LOHARU"
+  },
+  {
+    "name": "LTT",
+    "code": "LOKMANIYA TILAK NAGAR TERMINUS"
+  },
+  {
+    "name": "LNL",
+    "code": "LONAVLA"
+  },
+  {
+    "name": "LJN",
+    "code": "LUCKNOW JN."
+  },
+  {
+    "name": "LKO",
+    "code": "LUCKNOW JN."
+  },
+  {
+    "name": "LDH",
+    "code": "LUDHIANA JN."
+  },
+  {
+    "name": "LMG",
+    "code": "LUMDING JN."
+  },
+  {
+    "name": "MCLA",
+    "code": "MACHERLA"
+  },
+  {
+    "name": "MTM",
+    "code": "MACHILIPATNAM"
+  },
+  {
+    "name": "MBI",
+    "code": "MADHUBANI"
+  },
+  {
+    "name": "MDP",
+    "code": "MADHUPUR JN."
+  },
+  {
+    "name": "MDU",
+    "code": "MADURAI JN."
+  },
+  {
+    "name": "MABD",
+    "code": "MAHBUBABAD"
+  },
+  {
+    "name": "MBNR",
+    "code": "MAHBUBNAGAR"
+  },
+  {
+    "name": "MSH",
+    "code": "MAHESANA JN."
+  },
+  {
+    "name": "MBA",
+    "code": "MAHOBA"
+  },
+  {
+    "name": "MHV",
+    "code": "MAHUVA JN."
+  },
+  {
+    "name": "MNQ",
+    "code": "MAINPURI"
+  },
+  {
+    "name": "MKN",
+    "code": "MAKRANA JN."
+  },
+  {
+    "name": "MLFC",
+    "code": "MALDA COURT"
+  },
+  {
+    "name": "MLDT",
+    "code": "MALDATOWN"
+  },
+  {
+    "name": "MCI",
+    "code": "MANCHIRYAL"
+  },
+  {
+    "name": "MNF",
+    "code": "MANDA ROAD"
+  },
+  {
+    "name": "MDS",
+    "code": "MANDASOR"
+  },
+  {
+    "name": "MUV",
+    "code": "MANDUADIH"
+  },
+  {
+    "name": "MYA",
+    "code": "MANDYA"
+  },
+  {
+    "name": "MAQ",
+    "code": "MANGALORE JN."
+  },
+  {
+    "name": "MAJN",
+    "code": "MANGALORE JUNCTION"
+  },
+  {
+    "name": "MKP",
+    "code": "MANIKPUR JN."
+  },
+  {
+    "name": "MMR",
+    "code": "MANMAD JN."
+  },
+  {
+    "name": "MQ",
+    "code": "MANNARGUDI"
+  },
+  {
+    "name": "MALM",
+    "code": "MANTHRALAYAM ROAD"
+  },
+  {
+    "name": "MXN",
+    "code": "MARIANI JN."
+  },
+  {
+    "name": "MRK",
+    "code": "MARKAPUR ROAD"
+  },
+  {
+    "name": "MJ",
+    "code": "MARWAR JN."
+  },
+  {
+    "name": "MAE",
+    "code": "MATHERAN"
+  },
+  {
+    "name": "MTJ",
+    "code": "MATHURA JN."
+  },
+  {
+    "name": "MAU",
+    "code": "MAU JN."
+  },
+  {
+    "name": "MRPR",
+    "code": "MAU RANIPUR"
+  },
+  {
+    "name": "MV",
+    "code": "MAYILADUTURAI JN."
+  },
+  {
+    "name": "MCA",
+    "code": "MECHEDA"
+  },
+  {
+    "name": "MUT",
+    "code": "MEERUT CANT"
+  },
+  {
+    "name": "MTC",
+    "code": "MEERUT CITY JN."
+  },
+  {
+    "name": "MTD",
+    "code": "MERTA ROAD JN."
+  },
+  {
+    "name": "MTP",
+    "code": "METTUPALAIYAM JN."
+  },
+  {
+    "name": "MRJ",
+    "code": "MIRAJ JN."
+  },
+  {
+    "name": "MRGA",
+    "code": "MIRYALAGUDA"
+  },
+  {
+    "name": "MZP",
+    "code": "MIRZAPUR"
+  },
+  {
+    "name": "MOGA",
+    "code": "MOGA"
+  },
+  {
+    "name": "MB",
+    "code": "MORADABAD JN."
+  },
+  {
+    "name": "MRA",
+    "code": "MORENA"
+  },
+  {
+    "name": "MUE",
+    "code": "MUDKHED JN."
+  },
+  {
+    "name": "MGS",
+    "code": "MUGHAL SARAI JN."
+  },
+  {
+    "name": "MKS",
+    "code": "MUKTSAR"
+  },
+  {
+    "name": "DR",
+    "code": "MUMBAI (DADAR)"
+  },
+  {
+    "name": "DDR",
+    "code": "MUMBAI (DADAR)"
+  },
+  {
+    "name": "MMCT",
+    "code": "MUMBAI CENTRAL"
+  },
+  {
+    "name": "BCT",
+    "code": "MUMBAI CENTRAL"
+  },
+  {
+    "name": "CSTM",
+    "code": "MUMBAI CHHATRAPATI TERMINUS"
+  },
+  {
+    "name": "CSMT",
+    "code": "MUMBAI CHHATRAPATI TERMINUS"
+  },
+  {
+    "name": "MNGD",
+    "code": "MUNIGUDA"
+  },
+  {
+    "name": "MURI",
+    "code": "MURI JN."
+  },
+  {
+    "name": "MZS",
+    "code": "MURKEONG SELEK"
+  },
+  {
+    "name": "MOZ",
+    "code": "MUZAFFARNAGAR"
+  },
+  {
+    "name": "MFP",
+    "code": "MUZAFFARPUR JN."
+  },
+  {
+    "name": "MYS",
+    "code": "MYSORE JN."
+  },
+  {
+    "name": "ND",
+    "code": "NADIAD JN."
+  },
+  {
+    "name": "NGT",
+    "code": "NAGAPPATTINAM"
+  },
+  {
+    "name": "NCJ",
+    "code": "NAGARCOIL JN."
+  },
+  {
+    "name": "NSL",
+    "code": "NAGARSOL"
+  },
+  {
+    "name": "NGO",
+    "code": "NAGAUR"
+  },
+  {
+    "name": "NAD",
+    "code": "NAGDA JN."
+  },
+  {
+    "name": "NGG",
+    "code": "NAGINA"
+  },
+  {
+    "name": "NGP",
+    "code": "NAGPUR JN.(CR)"
+  },
+  {
+    "name": "NHK",
+    "code": "NAHARKATIYA"
+  },
+  {
+    "name": "NHLN",
+    "code": "NAHARLAGUN"
+  },
+  {
+    "name": "NLN",
+    "code": "NAILALUNG"
+  },
+  {
+    "name": "NIR",
+    "code": "NAINPUR JN."
+  },
+  {
+    "name": "NBD",
+    "code": "NAJIBABAD JN."
+  },
+  {
+    "name": "NLDA",
+    "code": "NALGONDA"
+  },
+  {
+    "name": "NED",
+    "code": "NANDED"
+  },
+  {
+    "name": "NDB",
+    "code": "NANDURBAR"
+  },
+  {
+    "name": "NDL",
+    "code": "NANDYAL"
+  },
+  {
+    "name": "NJN",
+    "code": "NAOJAN"
+  },
+  {
+    "name": "NS",
+    "code": "NARASAPUR"
+  },
+  {
+    "name": "NRT",
+    "code": "NARASARAOPET"
+  },
+  {
+    "name": "NKE",
+    "code": "NARKATIAGANJ JN."
+  },
+  {
+    "name": "NU",
+    "code": "NARSINGHPUR"
+  },
+  {
+    "name": "NRP",
+    "code": "NARSIPATNAM ROAD"
+  },
+  {
+    "name": "NK",
+    "code": "NASIK ROAD"
+  },
+  {
+    "name": "NSD",
+    "code": "NASIRABAD"
+  },
+  {
+    "name": "NWU",
+    "code": "NAVA PUR"
+  },
+  {
+    "name": "NVS",
+    "code": "NAVSARI"
+  },
+  {
+    "name": "NLR",
+    "code": "NELLORE"
+  },
+  {
+    "name": "NRL",
+    "code": "NERAL JN."
+  },
+  {
+    "name": "NOQ",
+    "code": "NEW ALIPURDUAR"
+  },
+  {
+    "name": "ANDI",
+    "code": "NEW AZADPUR"
+  },
+  {
+    "name": "NBVJ",
+    "code": "NEW BHUJ"
+  },
+  {
+    "name": "NBQ",
+    "code": "NEW BONGAIGAON JN."
+  },
+  {
+    "name": "NCB",
+    "code": "NEW COOCH BEHAR JN."
+  },
+  {
+    "name": "NDLS",
+    "code": "NEW DELHI"
+  },
+  {
+    "name": "NFK",
+    "code": "NEW FARAKKA JN."
+  },
+  {
+    "name": "NGC",
+    "code": "NEW GUWAHATI G/SHED"
+  },
+  {
+    "name": "NHLG",
+    "code": "NEW HLFLONG"
+  },
+  {
+    "name": "NJP",
+    "code": "NEW JALPAI GURI JN."
+  },
+  {
+    "name": "NMZ",
+    "code": "NEW MAL JN."
+  },
+  {
+    "name": "NMM",
+    "code": "NEW MISAMARI"
+  },
+  {
+    "name": "NTSK",
+    "code": "NEW TINSUKIA"
+  },
+  {
+    "name": "NDD",
+    "code": "NIDADAVOLU JN."
+  },
+  {
+    "name": "NDO",
+    "code": "NIDUBROLU"
+  },
+  {
+    "name": "NMH",
+    "code": "NIMACH"
+  },
+  {
+    "name": "NIM",
+    "code": "NIMDIH"
+  },
+  {
+    "name": "NIRA",
+    "code": "NIRA"
+  },
+  {
+    "name": "NZB",
+    "code": "NIZAMABAD"
+  },
+  {
+    "name": "NODA",
+    "code": "NOIDA O.A"
+  },
+  {
+    "name": "NOK",
+    "code": "NOKHA"
+  },
+  {
+    "name": "NLP",
+    "code": "NORTH LAKHIMPUR"
+  },
+  {
+    "name": "OKHA",
+    "code": "OKHA"
+  },
+  {
+    "name": "ODM",
+    "code": "ONDAGRAM"
+  },
+  {
+    "name": "OGL",
+    "code": "ONGOLE"
+  },
+  {
+    "name": "ORAI",
+    "code": "ORAI"
+  },
+  {
+    "name": "POU",
+    "code": "PADRAUNA"
+  },
+  {
+    "name": "PKO",
+    "code": "PALAKOLLU"
+  },
+  {
+    "name": "PNU",
+    "code": "PALANPUR JN."
+  },
+  {
+    "name": "PNUN",
+    "code": "NEW PALANPUR JN."
+  },
+  {
+    "name": "PSA",
+    "code": "PALASA"
+  },
+  {
+    "name": "PLG",
+    "code": "PALGHAR"
+  },
+  {
+    "name": "PGT",
+    "code": "PALGHAT JN."
+  },
+  {
+    "name": "PALI",
+    "code": "PALI"
+  },
+  {
+    "name": "PMY",
+    "code": "PALI MARWAR"
+  },
+  {
+    "name": "PBM",
+    "code": "PAMBAN"
+  },
+  {
+    "name": "PNP",
+    "code": "PANIPAT JN."
+  },
+  {
+    "name": "PKU",
+    "code": "PANSKURA JN."
+  },
+  {
+    "name": "PNVL",
+    "code": "PANVEL JN."
+  },
+  {
+    "name": "PBN",
+    "code": "PARBHANI JN."
+  },
+  {
+    "name": "PRLI",
+    "code": "PARLI VAIJNATH"
+  },
+  {
+    "name": "PBH",
+    "code": "PARTAPGARH JN."
+  },
+  {
+    "name": "PTU",
+    "code": "PARTUR"
+  },
+  {
+    "name": "PVP",
+    "code": "PARVATIPURAM"
+  },
+  {
+    "name": "PTRD",
+    "code": "PATAUDI ROAD"
+  },
+  {
+    "name": "PTNR",
+    "code": "PATEL NAGAR JN."
+  },
+  {
+    "name": "PTKC",
+    "code": "PATHANKOT CANTT"
+  },
+  {
+    "name": "PTK",
+    "code": "PATHANKOT JN."
+  },
+  {
+    "name": "PTA",
+    "code": "PATIALA"
+  },
+  {
+    "name": "PPTA",
+    "code": "PATLIPUTRA"
+  },
+  {
+    "name": "PNBE",
+    "code": "PATNA JN."
+  },
+  {
+    "name": "PAY",
+    "code": "PAYYANUR"
+  },
+  {
+    "name": "PDPL",
+    "code": "PEDDAPALLI"
+  },
+  {
+    "name": "PND",
+    "code": "PENDRA ROAD"
+  },
+  {
+    "name": "PGW",
+    "code": "PHAGWARA JN."
+  },
+  {
+    "name": "PLCJ",
+    "code": "PHALODI"
+  },
+  {
+    "name": "PBA",
+    "code": "PIARDOBA"
+  },
+  {
+    "name": "PGRL",
+    "code": "PIDUGURALLA"
+  },
+  {
+    "name": "PPI",
+    "code": "PIPARIYA"
+  },
+  {
+    "name": "PAP",
+    "code": "PITHAPURAM"
+  },
+  {
+    "name": "PKEO",
+    "code": "PKEO"
+  },
+  {
+    "name": "PTJ",
+    "code": "PODANUR JN."
+  },
+  {
+    "name": "POK",
+    "code": "POKARAN"
+  },
+  {
+    "name": "PDY",
+    "code": "PONDICHERRY"
+  },
+  {
+    "name": "PBR",
+    "code": "PORBANDAR"
+  },
+  {
+    "name": "PCOI",
+    "code": "PRAYAGRAJ CHHEOKI"
+  },
+  {
+    "name": "PRYJ",
+    "code": "PRAYAGRAJ JN."
+  },
+  {
+    "name": "DDU",
+    "code": "PT. DEEN DAYAL UPADHYAYA JUNCTION"
+  },
+  {
+    "name": "PUNE",
+    "code": "PUNE JN."
+  },
+  {
+    "name": "PURI",
+    "code": "PURI"
+  },
+  {
+    "name": "PAU",
+    "code": "PURNA JN."
+  },
+  {
+    "name": "PRNA",
+    "code": "PURNIA JN."
+  },
+  {
+    "name": "PRR",
+    "code": "PURULIA JN."
+  },
+  {
+    "name": "RDP",
+    "code": "RADHIKAPUR"
+  },
+  {
+    "name": "RBL",
+    "code": "RAE BARELI JN."
+  },
+  {
+    "name": "RC",
+    "code": "RAICHUR"
+  },
+  {
+    "name": "RGJ",
+    "code": "RAIGANJ"
+  },
+  {
+    "name": "RIG",
+    "code": "RAIGARH"
+  },
+  {
+    "name": "R",
+    "code": "RAIPUR JN."
+  },
+  {
+    "name": "RJY",
+    "code": "RAJAHMUNDRY"
+  },
+  {
+    "name": "RJPM",
+    "code": "RAJAPALAIYAM"
+  },
+  {
+    "name": "RJPB",
+    "code": "RAJENDRA NAGAR (BIHAR)"
+  },
+  {
+    "name": "RGD",
+    "code": "RAJGIR"
+  },
+  {
+    "name": "RJT",
+    "code": "RAJKOT JN."
+  },
+  {
+    "name": "RJN",
+    "code": "RAJNANDGAON"
+  },
+  {
+    "name": "RMM",
+    "code": "RAMESWARAM"
+  },
+  {
+    "name": "RMA",
+    "code": "RAMGANJ MANDI"
+  },
+  {
+    "name": "RDM",
+    "code": "RAMGUNDAM"
+  },
+  {
+    "name": "RMR",
+    "code": "RAMNAGAR"
+  },
+  {
+    "name": "RPH",
+    "code": "RAMPUR HAT"
+  },
+  {
+    "name": "RMU",
+    "code": "RAMPUR JN."
+  },
+  {
+    "name": "RSG",
+    "code": "RAMSAGAR"
+  },
+  {
+    "name": "RNC",
+    "code": "RANCHI JN."
+  },
+  {
+    "name": "RPAN",
+    "code": "RANGAPARA NORTH"
+  },
+  {
+    "name": "RNY",
+    "code": "RANGIYA JN."
+  },
+  {
+    "name": "RNG",
+    "code": "RANI GANJ"
+  },
+  {
+    "name": "RNRD",
+    "code": "RANIPUR ROAD"
+  },
+  {
+    "name": "RPOA",
+    "code": "RASHIPURAM"
+  },
+  {
+    "name": "RTGH",
+    "code": "RATANGARH"
+  },
+  {
+    "name": "RTM",
+    "code": "RATLAM JN."
+  },
+  {
+    "name": "ROU",
+    "code": "RAURKELA JN."
+  },
+  {
+    "name": "RXL",
+    "code": "RAXAUL JN."
+  },
+  {
+    "name": "RGDA",
+    "code": "RAYAGADA JN."
+  },
+  {
+    "name": "RYP",
+    "code": "RAYANAPADU"
+  },
+  {
+    "name": "RJP",
+    "code": "RAZAMPETA"
+  },
+  {
+    "name": "RU",
+    "code": "RENIGUNTA JN."
+  },
+  {
+    "name": "RNQ",
+    "code": "RENUKUT"
+  },
+  {
+    "name": "RAL",
+    "code": "REPALLE"
+  },
+  {
+    "name": "REWA",
+    "code": "REWA"
+  },
+  {
+    "name": "RE",
+    "code": "REWARI JN."
+  },
+  {
+    "name": "REJN",
+    "code": "NEW REWARI JN."
+  },
+  {
+    "name": "RKSH",
+    "code": "RISHIKESH"
+  },
+  {
+    "name": "ROK",
+    "code": "ROHTAK JN."
+  },
+  {
+    "name": "RK",
+    "code": "ROORKEE"
+  },
+  {
+    "name": "RUPC",
+    "code": "RUDRAPUR CITY"
+  },
+  {
+    "name": "DSB",
+    "code": "SADAR BAZAR"
+  },
+  {
+    "name": "SDLP",
+    "code": "SADULPUR"
+  },
+  {
+    "name": "SGL",
+    "code": "SAGAULI JN."
+  },
+  {
+    "name": "SRE",
+    "code": "SAHARANPUR JN."
+  },
+  {
+    "name": "SHC",
+    "code": "SAHARSA JN."
+  },
+  {
+    "name": "SBG",
+    "code": "SAHIBGANJ"
+  },
+  {
+    "name": "SNSI",
+    "code": "SAINAGAR SHIRDI"
+  },
+  {
+    "name": "SKLR",
+    "code": "SAKLESHPUR"
+  },
+  {
+    "name": "SKI",
+    "code": "SAKRI JN."
+  },
+  {
+    "name": "SLB",
+    "code": "SALBONI"
+  },
+  {
+    "name": "SA",
+    "code": "SALEM JN."
+  },
+  {
+    "name": "SYL",
+    "code": "SALPURA"
+  },
+  {
+    "name": "SLO",
+    "code": "SAMALKOT JN."
+  },
+  {
+    "name": "SPJ",
+    "code": "SAMASTIPUR JN."
+  },
+  {
+    "name": "SBP",
+    "code": "SAMBALPUR JN."
+  },
+  {
+    "name": "SAN",
+    "code": "SANDILA"
+  },
+  {
+    "name": "SEL",
+    "code": "SANKRAIL"
+  },
+  {
+    "name": "SHRN",
+    "code": "SANT HIRADARAM NAGAR"
+  },
+  {
+    "name": "SRC",
+    "code": "SANTRAGACHI JN."
+  },
+  {
+    "name": "SPK",
+    "code": "SAPEKHATI"
+  },
+  {
+    "name": "SGAM",
+    "code": "SARAIGRAM"
+  },
+  {
+    "name": "SZR",
+    "code": "SARUPATHAR"
+  },
+  {
+    "name": "STR",
+    "code": "SATARA"
+  },
+  {
+    "name": "STA",
+    "code": "SATNA JN."
+  },
+  {
+    "name": "SAP",
+    "code": "SATTENAPALLE"
+  },
+  {
+    "name": "SGO",
+    "code": "SAUGOR"
+  },
+  {
+    "name": "SWM",
+    "code": "SAWAI MADHOPUR JN."
+  },
+  {
+    "name": "SDAH",
+    "code": "SEALDAH"
+  },
+  {
+    "name": "SC",
+    "code": "SECUNDERABAD JN."
+  },
+  {
+    "name": "SPRG",
+    "code": "SECURITY PAPER MILL SIDING, HOSHANGABAD"
+  },
+  {
+    "name": "SELU",
+    "code": "SELU"
+  },
+  {
+    "name": "SCT",
+    "code": "SENGOTTAI"
+  },
+  {
+    "name": "SEO",
+    "code": "SEOHARA"
+  },
+  {
+    "name": "SDL",
+    "code": "SHAHDOL"
+  },
+  {
+    "name": "SHG",
+    "code": "SHAHGANJ JN."
+  },
+  {
+    "name": "SPN",
+    "code": "SHAHJAHANPUR JN. (BG)"
+  },
+  {
+    "name": "SKTN",
+    "code": "SHAKTINAGAR"
+  },
+  {
+    "name": "SHM",
+    "code": "SHALIMAR JN."
+  },
+  {
+    "name": "SGZ",
+    "code": "SHAMGARH"
+  },
+  {
+    "name": "SKB",
+    "code": "SHIKOHABAD JN."
+  },
+  {
+    "name": "SMET",
+    "code": "SHIMOGA TOWN"
+  },
+  {
+    "name": "SVPI",
+    "code": "SHIVPURI"
+  },
+  {
+    "name": "SRR",
+    "code": "SHORANUR JN."
+  },
+  {
+    "name": "SGNR",
+    "code": "SHRIGANGA NAGAR"
+  },
+  {
+    "name": "SRP",
+    "code": "SHRIRAMPUR"
+  },
+  {
+    "name": "SRTN",
+    "code": "SIBSAGAR TOWN"
+  },
+  {
+    "name": "SIKR",
+    "code": "SIKAR JN."
+  },
+  {
+    "name": "SPTR",
+    "code": "SILAPATHAR"
+  },
+  {
+    "name": "SCL",
+    "code": "SILCHAR"
+  },
+  {
+    "name": "SGUJ",
+    "code": "SILIGURI JN."
+  },
+  {
+    "name": "SLGR",
+    "code": "SIMALUGURI JN."
+  },
+  {
+    "name": "SKM",
+    "code": "SINGARAYAKONDA"
+  },
+  {
+    "name": "SGRL",
+    "code": "SINGRAULI"
+  },
+  {
+    "name": "SKZR",
+    "code": "SIRPURKAGHAZ NAGAR"
+  },
+  {
+    "name": "SSA",
+    "code": "SIRSA"
+  },
+  {
+    "name": "SBZ",
+    "code": "SISWA BAZAR"
+  },
+  {
+    "name": "SMI",
+    "code": "SITAMARHI"
+  },
+  {
+    "name": "STP",
+    "code": "SITAPUR JN."
+  },
+  {
+    "name": "SV",
+    "code": "SIWAN JN."
+  },
+  {
+    "name": "SUR",
+    "code": "SOLAPUR JN."
+  },
+  {
+    "name": "SPT",
+    "code": "SOMPETA"
+  },
+  {
+    "name": "SBDR",
+    "code": "SONBHADRA"
+  },
+  {
+    "name": "SEE",
+    "code": "SONPUR JN."
+  },
+  {
+    "name": "SVDK",
+    "code": "SRI MATA V. D. KATRA"
+  },
+  {
+    "name": "SSPN",
+    "code": "SRI SATHYA SAI PRASANTI NILAYAM"
+  },
+  {
+    "name": "CHE",
+    "code": "SRIKAKULAM ROAD"
+  },
+  {
+    "name": "SINA",
+    "code": "SRINAGAR"
+  },
+  {
+    "name": "SUJH",
+    "code": "SUJANGARH"
+  },
+  {
+    "name": "SLN",
+    "code": "SULTANPUR JN."
+  },
+  {
+    "name": "ST",
+    "code": "SURAT"
+  },
+  {
+    "name": "SOG",
+    "code": "SURATGARH JN."
+  },
+  {
+    "name": "SUNR",
+    "code": "SURENDRANAGAR JN."
+  },
+  {
+    "name": "TDD",
+    "code": "TADEPALLI GUDEM"
+  },
+  {
+    "name": "TLHR",
+    "code": "TALCHER"
+  },
+  {
+    "name": "TBM",
+    "code": "TAMBARAM"
+  },
+  {
+    "name": "TNL",
+    "code": "TANGLA"
+  },
+  {
+    "name": "TNKU",
+    "code": "TANUKU"
+  },
+  {
+    "name": "TATA",
+    "code": "TATA NAGAR JN."
+  },
+  {
+    "name": "TLY",
+    "code": "TELLICHERRY"
+  },
+  {
+    "name": "TEL",
+    "code": "TENALI JN."
+  },
+  {
+    "name": "TJ",
+    "code": "THANJAVUR JN."
+  },
+  {
+    "name": "TCN",
+    "code": "TIRUCHENDUR"
+  },
+  {
+    "name": "TPJ",
+    "code": "TIRUCHIRAPPALLI JN."
+  },
+  {
+    "name": "TEN",
+    "code": "TIRUNELVELI JN."
+  },
+  {
+    "name": "TPTY",
+    "code": "TIRUPATI"
+  },
+  {
+    "name": "TUP",
+    "code": "TIRUPPUR"
+  },
+  {
+    "name": "TIR",
+    "code": "TIRUR"
+  },
+  {
+    "name": "TIG",
+    "code": "TITLA GARH JN."
+  },
+  {
+    "name": "TRAN",
+    "code": "TORANG"
+  },
+  {
+    "name": "TORI",
+    "code": "TORI"
+  },
+  {
+    "name": "TCR",
+    "code": "TRICHUR"
+  },
+  {
+    "name": "TVC",
+    "code": "TRIVANDRUM CENTRAL"
+  },
+  {
+    "name": "TKD",
+    "code": "TUGLAKABAD"
+  },
+  {
+    "name": "TK",
+    "code": "TUMKUR"
+  },
+  {
+    "name": "TDL",
+    "code": "TUNDLA JN."
+  },
+  {
+    "name": "TUNI",
+    "code": "TUNI"
+  },
+  {
+    "name": "TN",
+    "code": "TUTICORIN"
+  },
+  {
+    "name": "UDZ",
+    "code": "UDAIPUR CITY"
+  },
+  {
+    "name": "UDGR",
+    "code": "UDGIR"
+  },
+  {
+    "name": "UHP",
+    "code": "UDHAMPUR"
+  },
+  {
+    "name": "UDN",
+    "code": "UDHNA JN."
+  },
+  {
+    "name": "UJP",
+    "code": "UJIARPUR"
+  },
+  {
+    "name": "UJN",
+    "code": "UJJAIN JN."
+  },
+  {
+    "name": "UMR",
+    "code": "UMARIA"
+  },
+  {
+    "name": "UMRI",
+    "code": "UMRI"
+  },
+  {
+    "name": "USL",
+    "code": "USALAPUR"
+  },
+  {
+    "name": "UKL",
+    "code": "UTTUKULI"
+  },
+  {
+    "name": "BRC",
+    "code": "VADODRA JN."
+  },
+  {
+    "name": "BL",
+    "code": "VALSAD"
+  },
+  {
+    "name": "VGN",
+    "code": "VAN GAON"
+  },
+  {
+    "name": "VAPI",
+    "code": "VAPI"
+  },
+  {
+    "name": "BCY",
+    "code": "VARANASI CITY"
+  },
+  {
+    "name": "BSB",
+    "code": "VARANASI JN."
+  },
+  {
+    "name": "BSR",
+    "code": "VASAI ROAD JN."
+  },
+  {
+    "name": "VSG",
+    "code": "VASCO"
+  },
+  {
+    "name": "VKI",
+    "code": "VENKATAGIRI"
+  },
+  {
+    "name": "VRL",
+    "code": "VERAVAL"
+  },
+  {
+    "name": "VTM",
+    "code": "VETAPALEM"
+  },
+  {
+    "name": "BZA",
+    "code": "VIJAYWADA JN."
+  },
+  {
+    "name": "VKB",
+    "code": "VIKRABAD JN."
+  },
+  {
+    "name": "VM",
+    "code": "VILLUPURAM JN."
+  },
+  {
+    "name": "VKN",
+    "code": "VINUKONDA"
+  },
+  {
+    "name": "VR",
+    "code": "VIRAR"
+  },
+  {
+    "name": "VPT",
+    "code": "VIRUDHUNAGAR JN."
+  },
+  {
+    "name": "VSKP",
+    "code": "VISAKHAPATNAM"
+  },
+  {
+    "name": "VZM",
+    "code": "VIZIANAGARAM JN."
+  },
+  {
+    "name": "VRI",
+    "code": "VRIDHA CHALAM JN."
+  },
+  {
+    "name": "VYA",
+    "code": "VYARA"
+  },
+  {
+    "name": "WKR",
+    "code": "WANKANER JN."
+  },
+  {
+    "name": "WL",
+    "code": "WARANGAL"
+  },
+  {
+    "name": "WHM",
+    "code": "WASHIM"
+  },
+  {
+    "name": "YG",
+    "code": "YADGIR"
+  },
+  {
+    "name": "YJUD",
+    "code": "YAMUNANAGAR JAGADHARI"
+  },
+  {
+    "name": "YNK",
+    "code": "YELAHANKA JN."
+  },
+  {
+    "name": "YPR",
+    "code": "YESVANTPUR JN."
+  }
+]

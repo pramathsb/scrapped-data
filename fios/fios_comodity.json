@@ -1,0 +1,846 @@
+[
+  {
+    "id": "ACHL",
+    "name": "ALCOHOL"
+  },
+  {
+    "id": "ACID",
+    "name": "ACIDS"
+  },
+  {
+    "id": "AEO",
+    "name": "AEROMAX OIL"
+  },
+  {
+    "id": "AORE",
+    "name": "ALUMINIUM ORE"
+  },
+  {
+    "id": "ASH",
+    "name": "ASHES"
+  },
+  {
+    "id": "ATA",
+    "name": "ATTA"
+  },
+  {
+    "id": "ATF",
+    "name": "AVIATION TURBINE FUEL"
+  },
+  {
+    "id": "AUTO",
+    "name": "AUTOMOBILES"
+  },
+  {
+    "id": "B",
+    "name": "BAJRA"
+  },
+  {
+    "id": "BALT",
+    "name": "BALLAST"
+  },
+  {
+    "id": "BAR",
+    "name": "BARLEY"
+  },
+  {
+    "id": "BAUX",
+    "name": "BAUXITE"
+  },
+  {
+    "id": "BCHP",
+    "name": "BAMBOO CHIP"
+  },
+  {
+    "id": "BENZ",
+    "name": "BENZOL"
+  },
+  {
+    "id": "BFBP",
+    "name": "BOILED FINE RICE & BOILED PARMAL RICE"
+  },
+  {
+    "id": "BFBR",
+    "name": "BOILED FINE RICE & BOILED RICE"
+  },
+  {
+    "id": "BFPR",
+    "name": "BOILED FINE RICE & PARMAL RICE"
+  },
+  {
+    "id": "BFR",
+    "name": "BOILED FINE RICE"
+  },
+  {
+    "id": "BOIL",
+    "name": "BLACK OIL"
+  },
+  {
+    "id": "BPBR",
+    "name": "BOILED PARMAL RICE & BOILED RICE"
+  },
+  {
+    "id": "BPR",
+    "name": "BOILED PARMAL RICE"
+  },
+  {
+    "id": "BR",
+    "name": "BOILED RICE"
+  },
+  {
+    "id": "BRYL",
+    "name": "BERYL ORE"
+  },
+  {
+    "id": "CBFS",
+    "name": "CARBON BLACK FEED STOCK"
+  },
+  {
+    "id": "CEMT",
+    "name": "CEMENT"
+  },
+  {
+    "id": "CHAR",
+    "name": "CHAR COAL"
+  },
+  {
+    "id": "CHEM",
+    "name": "CHEMICALS"
+  },
+  {
+    "id": "CHES",
+    "name": "CHEMICALS SALT"
+  },
+  {
+    "id": "CLAY",
+    "name": "CHINACLAY"
+  },
+  {
+    "id": "CLKR",
+    "name": "CEMENT CLINKER"
+  },
+  {
+    "id": "CLO",
+    "name": "CLEANING OIL"
+  },
+  {
+    "id": "CO",
+    "name": "CRUDE OIL"
+  },
+  {
+    "id": "COAL",
+    "name": "COAL"
+  },
+  {
+    "id": "CONT",
+    "name": "CONTAINER"
+  },
+  {
+    "id": "COPR",
+    "name": "COPPER ORE"
+  },
+  {
+    "id": "COTF",
+    "name": "COTTON FULL PRESSED"
+  },
+  {
+    "id": "COTN",
+    "name": "COTTON"
+  },
+  {
+    "id": "CRME",
+    "name": "CROME ORE"
+  },
+  {
+    "id": "DLMT",
+    "name": "DOLOMITE"
+  },
+  {
+    "id": "DLST",
+    "name": "DOLOMITE FOR STEEL PLANTS"
+  },
+  {
+    "id": "DOC",
+    "name": "DE"
+  },
+  {
+    "id": "DON",
+    "name": "DIESEL OIL NON"
+  },
+  {
+    "id": "EAUC",
+    "name": "COAL FOR E"
+  },
+  {
+    "id": "EHB",
+    "name": "EMPTY HAULAGE (OLD BREAK VAN)"
+  },
+  {
+    "id": "EHC",
+    "name": "EMPTY HAULAGE (CRANE)"
+  },
+  {
+    "id": "EHG",
+    "name": "EMPTY HAULAGE (DUMMY OR GUARD WAGON)"
+  },
+  {
+    "id": "EHL",
+    "name": "EMPTY HAULAGE (LOCO)"
+  },
+  {
+    "id": "EHN",
+    "name": "EMPTY HAULAGE (NEWLY BUILT BREAK VAN)"
+  },
+  {
+    "id": "EHR",
+    "name": "EMPTY HAULAGE (RORO SERVICE)"
+  },
+  {
+    "id": "EHW",
+    "name": "EMPTY HAULAGE (OTHER THAN CONTAINER)"
+  },
+  {
+    "id": "EOIL",
+    "name": "EDIBLE OIL NOT IN TANK WAGON"
+  },
+  {
+    "id": "EOIT",
+    "name": "EDIBLE OIL IN TANK WAGON"
+  },
+  {
+    "id": "EW",
+    "name": "EMPTY WAGON"
+  },
+  {
+    "id": "EXOR",
+    "name": "EXPORT ORE"
+  },
+  {
+    "id": "EXPL",
+    "name": "EXPLOSIVES"
+  },
+  {
+    "id": "FBFR",
+    "name": "FINE RICE & BOILED FINE RICE"
+  },
+  {
+    "id": "FBPR",
+    "name": "FINE RICE & BOILED PARMAL RICE"
+  },
+  {
+    "id": "FERC",
+    "name": "FERTILIZER COAL"
+  },
+  {
+    "id": "FERT",
+    "name": "FERTILIZER"
+  },
+  {
+    "id": "FFS",
+    "name": "FREIGHT FORWARDER SCHEME"
+  },
+  {
+    "id": "FFSE",
+    "name": "FREIGHT FORWARDER SCHM IN EMTY FLOW DRTN"
+  },
+  {
+    "id": "FG",
+    "name": "FOOD GRAIN"
+  },
+  {
+    "id": "FIST",
+    "name": "FINISHED STEEL"
+  },
+  {
+    "id": "FLOR",
+    "name": "FLOUR"
+  },
+  {
+    "id": "FODR",
+    "name": "FODDER"
+  },
+  {
+    "id": "FOIL",
+    "name": "FURNACE OIL"
+  },
+  {
+    "id": "FR",
+    "name": "FINE RICE"
+  },
+  {
+    "id": "FRBR",
+    "name": "FINE RICE & BOILED RICE"
+  },
+  {
+    "id": "FRPR",
+    "name": "FINE RICE & PARMAL RICE"
+  },
+  {
+    "id": "FVEG",
+    "name": "FRUTIS & VEGITABLES"
+  },
+  {
+    "id": "GAS",
+    "name": "GASES"
+  },
+  {
+    "id": "GG",
+    "name": "GENERAL GOODS"
+  },
+  {
+    "id": "GRAM",
+    "name": "GRAM"
+  },
+  {
+    "id": "GRPT",
+    "name": "GRAPHITE"
+  },
+  {
+    "id": "GYP",
+    "name": "GYPSUM"
+  },
+  {
+    "id": "HDO",
+    "name": "HEAVY DIESEL OIL"
+  },
+  {
+    "id": "HEXA",
+    "name": "HEXANE"
+  },
+  {
+    "id": "HPS",
+    "name": "HEAVY PETROLEUM GAS"
+  },
+  {
+    "id": "HSD",
+    "name": "HSD OIL"
+  },
+  {
+    "id": "HUSK",
+    "name": "HUSK"
+  },
+  {
+    "id": "IMCL",
+    "name": "IMPORTED COAL"
+  },
+  {
+    "id": "IMFT",
+    "name": "IMPORTED FERTILIZER"
+  },
+  {
+    "id": "IMOP",
+    "name": "IMPORTED MURIATE OF POTASH"
+  },
+  {
+    "id": "IMOR",
+    "name": "IMPORTED IRON ORE"
+  },
+  {
+    "id": "INFL",
+    "name": "INFLAMMABLE SOLIDS"
+  },
+  {
+    "id": "INPK",
+    "name": "IMPORTED NPK FERTILIZER"
+  },
+  {
+    "id": "IOP",
+    "name": "IRON ORE FOR PORTS"
+  },
+  {
+    "id": "IORE",
+    "name": "IRON ORE"
+  },
+  {
+    "id": "IOST",
+    "name": "IRON ORE FOR STEEL PLANTS"
+  },
+  {
+    "id": "IPIG",
+    "name": "IRON PIG (PIG IRON)"
+  },
+  {
+    "id": "IRKP",
+    "name": "IMPORTED ROCK PHOSPHATE"
+  },
+  {
+    "id": "IRON",
+    "name": "IRON"
+  },
+  {
+    "id": "IS",
+    "name": "IRON & STEEL"
+  },
+  {
+    "id": "JAGR",
+    "name": "JAGREE"
+  },
+  {
+    "id": "JBO",
+    "name": "JUTE BLENDING OIL"
+  },
+  {
+    "id": "JP",
+    "name": "JECK PETROLEUM"
+  },
+  {
+    "id": "JUTM",
+    "name": "JUTE MANUFACTURED"
+  },
+  {
+    "id": "KOIL",
+    "name": "KEROSIN OIL"
+  },
+  {
+    "id": "LDO",
+    "name": "LIGHT DIESEL OIL"
+  },
+  {
+    "id": "LEAD",
+    "name": "LEAD ORE"
+  },
+  {
+    "id": "LECO",
+    "name": "LECO"
+  },
+  {
+    "id": "LF",
+    "name": "LIGHTER FLUID"
+  },
+  {
+    "id": "LIF",
+    "name": "LIQUID FUEL"
+  },
+  {
+    "id": "LIVS",
+    "name": "LIVE STOCK"
+  },
+  {
+    "id": "LO",
+    "name": "LIGHT OIL"
+  },
+  {
+    "id": "LOCO",
+    "name": "LOCO"
+  },
+  {
+    "id": "LPG",
+    "name": "LIQUIFIED PETROLEUM GAS"
+  },
+  {
+    "id": "LSH",
+    "name": "LOW SULPHUR HEAVY STOCK"
+  },
+  {
+    "id": "LSHS",
+    "name": "LOW SULPHUR HEAVY SKOCK"
+  },
+  {
+    "id": "LSST",
+    "name": "LIMESTONE FOR STEEL PLANTS"
+  },
+  {
+    "id": "LST",
+    "name": "LIME STONE"
+  },
+  {
+    "id": "LTHM",
+    "name": "LITHIUM ORE"
+  },
+  {
+    "id": "LUB",
+    "name": "LUB OIL"
+  },
+  {
+    "id": "M",
+    "name": "MAIZE"
+  },
+  {
+    "id": "MADA",
+    "name": "MAIDA"
+  },
+  {
+    "id": "MDO",
+    "name": "MARINE DIESEL OIL"
+  },
+  {
+    "id": "METL",
+    "name": "METALS"
+  },
+  {
+    "id": "MGNS",
+    "name": "MANGNESE ORE"
+  },
+  {
+    "id": "MGST",
+    "name": "MANGANESE FOR STEEL PLANTS"
+  },
+  {
+    "id": "MICA",
+    "name": "MICA ORE"
+  },
+  {
+    "id": "MILY",
+    "name": "MILITARY"
+  },
+  {
+    "id": "MISC",
+    "name": "MISC"
+  },
+  {
+    "id": "MIXD",
+    "name": "MIXED"
+  },
+  {
+    "id": "MO",
+    "name": "MINERAL OIL"
+  },
+  {
+    "id": "MOB",
+    "name": "MOBIL POWER"
+  },
+  {
+    "id": "MOD",
+    "name": "MOBIL DIESEL"
+  },
+  {
+    "id": "MOL",
+    "name": "MOLASSES"
+  },
+  {
+    "id": "MOP",
+    "name": "MURIATE OF POTASH"
+  },
+  {
+    "id": "MS",
+    "name": "MOTOR SPIRIT"
+  },
+  {
+    "id": "NAPT",
+    "name": "NAPTHA"
+  },
+  {
+    "id": "NCOL",
+    "name": "NON PROGRAMMED COAL"
+  },
+  {
+    "id": "NEUC",
+    "name": "NON PROGRAMMED COAL FOR E"
+  },
+  {
+    "id": "NFRC",
+    "name": "NON PROGRAMMED FERTILIZER COAL"
+  },
+  {
+    "id": "NMCL",
+    "name": "NON PROGRAMMED IMPORTED COAL"
+  },
+  {
+    "id": "NPBC",
+    "name": "NON PROGRAMMED PUBLIC COAL"
+  },
+  {
+    "id": "NPHC",
+    "name": "NON PROGRAMMED POWER HOUSE COAL"
+  },
+  {
+    "id": "NPKF",
+    "name": "NPK FERTILIZER"
+  },
+  {
+    "id": "NSTC",
+    "name": "NON PROGRAMMED COAL FOR STEEL PLANTS"
+  },
+  {
+    "id": "OCT",
+    "name": "OCTANE MOTOR SPIRT (PETROL)"
+  },
+  {
+    "id": "OIL",
+    "name": "OILS"
+  },
+  {
+    "id": "ONIO",
+    "name": "ONION"
+  },
+  {
+    "id": "OTHR",
+    "name": "OTHERS"
+  },
+  {
+    "id": "OXI",
+    "name": "OXIDIZING SUBSTANCES"
+  },
+  {
+    "id": "PADY",
+    "name": "PADDY"
+  },
+  {
+    "id": "PAPR",
+    "name": "PAPER"
+  },
+  {
+    "id": "PBC",
+    "name": "PUBLIC COAL"
+  },
+  {
+    "id": "PBPR",
+    "name": "PARMAL RICE & BOILED PARMAL RICE"
+  },
+  {
+    "id": "PETH",
+    "name": "PETROLEUM ETHER "
+  },
+  {
+    "id": "PETR",
+    "name": "PETROL"
+  },
+  {
+    "id": "PH",
+    "name": "PETROLEUM & HYDROCARBON OILS "
+  },
+  {
+    "id": "PHC",
+    "name": "POWER HOUSE COAL"
+  },
+  {
+    "id": "PKO",
+    "name": "POWER KEROSENE"
+  },
+  {
+    "id": "PLNT",
+    "name": "PLANTAIN"
+  },
+  {
+    "id": "PMIX",
+    "name": "PETROLIUM MIXED PRODUCTS"
+  },
+  {
+    "id": "POIS",
+    "name": "POISONOUS(TOXIC) SUBSTANCES"
+  },
+  {
+    "id": "POL",
+    "name": "PETROLEUM / OIL LUBRICANTS"
+  },
+  {
+    "id": "PR",
+    "name": "PARMAL RICE"
+  },
+  {
+    "id": "PRBR",
+    "name": "PARMAL RICE & BOILED RICE"
+  },
+  {
+    "id": "PRCA",
+    "name": "GOODS FOR PAKISTAN AT 150 CLASS"
+  },
+  {
+    "id": "PRCB",
+    "name": "GOODS FOR PAKISTAN AT 200 CLASS"
+  },
+  {
+    "id": "PRFN",
+    "name": "PARAFFIN OIL"
+  },
+  {
+    "id": "PSBL",
+    "name": "PERISHABLE"
+  },
+  {
+    "id": "PULS",
+    "name": "PULSES"
+  },
+  {
+    "id": "R",
+    "name": "RICE"
+  },
+  {
+    "id": "RA",
+    "name": "RADIO ACTIVE MATERIALS"
+  },
+  {
+    "id": "RAWA",
+    "name": "RAWA"
+  },
+  {
+    "id": "REBO",
+    "name": "REFRIGERATOR BURNING OIL"
+  },
+  {
+    "id": "RFO",
+    "name": "RESIDUAL FUEL OIL"
+  },
+  {
+    "id": "RKPS",
+    "name": "ROCK PHOSPHATE"
+  },
+  {
+    "id": "RMC",
+    "name": "RAILWAY MATERIAL CONSIGNMENT"
+  },
+  {
+    "id": "RMSP",
+    "name": "RAW MATERIAL FOR STEEL PLANT"
+  },
+  {
+    "id": "RORO",
+    "name": "ROLL ON AND ROLL OFF"
+  },
+  {
+    "id": "RRU",
+    "name": "ROADRAILER UNIT"
+  },
+  {
+    "id": "RUBR",
+    "name": "RUBBER"
+  },
+  {
+    "id": "SALT",
+    "name": "SALT"
+  },
+  {
+    "id": "SAND",
+    "name": "SAND OTHER THAN SILICA SAND"
+  },
+  {
+    "id": "SEED",
+    "name": "SEEDS"
+  },
+  {
+    "id": "SINT",
+    "name": "SINTER"
+  },
+  {
+    "id": "SKO",
+    "name": "SUPERIOR KEROSIN OIL"
+  },
+  {
+    "id": "SLAG",
+    "name": "SLAG"
+  },
+  {
+    "id": "SLEX",
+    "name": "SLEEPER (CONCRETE FOR EXPORT)"
+  },
+  {
+    "id": "SLPR",
+    "name": "SLEEPER (CONCRETE)"
+  },
+  {
+    "id": "SLUD",
+    "name": "SLUDGE"
+  },
+  {
+    "id": "SO",
+    "name": "SOLVENT OIL"
+  },
+  {
+    "id": "SOAP",
+    "name": "SOAP"
+  },
+  {
+    "id": "SODA",
+    "name": "SODA ASH"
+  },
+  {
+    "id": "SSAD",
+    "name": "SILICA SAND"
+  },
+  {
+    "id": "STC",
+    "name": "COAL FOR STEEL PLANTS"
+  },
+  {
+    "id": "STEL",
+    "name": "STEEL"
+  },
+  {
+    "id": "STON",
+    "name": "STONE"
+  },
+  {
+    "id": "SUG",
+    "name": "SUGAR"
+  },
+  {
+    "id": "TAR",
+    "name": "TAR COAL"
+  },
+  {
+    "id": "TDO",
+    "name": "TEA DRIER OIL"
+  },
+  {
+    "id": "TLS",
+    "name": "TWO LEG SCHEME"
+  },
+  {
+    "id": "TOLU",
+    "name": "TOLUENE "
+  },
+  {
+    "id": "TURP",
+    "name": "TURPENTINE"
+  },
+  {
+    "id": "VGO",
+    "name": "VACUUM GAS OIL"
+  },
+  {
+    "id": "VO",
+    "name": "VAPOURISING OIL"
+  },
+  {
+    "id": "VOIL",
+    "name": "VEGITABLE OIL"
+  },
+  {
+    "id": "VOP",
+    "name": "VEGETABLE OIL PITCHES"
+  },
+  {
+    "id": "W",
+    "name": "WHEAT"
+  },
+  {
+    "id": "WATR",
+    "name": "WATER"
+  },
+  {
+    "id": "WBFR",
+    "name": "WHEAT & BOILED FINE RICE"
+  },
+  {
+    "id": "WBPR",
+    "name": "WHEAT & BOILED PARMAL RICE"
+  },
+  {
+    "id": "WBR",
+    "name": "WHEAT & BOILED RICE"
+  },
+  {
+    "id": "WFR",
+    "name": "WHEAT & FINE RICE"
+  },
+  {
+    "id": "WOOD",
+    "name": "TIMBER"
+  },
+  {
+    "id": "WPR",
+    "name": "WHEAT & PARMAL RICE"
+  },
+  {
+    "id": "XYLN",
+    "name": "XYLENE"
+  },
+  {
+    "id": "ZINC",
+    "name": "ZINC ORE"
+  },
+  {
+    "id": "ZRCM",
+    "name": "ZIRCOMIUM ORE"
+  }
+]

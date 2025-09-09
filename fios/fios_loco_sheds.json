@@ -1,0 +1,1878 @@
+[
+  {
+    "TCode": "ABEC",
+    "TName": "AHMEDABAD ELECTRIC SHED"
+  },
+  {
+    "TCode": "ABR",
+    "TName": "ABU ROAD"
+  },
+  {
+    "TCode": "ABRD",
+    "TName": "ABU ROAD DIESEL SHED"
+  },
+  {
+    "TCode": "ADI",
+    "TName": "AHMEDABAD JN."
+  },
+  {
+    "TCode": "ADRA",
+    "TName": "ADRA JN."
+  },
+  {
+    "TCode": "ADSD",
+    "TName": "DIESEL SHED ANDAL"
+  },
+  {
+    "TCode": "AESA",
+    "TName": "ELECTRIC SHED ASN"
+  },
+  {
+    "TCode": "AGC",
+    "TName": "AGRA CANT JN."
+  },
+  {
+    "TCode": "AII",
+    "TName": "AJMER JN."
+  },
+  {
+    "TCode": "AJJ",
+    "TName": "ARAKKONAM JN."
+  },
+  {
+    "TCode": "AJJE",
+    "TName": "ARAKONAM ELECTRIC SHED"
+  },
+  {
+    "TCode": "AJJL",
+    "TName": "ELECTRIC LOCO SHED, AJJ"
+  },
+  {
+    "TCode": "AJNI",
+    "TName": "AJNI"
+  },
+  {
+    "TCode": "ALD",
+    "TName": "PRAYAGRAJ JUNCTION"
+  },
+  {
+    "TCode": "AMVD",
+    "TName": "ALAMBAGH DIESEL SHED"
+  },
+  {
+    "TCode": "ANDS",
+    "TName": "ANAND DIESEL SHED"
+  },
+  {
+    "TCode": "ANGE",
+    "TName": "ANGUL ELECTRIC SHED"
+  },
+  {
+    "TCode": "ANGL",
+    "TName": "ANGUL"
+  },
+  {
+    "TCode": "ANR",
+    "TName": "ANARA JN."
+  },
+  {
+    "TCode": "AQE",
+    "TName": "AJNI ELECTRIC SHED"
+  },
+  {
+    "TCode": "ASN",
+    "TName": "ASANSOL JN."
+  },
+  {
+    "TCode": "ASNL",
+    "TName": "ASANSOL ELECTIC SHED"
+  },
+  {
+    "TCode": "ASR",
+    "TName": "AMRITSAR JN."
+  },
+  {
+    "TCode": "ASYD",
+    "TName": "PRAYAGRAJ STABLING YARD (DIESEL) PRYJ"
+  },
+  {
+    "TCode": "ATSD",
+    "TName": "TRIP SHED UDL"
+  },
+  {
+    "TCode": "ATSE",
+    "TName": "PRAYAGRAJ TRIP SHED PRYJ"
+  },
+  {
+    "TCode": "ATSS",
+    "TName": "TRIP SHED ASN"
+  },
+  {
+    "TCode": "BA",
+    "TName": "BANDRA"
+  },
+  {
+    "TCode": "BAMY",
+    "TName": "BANDRA MARSHALLING YARD"
+  },
+  {
+    "TCode": "BBQ",
+    "TName": "BASIN BRIDGE JN. (MADRAS)"
+  },
+  {
+    "TCode": "BBQT",
+    "TName": "TRIP SHED, BBQ"
+  },
+  {
+    "TCode": "BCT",
+    "TName": "MUMBAI CENTRAL (BCL FOR LOCAL)"
+  },
+  {
+    "TCode": "BDLB",
+    "TName": "BANDRA DIESEL LOCO SHED, BA"
+  },
+  {
+    "TCode": "BDSD",
+    "TName": "DIESEL SHED BARDDHAMAN"
+  },
+  {
+    "TCode": "BDTD",
+    "TName": "BANDRA DIESEL LOCO SHED"
+  },
+  {
+    "TCode": "BELS",
+    "TName": "ELECTRIC LOCO SHED BSL"
+  },
+  {
+    "TCode": "BETS",
+    "TName": "ELECTRIC TRIP SHED BSL"
+  },
+  {
+    "TCode": "BGA",
+    "TName": "BAGALIA"
+  },
+  {
+    "TCode": "BGAA",
+    "TName": "BELIAGHAT LOCOSHED"
+  },
+  {
+    "TCode": "BGDD",
+    "TName": "DIESEL SHED BELIAGHATA"
+  },
+  {
+    "TCode": "BGKD",
+    "TName": "BHAGAT KI KOTHI DIESEL SHED"
+  },
+  {
+    "TCode": "BGKT",
+    "TName": "BHAGAT KI KOTHI"
+  },
+  {
+    "TCode": "BIA",
+    "TName": "BHILAI JN."
+  },
+  {
+    "TCode": "BIAE",
+    "TName": "BHILAI ELECTRIC SHED"
+  },
+  {
+    "TCode": "BIMN",
+    "TName": "BILIMORA JN."
+  },
+  {
+    "TCode": "BINA",
+    "TName": "BINA JN."
+  },
+  {
+    "TCode": "BJU",
+    "TName": "BARAUNI JN."
+  },
+  {
+    "TCode": "BJUE",
+    "TName": "BARAUNI ELEKTRIC SHED"
+  },
+  {
+    "TCode": "BKSC",
+    "TName": "BOKARO STEEL CITY"
+  },
+  {
+    "TCode": "BKSE",
+    "TName": "BOKARO STEEL ELECTRIC SHED"
+  },
+  {
+    "TCode": "BL",
+    "TName": "VALSAD"
+  },
+  {
+    "TCode": "BLEE",
+    "TName": "VALSAD ELECTRIC SHED"
+  },
+  {
+    "TCode": "BMG",
+    "TName": "BAMANGACHHI"
+  },
+  {
+    "TCode": "BNDL",
+    "TName": "BONDAMUNDA ELECTRIC SHED"
+  },
+  {
+    "TCode": "BNDM",
+    "TName": "BONDA MUNDA JN."
+  },
+  {
+    "TCode": "BNDX",
+    "TName": "BONDAMUNDA DIESEL SHED"
+  },
+  {
+    "TCode": "BPQ",
+    "TName": "BALHARSHAH"
+  },
+  {
+    "TCode": "BRC",
+    "TName": "VADODRA JN."
+  },
+  {
+    "TCode": "BRCE",
+    "TName": "VADODARA ELECTRIC SHED"
+  },
+  {
+    "TCode": "BRDL",
+    "TName": "BRDL"
+  },
+  {
+    "TCode": "BSL",
+    "TName": "BHUSAVAL JN."
+  },
+  {
+    "TCode": "BSLL",
+    "TName": "BHUSAVAL ELECTNIC SHED"
+  },
+  {
+    "TCode": "BSP",
+    "TName": "BILASPUR JN."
+  },
+  {
+    "TCode": "BSPE",
+    "TName": "BILASPUR ELECTRIC SHED"
+  },
+  {
+    "TCode": "BTSB",
+    "TName": "TRIP SHED BMG"
+  },
+  {
+    "TCode": "BWN",
+    "TName": "BARDDHAMAN JN. (BG)"
+  },
+  {
+    "TCode": "BWNX",
+    "TName": "BARDDHAMAN DIESEL SHED"
+  },
+  {
+    "TCode": "BZA",
+    "TName": "VIJAYWADA JN."
+  },
+  {
+    "TCode": "BZAD",
+    "TName": "VIJAYAWADA DIESEL SHED"
+  },
+  {
+    "TCode": "BZAE",
+    "TName": "VIJAYAWADA ELECRTIC SHED"
+  },
+  {
+    "TCode": "CBSP",
+    "TName": "GCB SIDING PARADEEP PORT,  PARADEEP"
+  },
+  {
+    "TCode": "CI",
+    "TName": "CHHAPRA KACHERI JN."
+  },
+  {
+    "TCode": "CIF",
+    "TName": "CHHAPRA KACHERI JN."
+  },
+  {
+    "TCode": "CKP",
+    "TName": "CHAKRADHARPUR"
+  },
+  {
+    "TCode": "CLA",
+    "TName": "KURLA JN."
+  },
+  {
+    "TCode": "CLAD",
+    "TName": "KURLA DIESEL SHED"
+  },
+  {
+    "TCode": "CNB",
+    "TName": "KANPUR CENTRAL JN."
+  },
+  {
+    "TCode": "CNBE",
+    "TName": "KANPUR ELECRTIC SHED"
+  },
+  {
+    "TCode": "CPU",
+    "TName": "CHOPAN"
+  },
+  {
+    "TCode": "CRWB",
+    "TName": "COACH REHABILITATION WORKSHOP BPL"
+  },
+  {
+    "TCode": "CRWP",
+    "TName": "ARRLAGE RAPAIR WORKSHOP, BVC"
+  },
+  {
+    "TCode": "CSMT",
+    "TName": "CHATRAPATI SHIVAJI MAHARAJ TERMINUS"
+  },
+  {
+    "TCode": "CSTM",
+    "TName": "CHATRAPATI SHIVAJI MAHARAJ TERMINUS"
+  },
+  {
+    "TCode": "CTSC",
+    "TName": "TRIP SHED CP"
+  },
+  {
+    "TCode": "DDU",
+    "TName": "PT. DEEN DAYAL UPADHYAYA JUNCTION"
+  },
+  {
+    "TCode": "DDUE",
+    "TName": "PT.DEEN DAYAL UPADHYAYA ELECTRIC SHED"
+  },
+  {
+    "TCode": "DDUX",
+    "TName": "PT.DEEN DAYAL UPADHYAYA DIESEL SHED"
+  },
+  {
+    "TCode": "DDWS",
+    "TName": "DAHOD WORKSHOP, DHD"
+  },
+  {
+    "TCode": "DELD",
+    "TName": "DIESEL ELECTRIC LOCO TRIP SHED DD"
+  },
+  {
+    "TCode": "DGG",
+    "TName": "DONGAR GARH"
+  },
+  {
+    "TCode": "DGTL",
+    "TName": "DIESEL LOCO SHED, GTL"
+  },
+  {
+    "TCode": "DHD",
+    "TName": "DAHOD"
+  },
+  {
+    "TCode": "DHN",
+    "TName": "DHANBAD JN."
+  },
+  {
+    "TCode": "DHOA",
+    "TName": "DHAULPUR"
+  },
+  {
+    "TCode": "DJ",
+    "TName": "DARJEELING"
+  },
+  {
+    "TCode": "DKZJ",
+    "TName": "DIESEL LOCO SHED, KZJ"
+  },
+  {
+    "TCode": "DLAC",
+    "TName": "DIESEL LOCO TRIP SHED, UMB"
+  },
+  {
+    "TCode": "DLAR",
+    "TName": "DIESEL LOCO SHED (ABR) ABU ROAD"
+  },
+  {
+    "TCode": "DLBG",
+    "TName": "DIESEL LOCO SHED (BGKT) BHAGAT KI KOTHI"
+  },
+  {
+    "TCode": "DLBK",
+    "TName": "DIESEL LOCO SHED BOKARO SERVED BY BKSC"
+  },
+  {
+    "TCode": "DLCP",
+    "TName": "DIESEL TRIP SHED FL"
+  },
+  {
+    "TCode": "DLET",
+    "TName": "DIESEL LOCO SHED, ET"
+  },
+  {
+    "TCode": "DLGY",
+    "TName": "DIESEL LOCO SHED, GY"
+  },
+  {
+    "TCode": "DLHK",
+    "TName": "DIESEL LOCO TRIP SHED, KLK"
+  },
+  {
+    "TCode": "DLI",
+    "TName": "DELHI JN."
+  },
+  {
+    "TCode": "DLKP",
+    "TName": "DIESEL LOCO SHED, KGP"
+  },
+  {
+    "TCode": "DLLM",
+    "TName": "DIESEL LOCO SHED, CLA"
+  },
+  {
+    "TCode": "DLMT",
+    "TName": "DIESEL LOCO SHED MALDA TOWN SERVED BY MALDA TOWN"
+  },
+  {
+    "TCode": "DLNK",
+    "TName": "DIESEL LOCO SHED, NKJ"
+  },
+  {
+    "TCode": "DLNM",
+    "TName": "DIESEL LOCO SHED NAGPUR MOTIBAGH"
+  },
+  {
+    "TCode": "DLPK",
+    "TName": "DIESEL LOCO TRIP SHED, PTK"
+  },
+  {
+    "TCode": "DLRR",
+    "TName": "DIESEL LOCO SHED RAIPUR STORE DEPOT"
+  },
+  {
+    "TCode": "DLSA",
+    "TName": "DIESEL LOCO SHED, AMV"
+  },
+  {
+    "TCode": "DLSC",
+    "TName": "DIESEL LOCO SHED, CHOPAN"
+  },
+  {
+    "TCode": "DLSG",
+    "TName": "DIESEL LOCO SHED - NEW GUWAHATI SERVED BY NEW GUWAHATI"
+  },
+  {
+    "TCode": "DLSH",
+    "TName": "DIESEL LOCO SHED SERVED BY UBL"
+  },
+  {
+    "TCode": "DLSJ",
+    "TName": "DIESEL LOCO SHED JHS"
+  },
+  {
+    "TCode": "DLSK",
+    "TName": "DIESEL LOCO SHED SERVED BY KJM"
+  },
+  {
+    "TCode": "DLSL",
+    "TName": "DIESEL LOCO SHED, LDH"
+  },
+  {
+    "TCode": "DLSM",
+    "TName": "DIESEL LOCO SHED, SAMASTIPUR JN."
+  },
+  {
+    "TCode": "DLSN",
+    "TName": "DIESEL LOCO SHED, SAMASTIPUR JN."
+  },
+  {
+    "TCode": "DLSP",
+    "TName": "DIESEL LOCO SHED, PATRATU"
+  },
+  {
+    "TCode": "DLSS",
+    "TName": "DIESEL LOCO SHED -SILIGURI JN. SERVED BY SILIGURI JN."
+  },
+  {
+    "TCode": "DLST",
+    "TName": "DIESEL LOCO SHED, TATA"
+  },
+  {
+    "TCode": "DLSU",
+    "TName": "DIESEL LOCO SHED PT. DEEN DAYAL UPADHAYAAYA JN."
+  },
+  {
+    "TCode": "DLSV",
+    "TName": "DIESEL LOCO SHED, WALTAIR MARSHALLING YARD"
+  },
+  {
+    "TCode": "DLTB",
+    "TName": "DIESEL LOCO SHED, TKD"
+  },
+  {
+    "TCode": "DLVW",
+    "TName": "DIESEL LOCO SHED (BZA) VIJAYWADA JN."
+  },
+  {
+    "TCode": "DMLV",
+    "TName": "DIESEL LOCO SHED, MLY"
+  },
+  {
+    "TCode": "DMUA",
+    "TName": "DMU CAR TRIP SHED AGRA CANTT."
+  },
+  {
+    "TCode": "DNDE",
+    "TName": "DAUND ELECTRIC SHED"
+  },
+  {
+    "TCode": "DPS",
+    "TName": "DANGOAPOSI"
+  },
+  {
+    "TCode": "DPTN",
+    "TName": "DIESEL LOCO PIT, TATA"
+  },
+  {
+    "TCode": "DSBM",
+    "TName": "DIESEL LOCO SHED BNDM"
+  },
+  {
+    "TCode": "DSGA",
+    "TName": "DSGA"
+  },
+  {
+    "TCode": "DSKN",
+    "TName": "DIESEL LOCO SHED, KYN"
+  },
+  {
+    "TCode": "DSRL",
+    "TName": "DIESEL LOCO SHED, RTM"
+  },
+  {
+    "TCode": "DTBD",
+    "TName": "DIESEL TRIP SHED BA"
+  },
+  {
+    "TCode": "DTKT",
+    "TName": "DIESEL TRIP SHED KOTA"
+  },
+  {
+    "TCode": "DTSB",
+    "TName": "DEMU TRIP SHED BENGALURU CANTT."
+  },
+  {
+    "TCode": "DTSH",
+    "TName": "DIESEL TRIP SHED, HAPA"
+  },
+  {
+    "TCode": "DTSJ",
+    "TName": "DIESEL TRIP SHED - NEW JALPAIGURI JN. SERVED BY NEW JALPAIGU"
+  },
+  {
+    "TCode": "DTSK",
+    "TName": "DIESEL TRIP SHED SERVED BY KJM"
+  },
+  {
+    "TCode": "DTSL",
+    "TName": "DIESEL TRIP SHED BSL"
+  },
+  {
+    "TCode": "DTSS",
+    "TName": "DEMU TRAIN SET SHED SSB"
+  },
+  {
+    "TCode": "DTST",
+    "TName": "DIESEL TRIP SHED STA"
+  },
+  {
+    "TCode": "DTSV",
+    "TName": "DIESELTRIP SHED SERVED BY BL"
+  },
+  {
+    "TCode": "DURG",
+    "TName": "DURG JN."
+  },
+  {
+    "TCode": "EBZA",
+    "TName": "ELECTRIC LOC SHED, BZA"
+  },
+  {
+    "TCode": "ED",
+    "TName": "ERODE JN."
+  },
+  {
+    "TCode": "EDDS",
+    "TName": "DIESEL LOCO SHED, ED"
+  },
+  {
+    "TCode": "EDDX",
+    "TName": "ERODE DIESEL SHED"
+  },
+  {
+    "TCode": "EDE",
+    "TName": "ERODE ELECTRIC SHED"
+  },
+  {
+    "TCode": "EDLS",
+    "TName": "ELECTRIC LOCO SHED, ED"
+  },
+  {
+    "TCode": "EGTL",
+    "TName": "ELECTRIC LOCO SHED, GTL"
+  },
+  {
+    "TCode": "EKZJ",
+    "TName": "ELECTRIC LOCO SHED, KZJ"
+  },
+  {
+    "TCode": "ELAJ",
+    "TName": "ELAJ"
+  },
+  {
+    "TCode": "ELBB",
+    "TName": "ELECTIC LOCO SHED BILASPUR"
+  },
+  {
+    "TCode": "ELBD",
+    "TName": "ELECTIC LOCO SHED BHILAI SERVED BY DBEC"
+  },
+  {
+    "TCode": "ELBM",
+    "TName": "ELECTRIC LOC SHED BNDM"
+  },
+  {
+    "TCode": "ELDD",
+    "TName": "ELECTRIC LOCO SHED DAUND"
+  },
+  {
+    "TCode": "ELET",
+    "TName": "ELECTRIC LOCO SHED, ET"
+  },
+  {
+    "TCode": "ELGB",
+    "TName": "ELECTRIC LOCO SHED GZB"
+  },
+  {
+    "TCode": "ELGD",
+    "TName": "ELECTRIC LOCO SHED, LGD"
+  },
+  {
+    "TCode": "ELGH",
+    "TName": "ELECTRIC LOCO TRIP SHED, GUJHANDI"
+  },
+  {
+    "TCode": "ELIN",
+    "TName": "ELECTRIC LOCO SHED / ISPATNAGAR"
+  },
+  {
+    "TCode": "ELKP",
+    "TName": "ELECTRIC LOCO SHED, KGP"
+  },
+  {
+    "TCode": "ELKS",
+    "TName": "ELECTRIC LOCO SHED, KHANALAMPURA SERVED BY KJGY"
+  },
+  {
+    "TCode": "ELNK",
+    "TName": "ELECTRIC LOCO SHED, NKJ"
+  },
+  {
+    "TCode": "ELPB",
+    "TName": "ELECTRIC LOCO PIT BNDM"
+  },
+  {
+    "TCode": "ELPD",
+    "TName": "ELECTRIC LOCO PIT, DPS"
+  },
+  {
+    "TCode": "ELPS",
+    "TName": "ELECTRIC LOCO PIT, SRC"
+  },
+  {
+    "TCode": "ELPT",
+    "TName": "ELECTRIC LOCO PIT TATA"
+  },
+  {
+    "TCode": "ELSA",
+    "TName": "ELECTRIC LOCO SHED, ANGL"
+  },
+  {
+    "TCode": "ELSB",
+    "TName": "ELECTRIC LOCO SHED, BOKARO SERVED BY BKSC"
+  },
+  {
+    "TCode": "ELSC",
+    "TName": "ELECTRIC LOC TRP SHED, CSTM"
+  },
+  {
+    "TCode": "ELSG",
+    "TName": "ELECTRIC LOCO SHED NSC BOSE JN. GOMOH"
+  },
+  {
+    "TCode": "ELSH",
+    "TName": "ELECTRI LOCO SHED GARHARA"
+  },
+  {
+    "TCode": "ELSJ",
+    "TName": "ELECTRIC LOCO SHED JHS"
+  },
+  {
+    "TCode": "ELSK",
+    "TName": "ELECTRIC LOCO SHED, CNB"
+  },
+  {
+    "TCode": "ELSL",
+    "TName": "ELECTRIC LOCO SHED LDH"
+  },
+  {
+    "TCode": "ELSM",
+    "TName": "ELECTRIC LOCO SHED PT. DEEN DAYAL UPADHAYAYA JN."
+  },
+  {
+    "TCode": "ELSN",
+    "TName": "ELECTRIC LOCO SHED PT. DEEN DAYAL UPADHAYAYA JN."
+  },
+  {
+    "TCode": "ELSP",
+    "TName": "ELECTRIC LOCO TRIP SHED, PUNE"
+  },
+  {
+    "TCode": "ELSR",
+    "TName": "ELECTRIC LOCO SHED ROU"
+  },
+  {
+    "TCode": "ELSS",
+    "TName": "ELECTRIC LOCO SHED, SRC"
+  },
+  {
+    "TCode": "ELST",
+    "TName": "ELECTRIC OCO SHED, TATA"
+  },
+  {
+    "TCode": "ELSV",
+    "TName": "ELSV LOCO SHED"
+  },
+  {
+    "TCode": "ELTB",
+    "TName": "ELECTRIC LOCO TRIP SHED, DHANBAD JN."
+  },
+  {
+    "TCode": "ELTD",
+    "TName": "ELECTRIC LOCO SHED, TUGLAKABAD SERVED BY TKD"
+  },
+  {
+    "TCode": "ELTG",
+    "TName": "ELECTRIC LOCO TRIP SHED NSC BOSE JN. GOMOH"
+  },
+  {
+    "TCode": "ELTI",
+    "TName": "ELECTRIC LOCO TRIP SHED, IGP"
+  },
+  {
+    "TCode": "ELTP",
+    "TName": "ELECTRIC LOCO TRIP SHED PT. DEEN DAYAL UPADHAYAYA JN."
+  },
+  {
+    "TCode": "EMWB",
+    "TName": "ELECTRI LOCOMOTIVE WORKSHOP BSL"
+  },
+  {
+    "TCode": "EOLK",
+    "TName": "ELECTRIC LOCO OUTPIT KALYAN"
+  },
+  {
+    "TCode": "ERS",
+    "TName": "ERNAKULAM JN."
+  },
+  {
+    "TCode": "ERSS",
+    "TName": "DIESEL LOCO SHED, ERS"
+  },
+  {
+    "TCode": "ERST",
+    "TName": "TRP SHED ERS"
+  },
+  {
+    "TCode": "ERSX",
+    "TName": "ERNAKULAM DIESEL SHED"
+  },
+  {
+    "TCode": "ESAC",
+    "TName": "ELECTRIC LOCO TRIP SHED, UMB"
+  },
+  {
+    "TCode": "ESAS",
+    "TName": "ELECTRIC LOCO TRIP SHED, ASR"
+  },
+  {
+    "TCode": "ESAV",
+    "TName": "ELECTRIC LOCO TRIP SHED, ANVT"
+  },
+  {
+    "TCode": "ESDL",
+    "TName": "ESDL"
+  },
+  {
+    "TCode": "ESGP",
+    "TName": "GORAKHPUR AC ELECTRIC LOCOSHED"
+  },
+  {
+    "TCode": "ESJT",
+    "TName": "ELECTRIC LOCO TRIP SHED, JAT"
+  },
+  {
+    "TCode": "ESLD",
+    "TName": "ELECTRIC LOCO TRIP SHED, LDH"
+  },
+  {
+    "TCode": "ESLN",
+    "TName": "ELECTRIC LOCO TRIP SHED, LKO"
+  },
+  {
+    "TCode": "ESMV",
+    "TName": "ELECTRIC LOCO TRIP SHED, SVDK"
+  },
+  {
+    "TCode": "ESND",
+    "TName": "ELECTRIC LOCO TRIP SHED, NDLS"
+  },
+  {
+    "TCode": "ESSB",
+    "TName": "ELECTRIC LOCO SHED SAIYEDPUR BHITRI"
+  },
+  {
+    "TCode": "ESTK",
+    "TName": "ELECTRIC LOCO TRIP SHED, TKD"
+  },
+  {
+    "TCode": "ET",
+    "TName": "ITARSI JN."
+  },
+  {
+    "TCode": "ETBD",
+    "TName": "ELECTRIC TRIP SHED BA"
+  },
+  {
+    "TCode": "ETD",
+    "TName": "ITARSI DIESEL SHED"
+  },
+  {
+    "TCode": "ETDB",
+    "TName": "ELECTRIC LOCO TRIP SHED DHANBAD JN."
+  },
+  {
+    "TCode": "ETE",
+    "TName": "ITARSI ELECTRIC SHED"
+  },
+  {
+    "TCode": "ETET",
+    "TName": "ELECTRIC TRIP SHED, ET"
+  },
+  {
+    "TCode": "ETGY",
+    "TName": "ELECTRIC LOCO TRIP SHED, GAYA"
+  },
+  {
+    "TCode": "ETKT",
+    "TName": "ELECTRIC TRIP SHED KOTA"
+  },
+  {
+    "TCode": "ETMC",
+    "TName": "ELECTRIC TRIP SHED MMCT"
+  },
+  {
+    "TCode": "ETNK",
+    "TName": "ELECTRIC TRIP SHED, NKJ"
+  },
+  {
+    "TCode": "ETSB",
+    "TName": "ELECTRIC TRIP SHED SERVED BY SBC"
+  },
+  {
+    "TCode": "ETSK",
+    "TName": "ELECTRIC LOCO SHED, KYN"
+  },
+  {
+    "TCode": "ETSL",
+    "TName": "ELECTRIC LOCO TRIP SHED, LONAVLA"
+  },
+  {
+    "TCode": "ETSM",
+    "TName": "ELECTRIC TRIP SHED SWM"
+  },
+  {
+    "TCode": "ETSR",
+    "TName": "ELECTRIC LOCO TRIP SHED RTM"
+  },
+  {
+    "TCode": "ETVV",
+    "TName": "ELECTRIC LOCO TRIP SHED, VVH"
+  },
+  {
+    "TCode": "FBZA",
+    "TName": "ELECTRIC LOCO TRIP SHED FREIGHT, BZA"
+  },
+  {
+    "TCode": "FL",
+    "TName": "PHULERA JN."
+  },
+  {
+    "TCode": "GAYA",
+    "TName": "GAYA JN."
+  },
+  {
+    "TCode": "GD",
+    "TName": "GONDA JN."
+  },
+  {
+    "TCode": "GDDE",
+    "TName": "GONDA ELECTRIC LOCO SHED"
+  },
+  {
+    "TCode": "GDDX",
+    "TName": "GONDA DIESEL SHED"
+  },
+  {
+    "TCode": "GDG",
+    "TName": "GADAG JN."
+  },
+  {
+    "TCode": "GDLG",
+    "TName": "GOVT. DIESEL LOCO MAINTENANCE DEPOT GANDHIDHAM"
+  },
+  {
+    "TCode": "GDSB",
+    "TName": "GANDHIDHAM DIESEL SHED"
+  },
+  {
+    "TCode": "GIM",
+    "TName": "GANDHI DHAM (MG)"
+  },
+  {
+    "TCode": "GIMB",
+    "TName": "GANDHIDHAM JN."
+  },
+  {
+    "TCode": "GIMD",
+    "TName": "GANDHIDHAM DIESEL SHED"
+  },
+  {
+    "TCode": "GJD",
+    "TName": "GUJHANDI"
+  },
+  {
+    "TCode": "GKPL",
+    "TName": "GORAKHPUR JN"
+  },
+  {
+    "TCode": "GMC",
+    "TName": "KANPUR GOODS MARSHALLING YARD"
+  },
+  {
+    "TCode": "GMO",
+    "TName": "NETAJI SUBHASH CHANDRA BOSE JUNCTION GOMOH"
+  },
+  {
+    "TCode": "GMOE",
+    "TName": "GOMO ELECTRIC SHED"
+  },
+  {
+    "TCode": "GNAN",
+    "TName": "GONDA JN."
+  },
+  {
+    "TCode": "GOC",
+    "TName": "PONMALAI (GOLDEN ROCK) JN. GOODS"
+  },
+  {
+    "TCode": "GOCD",
+    "TName": "GOLDEN ROCK DIESEL SHED"
+  },
+  {
+    "TCode": "GOCL",
+    "TName": "DIESEL LOCO SHED, GOC"
+  },
+  {
+    "TCode": "GTKL",
+    "TName": "GUNTAKAL JN."
+  },
+  {
+    "TCode": "GTL",
+    "TName": "GUNTAKAL JN."
+  },
+  {
+    "TCode": "GTLD",
+    "TName": "GUNTAKAL DIESEL SHED"
+  },
+  {
+    "TCode": "GTLE",
+    "TName": "GUNTAKAL ELECTRIC SHED"
+  },
+  {
+    "TCode": "GUJ",
+    "TName": "GUNJA"
+  },
+  {
+    "TCode": "GWO",
+    "TName": "GWALIOR"
+  },
+  {
+    "TCode": "GY",
+    "TName": "GOOTY JN."
+  },
+  {
+    "TCode": "GYD",
+    "TName": "GOOTY DIESEL SHED"
+  },
+  {
+    "TCode": "GZB",
+    "TName": "GHAZIABAD JN."
+  },
+  {
+    "TCode": "GZBE",
+    "TName": "GHAZIABAD ELECTRIC SHED"
+  },
+  {
+    "TCode": "HAPA",
+    "TName": "HAPA"
+  },
+  {
+    "TCode": "HDSD",
+    "TName": "DIESEL SHED HOWRAH"
+  },
+  {
+    "TCode": "HESH",
+    "TName": "ELECTRIC SHED HWH"
+  },
+  {
+    "TCode": "HPT",
+    "TName": "HOSAPETE JN."
+  },
+  {
+    "TCode": "HTE",
+    "TName": "HATIA"
+  },
+  {
+    "TCode": "HWH",
+    "TName": "HOWRAH JN."
+  },
+  {
+    "TCode": "HWHD",
+    "TName": "HAWRAH DIESEL SHED"
+  },
+  {
+    "TCode": "HWHE",
+    "TName": "HAWRAH ELECTRIC SHED"
+  },
+  {
+    "TCode": "HYB",
+    "TName": "HYDERABAD DECCAN"
+  },
+  {
+    "TCode": "IDSS",
+    "TName": "IZZATNAGAR DIESEL SHED SIDING"
+  },
+  {
+    "TCode": "IGP",
+    "TName": "IGAT PURI"
+  },
+  {
+    "TCode": "IPTE",
+    "TName": "ELECTRIC LOCO SHED / ISPATNAGAR"
+  },
+  {
+    "TCode": "IZN",
+    "TName": "IZZATNAGAR"
+  },
+  {
+    "TCode": "IZND",
+    "TName": "IZZATNAGAR DIESEL SHED"
+  },
+  {
+    "TCode": "IZNE",
+    "TName": "IZZATNAGAR ELECTRIC LOCO SHED"
+  },
+  {
+    "TCode": "IZNS",
+    "TName": "IZZATNAGAR WORK SHOP SIDING"
+  },
+  {
+    "TCode": "JDSJ",
+    "TName": "DIESEL SHED JAMALPUR"
+  },
+  {
+    "TCode": "JHS",
+    "TName": "JHANSI JN."
+  },
+  {
+    "TCode": "JHSD",
+    "TName": "JHANSI DIESEL SHED"
+  },
+  {
+    "TCode": "JHSE",
+    "TName": "JHANSI ELECRTIC SHED"
+  },
+  {
+    "TCode": "JMP",
+    "TName": "JAMALPUR JN."
+  },
+  {
+    "TCode": "JMPD",
+    "TName": "JAMALP UR DIESEL SHED"
+  },
+  {
+    "TCode": "JPWP",
+    "TName": "WORKSHOP  JAMALPUR"
+  },
+  {
+    "TCode": "JTJ",
+    "TName": "JOLARPETTAI JN."
+  },
+  {
+    "TCode": "KGN",
+    "TName": "KURSEONG"
+  },
+  {
+    "TCode": "KGP",
+    "TName": "KHARAGPUR JN."
+  },
+  {
+    "TCode": "KGPE",
+    "TName": "ELECTRIC LOCO SHED, KGP"
+  },
+  {
+    "TCode": "KJGE",
+    "TName": "KHANALAM URA ELECTRIC SHED"
+  },
+  {
+    "TCode": "KJGY",
+    "TName": "KHANALAMPURA J.G.Y"
+  },
+  {
+    "TCode": "KJM",
+    "TName": "KRISHNA RAJA PURAM"
+  },
+  {
+    "TCode": "KJMD",
+    "TName": "KRISHNARAJAPURAM DIESEL  SHED"
+  },
+  {
+    "TCode": "KLKN",
+    "TName": "KALKA"
+  },
+  {
+    "TCode": "KOTA",
+    "TName": "KOTA JN."
+  },
+  {
+    "TCode": "KPA",
+    "TName": "KANCHRAPARA"
+  },
+  {
+    "TCode": "KPWP",
+    "TName": "WORKSHOP KANCHRAPARA"
+  },
+  {
+    "TCode": "KRDL",
+    "TName": "KIRANDUL"
+  },
+  {
+    "TCode": "KRPU",
+    "TName": "KORAPUT JN."
+  },
+  {
+    "TCode": "KSYD",
+    "TName": "KANPUR STABLING YARD (DIESEL ) SERVED BY CNB"
+  },
+  {
+    "TCode": "KTMS",
+    "TName": "KANPUR TRACTION MOTOR SHOP CNB"
+  },
+  {
+    "TCode": "KUR",
+    "TName": "KHURDA ROAD JN."
+  },
+  {
+    "TCode": "KYDX",
+    "TName": "KALYAN DIESEL SHED"
+  },
+  {
+    "TCode": "KYN",
+    "TName": "KALYAN JN."
+  },
+  {
+    "TCode": "KYNE",
+    "TName": "KALYAN ELECTRIC SHED"
+  },
+  {
+    "TCode": "KZJ",
+    "TName": "KAZIPET JN."
+  },
+  {
+    "TCode": "KZJD",
+    "TName": "KAZIPET DIESEL SHED"
+  },
+  {
+    "TCode": "KZJL",
+    "TName": "KAZIPET ELECTRIC SHED"
+  },
+  {
+    "TCode": "LDH",
+    "TName": "LUDHIANA JN."
+  },
+  {
+    "TCode": "LDHD",
+    "TName": "LUDHIANA DIESEL SHED"
+  },
+  {
+    "TCode": "LDHE",
+    "TName": "LUDHIANA ELECTRIC SHED"
+  },
+  {
+    "TCode": "LGD",
+    "TName": "LALLAGUDA"
+  },
+  {
+    "TCode": "LGDE",
+    "TName": "LALLGUDA ELECTRIC SHED"
+  },
+  {
+    "TCode": "LKO",
+    "TName": "LUCKNOW JN."
+  },
+  {
+    "TCode": "LMG",
+    "TName": "LUMDING JN."
+  },
+  {
+    "TCode": "LMGF",
+    "TName": "LUMDING JN."
+  },
+  {
+    "TCode": "LNL",
+    "TName": "LONAVLA"
+  },
+  {
+    "TCode": "LOPB",
+    "TName": "LOCO OUT PIT, BBS"
+  },
+  {
+    "TCode": "LOPP",
+    "TName": "ELECTRIC LOCO OUT PIT, PURI"
+  },
+  {
+    "TCode": "LOPV",
+    "TName": "LOCO OUT PIT, VSKP"
+  },
+  {
+    "TCode": "LPHT",
+    "TName": "ELECTRIC LOCO PIT, HTE"
+  },
+  {
+    "TCode": "LPKG",
+    "TName": "ELECTRIC LOCO PIT,KGP"
+  },
+  {
+    "TCode": "MB",
+    "TName": "MORADABAD JN."
+  },
+  {
+    "TCode": "MELS",
+    "TName": "ELECTRIC LOCO SHED, SRE"
+  },
+  {
+    "TCode": "MGS",
+    "TName": "PT. DEEN DAYAL UPADHYAYA JUNCTION"
+  },
+  {
+    "TCode": "MIB",
+    "TName": "MOTIBAGH"
+  },
+  {
+    "TCode": "MIBN",
+    "TName": "NAGPUR (MOTI BAGH)"
+  },
+  {
+    "TCode": "MLDD",
+    "TName": "MALDA TOWN DEISEL SHED"
+  },
+  {
+    "TCode": "MLDT",
+    "TName": "MALDATOWN"
+  },
+  {
+    "TCode": "MLY",
+    "TName": "MAULA ALI"
+  },
+  {
+    "TCode": "MLYD",
+    "TName": "MAULA ALI DIESEL SHED"
+  },
+  {
+    "TCode": "MMR",
+    "TName": "MANMAD JN."
+  },
+  {
+    "TCode": "MNBK",
+    "TName": "M/S NTPC-SAIL POWER CO. PTV. LTD. SIDING"
+  },
+  {
+    "TCode": "MSTS",
+    "TName": "TRIP SHED MS"
+  },
+  {
+    "TCode": "MTBW",
+    "TName": "MEMU TRIP SHED SERVED BY BAND"
+  },
+  {
+    "TCode": "MURI",
+    "TName": "MURI JN."
+  },
+  {
+    "TCode": "MYS",
+    "TName": "MYSURU JN."
+  },
+  {
+    "TCode": "MZRN",
+    "TName": "MURTIJAPUR JN(NG)"
+  },
+  {
+    "TCode": "NDLS",
+    "TName": "NEW DELHI"
+  },
+  {
+    "TCode": "NEDA",
+    "TName": "NEW ELECTRIC LOCO SHED GOVERNMENT MAINTENANCE DEPOT, AJNI"
+  },
+  {
+    "TCode": "NETP",
+    "TName": "NCRS ELECTRIC LOCO TRIP SHED PT. DEEN DAYAL UPADHAYAYA JN."
+  },
+  {
+    "TCode": "NGC",
+    "TName": "NEW GUWAHATI G/SHED"
+  },
+  {
+    "TCode": "NGCD",
+    "TName": "NEW GUWAHATI DIESEL SHED"
+  },
+  {
+    "TCode": "NGCF",
+    "TName": "NEW GUWAHATI G/SHED"
+  },
+  {
+    "TCode": "NGPE",
+    "TName": "LOCO SHED NAGPUR"
+  },
+  {
+    "TCode": "NIM",
+    "TName": "NIMDIH"
+  },
+  {
+    "TCode": "NKE",
+    "TName": "NARKATIAGANJ JN."
+  },
+  {
+    "TCode": "NKGT",
+    "TName": "NARKELDANGA LOCO TRIP SHED SERVED BY SDAH"
+  },
+  {
+    "TCode": "NKJ",
+    "TName": "NEW KATNI JN."
+  },
+  {
+    "TCode": "NKJD",
+    "TName": "NEW KATNI DIESEL SHED"
+  },
+  {
+    "TCode": "NKJE",
+    "TName": "NEW KATNI ELECTRIC SHED"
+  },
+  {
+    "TCode": "NMTD",
+    "TName": "DIESEL LOCO SHED NAGPUR MOTIBAGH"
+  },
+  {
+    "TCode": "NRKG",
+    "TName": "NARKATIAGANJ JN."
+  },
+  {
+    "TCode": "NRLN",
+    "TName": "NERAL JN."
+  },
+  {
+    "TCode": "NSZ",
+    "TName": "NISHATPURA"
+  },
+  {
+    "TCode": "NZM",
+    "TName": "HAZRAT NIZAM-UD-DIN JN."
+  },
+  {
+    "TCode": "OPDG",
+    "TName": "ELECTIC OUTPIT DONGARGARH"
+  },
+  {
+    "TCode": "OPKB",
+    "TName": "OUT PIT KORBA"
+  },
+  {
+    "TCode": "OPMD",
+    "TName": "OUT PIT MANMAD"
+  },
+  {
+    "TCode": "OPPP",
+    "TName": "OUT PIT PANVEL"
+  },
+  {
+    "TCode": "OPSD",
+    "TName": "OUT PIT SHAHDOL"
+  },
+  {
+    "TCode": "PADX",
+    "TName": "GHORPURI ELECTNIC SHED"
+  },
+  {
+    "TCode": "PCHN",
+    "TName": "PACHORA JN."
+  },
+  {
+    "TCode": "PDLS",
+    "TName": "DIESEL SHED PUNE"
+  },
+  {
+    "TCode": "PER",
+    "TName": "PERAMBUR"
+  },
+  {
+    "TCode": "PMGR",
+    "TName": "PONMALAI (GOLDEN ROCK) JN."
+  },
+  {
+    "TCode": "PNDS",
+    "TName": "PRATAPNAGAR DIESEL SHED"
+  },
+  {
+    "TCode": "PNPE",
+    "TName": "PRATAPNAGAR PIPLINE"
+  },
+  {
+    "TCode": "PNTP",
+    "TName": "PRIVATE SDNG M/S NATIONAL THERMAL POWER CORPRN. LTD,  KORBA"
+  },
+  {
+    "TCode": "PR",
+    "TName": "BOMBAY PAREL"
+  },
+  {
+    "TCode": "PRLW",
+    "TName": "PAREL LOCO WORK SHOP"
+  },
+  {
+    "TCode": "PRPN",
+    "TName": "PRATAP NAGAR"
+  },
+  {
+    "TCode": "PRTW",
+    "TName": "PRATAP NAGAR WORKSHOP"
+  },
+  {
+    "TCode": "PTA",
+    "TName": "PATIALA"
+  },
+  {
+    "TCode": "PTKN",
+    "TName": "PATHANKOT JN"
+  },
+  {
+    "TCode": "PTRU",
+    "TName": "PATRATU"
+  },
+  {
+    "TCode": "PTRX",
+    "TName": "PATRATU DIESEL SHED"
+  },
+  {
+    "TCode": "PUEJ",
+    "TName": "PHULERA JN."
+  },
+  {
+    "TCode": "PUNE",
+    "TName": "PUNE JN."
+  },
+  {
+    "TCode": "PURI",
+    "TName": "PURI"
+  },
+  {
+    "TCode": "PWO",
+    "TName": "PERAMBUR WORKS (GOODS OFFICE)"
+  },
+  {
+    "TCode": "R",
+    "TName": "RAIPUR JN."
+  },
+  {
+    "TCode": "RIG",
+    "TName": "RAIGARH"
+  },
+  {
+    "TCode": "RNC",
+    "TName": "RANCHI JN."
+  },
+  {
+    "TCode": "ROU",
+    "TName": "RAURKELA JN."
+  },
+  {
+    "TCode": "ROUE",
+    "TName": "ROURKELA ELECTRIC SHED"
+  },
+  {
+    "TCode": "ROZA",
+    "TName": "ROZA JN."
+  },
+  {
+    "TCode": "ROZD",
+    "TName": "ROZA DIESEL  SHED (GE)"
+  },
+  {
+    "TCode": "RPAN",
+    "TName": "RANGAPARA NORTH"
+  },
+  {
+    "TCode": "RPDX",
+    "TName": "RAIPUR DIESEL SHED"
+  },
+  {
+    "TCode": "RPM",
+    "TName": "ROYAPURAM"
+  },
+  {
+    "TCode": "RPME",
+    "TName": "ROYAPURAM ELECTRIC SHED"
+  },
+  {
+    "TCode": "RPMS",
+    "TName": "ELECTRIC LOCO SHED, RPM"
+  },
+  {
+    "TCode": "RSD",
+    "TName": "RAIPUR STORE DEPOT SDG,  RAIPUR"
+  },
+  {
+    "TCode": "RTM",
+    "TName": "RATLAM JN."
+  },
+  {
+    "TCode": "RTMD",
+    "TName": "RATLAM DIESEL SHED"
+  },
+  {
+    "TCode": "RU",
+    "TName": "RENIGUNTA JN."
+  },
+  {
+    "TCode": "SBC",
+    "TName": "KRANTIVIRA SANGOLLI RAYANNA (BENGALURU STATION)"
+  },
+  {
+    "TCode": "SBEM",
+    "TName": "ENGG. WORKSHOP (MG) SDG SABARMATI, SABARMATI JN."
+  },
+  {
+    "TCode": "SBES",
+    "TName": "ENGG. WORKSHOP (BG) SDG SABARMATI, SABARMATI JN."
+  },
+  {
+    "TCode": "SBI",
+    "TName": "SABARMATI JN. (MG)"
+  },
+  {
+    "TCode": "SBT",
+    "TName": "SABARMATI JN. (BG)"
+  },
+  {
+    "TCode": "SBTD",
+    "TName": "SABARMATI DIESEL SHED"
+  },
+  {
+    "TCode": "SDAD",
+    "TName": "SEALDAH DIESEL SHED"
+  },
+  {
+    "TCode": "SDAH",
+    "TName": "SEALDAH"
+  },
+  {
+    "TCode": "SGUD",
+    "TName": "SILIGURI DIESEL SHED"
+  },
+  {
+    "TCode": "SGUJ",
+    "TName": "SILIGURI JN."
+  },
+  {
+    "TCode": "SGUN",
+    "TName": "SILIGURI JN."
+  },
+  {
+    "TCode": "SHC",
+    "TName": "SAHARSA JN."
+  },
+  {
+    "TCode": "SKLR",
+    "TName": "SAKLESHPUR"
+  },
+  {
+    "TCode": "SLGJ",
+    "TName": "SILIGURI JN."
+  },
+  {
+    "TCode": "SLGT",
+    "TName": "SILIGURI TOWN"
+  },
+  {
+    "TCode": "SLSD",
+    "TName": "SEALDAH LOCO SHED SERVED BY SEALDAH"
+  },
+  {
+    "TCode": "SMID",
+    "TName": "SABARMATI DIESEL SHED"
+  },
+  {
+    "TCode": "SMYD",
+    "TName": "SABARMATI YARD"
+  },
+  {
+    "TCode": "SNF",
+    "TName": "SANAT NAGAR"
+  },
+  {
+    "TCode": "SPJ",
+    "TName": "SAMASTIPUR JN."
+  },
+  {
+    "TCode": "SPJD",
+    "TName": "SAMASTIPUR OIESEL SHED"
+  },
+  {
+    "TCode": "SRC",
+    "TName": "SANTRAGACHI JN."
+  },
+  {
+    "TCode": "SRCE",
+    "TName": "SANTRAGACHI ELECTRIC  SHED"
+  },
+  {
+    "TCode": "SREE",
+    "TName": "MADHEPURA ELECTRIC LOCO SHED, SHARANPUR"
+  },
+  {
+    "TCode": "SSB",
+    "TName": "SHAKURBASTI"
+  },
+  {
+    "TCode": "STNP",
+    "TName": "DIESEL LOCO SHED, TNP"
+  },
+  {
+    "TCode": "SWM",
+    "TName": "SAWAI MADHOPUR JN."
+  },
+  {
+    "TCode": "SYHE",
+    "TName": "SAIYEDPUR BHITRI"
+  },
+  {
+    "TCode": "TATA",
+    "TName": "TATA NAGAR JN."
+  },
+  {
+    "TCode": "TATE",
+    "TName": "TATANAGAR ELECTRIC SHED"
+  },
+  {
+    "TCode": "TBM",
+    "TName": "TAMBARAM"
+  },
+  {
+    "TCode": "TBZA",
+    "TName": "ELECTRIC LOCO TRIP SHED, BZA"
+  },
+  {
+    "TCode": "TDH",
+    "TName": "TINDHARIA"
+  },
+  {
+    "TCode": "TDL",
+    "TName": "TUNDLA JN."
+  },
+  {
+    "TCode": "THYB",
+    "TName": "ELECTRIC LOCO TRIP SHED, HYB"
+  },
+  {
+    "TCode": "TKD",
+    "TName": "TUGLAKABAD"
+  },
+  {
+    "TCode": "TKDD",
+    "TName": "TUGALAKABAD DIESEL SHED"
+  },
+  {
+    "TCode": "TKDE",
+    "TName": "TUGALAKABAD ELECTRIC SHED"
+  },
+  {
+    "TCode": "TLHR",
+    "TName": "TALCHER"
+  },
+  {
+    "TCode": "TNP",
+    "TName": "TONDIARPET"
+  },
+  {
+    "TCode": "TNPD",
+    "TName": "TONDIARPET DIESEL SHED"
+  },
+  {
+    "TCode": "TPJT",
+    "TName": "TRIP SHED TPJ"
+  },
+  {
+    "TCode": "TSAA",
+    "TName": "TRIP SHED AJNI"
+  },
+  {
+    "TCode": "TSBB",
+    "TName": "ELECTIC TRIP SHED, BILASPUR"
+  },
+  {
+    "TCode": "TSDB",
+    "TName": "TRIP SHED BHILAI SERVED BY DBEC"
+  },
+  {
+    "TCode": "TSDG",
+    "TName": "ELECTIC TRIP SHED DURG"
+  },
+  {
+    "TCode": "TSGK",
+    "TName": "DIESEL LOCO TRIP SHED, GTL"
+  },
+  {
+    "TCode": "TSJS",
+    "TName": "TRIP SHED JHS"
+  },
+  {
+    "TCode": "TSNF",
+    "TName": "ELECTRIC LOCO TRIP SHED, SNF"
+  },
+  {
+    "TCode": "TSRU",
+    "TName": "ELECTRIC LOCO SHED, RU"
+  },
+  {
+    "TCode": "TVC",
+    "TName": "TRIVANDRUM CENTRAL"
+  },
+  {
+    "TCode": "TVCT",
+    "TName": "TRIP SHED TVC"
+  },
+  {
+    "TCode": "TVT",
+    "TName": "TIRUVOTTIYUR"
+  },
+  {
+    "TCode": "TVTS",
+    "TName": "TRIP SHED, TVT"
+  },
+  {
+    "TCode": "UBL",
+    "TName": "HUBBALLI JN."
+  },
+  {
+    "TCode": "UBLD",
+    "TName": "HUBALI DIESEL SHED"
+  },
+  {
+    "TCode": "UDL",
+    "TName": "ANDAL JN."
+  },
+  {
+    "TCode": "UDLD",
+    "TName": "ANDAL DIESEL SHED"
+  },
+  {
+    "TCode": "UJN",
+    "TName": "UJJAIN JN."
+  },
+  {
+    "TCode": "UMB",
+    "TName": "AMBALA CANT JN."
+  },
+  {
+    "TCode": "VELS",
+    "TName": "VADODARA MARSHALLING YARD ELECTRIC LOCO SHED"
+  },
+  {
+    "TCode": "VESB",
+    "TName": "VALSAD ELECTRIC LOCO SHED SERVED BY BL"
+  },
+  {
+    "TCode": "VESV",
+    "TName": "VALSAD ELECTRIC LOCO SHED SERVED BY BL"
+  },
+  {
+    "TCode": "VMDS",
+    "TName": "VADODARA MARSHALLING YARD DIESEL SHED"
+  },
+  {
+    "TCode": "VMET",
+    "TName": "VADODARA MARSHALLING YARD ELECTRIC TRIP SHED"
+  },
+  {
+    "TCode": "VSKP",
+    "TName": "VISAKHAPATNAM"
+  },
+  {
+    "TCode": "VTA",
+    "TName": "VATVA"
+  },
+  {
+    "TCode": "VTAD",
+    "TName": "VATVA DIESEL SHED"
+  },
+  {
+    "TCode": "VTAS",
+    "TName": "VATVA DIESEL SHED"
+  },
+  {
+    "TCode": "VVH",
+    "TName": "VIDYAVIHAR"
+  },
+  {
+    "TCode": "VZP",
+    "TName": "VISHAKHAPATNAM-PORT"
+  },
+  {
+    "TCode": "WAT",
+    "TName": "ELECTRIC LOCO SHED VSKP"
+  },
+  {
+    "TCode": "WATD",
+    "TName": "VISAKHAPATNAM DIESEL SHED"
+  },
+  {
+    "TCode": "WATE",
+    "TName": "VISAKHAPATNAM ELECTRIC SHED"
+  },
+  {
+    "TCode": "WSAP",
+    "TName": "WORKSHOP ASHOKAPURAM"
+  },
+  {
+    "TCode": "WSHB",
+    "TName": "WORKSHOP SERVED BY UBL"
+  }
+]

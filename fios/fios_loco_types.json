@@ -1,0 +1,142 @@
+[
+  {
+    "TCode": "DEMU",
+    "TName": "D"
+  },
+  {
+    "TCode": "EF12K",
+    "TName": "WAG 9H TWIN"
+  },
+  {
+    "TCode": "EF9K",
+    "TName": "WAG 9HH"
+  },
+  {
+    "TCode": "WAG10",
+    "TName": "BG AC GD SERVICE"
+  },
+  {
+    "TCode": "WAG11",
+    "TName": "BROAD GAUGE AC GOODS TWIN CO-CO"
+  },
+  {
+    "TCode": "WAG12B",
+    "TName": "12000HP AC ELECTRIC LOCOMOTIVE"
+  },
+  {
+    "TCode": "WAG5",
+    "TName": "BROAD G UAGE AC GOODS SERVICE"
+  },
+  {
+    "TCode": "WAG5T",
+    "TName": "BROAD GUAGE AC GOODS SERVICE"
+  },
+  {
+    "TCode": "WAG6",
+    "TName": "MODIFIED BROAD GUAGE AC GOODS SERVICE"
+  },
+  {
+    "TCode": "WAG7",
+    "TName": "BROAD GAUGE AC GOODS SERVICE"
+  },
+  {
+    "TCode": "WAG9",
+    "TName": "BROAD GAUGE AC GOODS SERVICE"
+  },
+  {
+    "TCode": "WAG9C",
+    "TName": "BC AC GD SERVICE WITH CONV. BRAKE RIGING"
+  },
+  {
+    "TCode": "WAG9H",
+    "TName": "FREIGHT/GOODS"
+  },
+  {
+    "TCode": "WAG9HC",
+    "TName": "BC AC GD SRV W CONV.BRK RIGING W.H.AXL L"
+  },
+  {
+    "TCode": "WAG9HH",
+    "TName": "BC AC GD SERVICE WITH HIGH AXLE LOAD"
+  },
+  {
+    "TCode": "WAGC3",
+    "TName": "BC AC GD SERVICE"
+  },
+  {
+    "TCode": "WAP1",
+    "TName": "BROAD GAUGE AC PASSENGER SERVICE"
+  },
+  {
+    "TCode": "WAP4",
+    "TName": "BROAD GAUGE AC PASSENGER SERVICE"
+  },
+  {
+    "TCode": "WAP5",
+    "TName": "BROAD GAUGE AC PASSENGER SERVICE"
+  },
+  {
+    "TCode": "WAP7",
+    "TName": "BROAD GAUGE AC PASSENGER SERVICE"
+  },
+  {
+    "TCode": "WDG4",
+    "TName": "BROAD GAUGE DIESEL GOODS SERVICE"
+  },
+  {
+    "TCode": "WDG4B",
+    "TName": "BROAD GAUGE DIESEL GOODS SERVICE"
+  },
+  {
+    "TCode": "WDG4D",
+    "TName": "FREIGHT/GOODS"
+  },
+  {
+    "TCode": "WDG5",
+    "TName": "BROAD GAUGE DIESEL GOODS SERVICE"
+  },
+  {
+    "TCode": "WDG6G",
+    "TName": "6000HP AC DIESEL-ELECTRIC LOCOMOTIVE"
+  },
+  {
+    "TCode": "WDM3B",
+    "TName": "MODIFIED BROADGUAGE MIXED SERVICE"
+  },
+  {
+    "TCode": "WDM3D",
+    "TName": "MIX SERVICE"
+  },
+  {
+    "TCode": "WDM3F",
+    "TName": "MIX SERVICE"
+  },
+  {
+    "TCode": "WDP1",
+    "TName": "BROAD GUAGE DIESEL PASSENGER SERVICE"
+  },
+  {
+    "TCode": "WDP2",
+    "TName": "MODIFIED BROAD GUAGE DIESEL PASSENGER SE"
+  },
+  {
+    "TCode": "WDP3",
+    "TName": "MODIFIED BROAD GUAGE DIESEL PASSENGER SE"
+  },
+  {
+    "TCode": "WDP3A",
+    "TName": "MODIFIED BROAD GUAGE DIESEL PASSENGER SE"
+  },
+  {
+    "TCode": "WDP4",
+    "TName": "BROAD GUAGE DIESEL PASSENGER SERVICE"
+  },
+  {
+    "TCode": "WDP4B",
+    "TName": "BROAD GAUGE DIESEL PASSENGER SERVICE"
+  },
+  {
+    "TCode": "WDP4D",
+    "TName": "BROADGUAGE DIESEL PESSENGER LOCOMOTIVE"
+  }
+]
