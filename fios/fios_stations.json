@@ -933,7 +933,7 @@
   },
   {
     "TCode": "AKLA",
-    "TName": "AKOLA JN."
+    "TName": "AKLERA"
   },
   {
     "TCode": "AKM",
@@ -1461,7 +1461,7 @@
   },
   {
     "TCode": "ANG",
-    "TName": "AHMEDNAGAR"
+    "TName": "AHILYANAGAR"
   },
   {
     "TCode": "ANGE",
@@ -1922,10 +1922,6 @@
   {
     "TCode": "ARVY",
     "TName": "ARV CEMENT SOCIETY AND ACC LTD"
-  },
-  {
-    "TCode": "ARW",
-    "TName": "AHRAURA ROAD"
   },
   {
     "TCode": "ARWN",
@@ -3702,6 +3698,10 @@
   {
     "TCode": "BET",
     "TName": "BARETH"
+  },
+  {
+    "TCode": "BETA",
+    "TName": "BARETHIYA"
   },
   {
     "TCode": "BETI",
@@ -9892,10 +9892,6 @@
     "TName": "COROMONDEL INTERNATIONAL LIMITED SIDING"
   },
   {
-    "TCode": "COI",
-    "TName": "CHHEOKI"
-  },
-  {
     "TCode": "COIB",
     "TName": "COMBINED OIL INDUSTRY AT SOMNATHPUR OF M/S HPCL"
   },
@@ -15132,6 +15128,10 @@
     "TName": "GAUTAMDHARA"
   },
   {
+    "TCode": "GATL",
+    "TName": "GHATOLI"
+  },
+  {
     "TCode": "GAUR",
     "TName": "GAUR"
   },
@@ -18486,6 +18486,10 @@
   {
     "TCode": "HRT",
     "TName": "HARNAUT"
+  },
+  {
+    "TCode": "HRTB",
+    "TName": "HORTOKI"
   },
   {
     "TCode": "HRV",
@@ -25060,6 +25064,10 @@
     "TName": "KORAHIA(HALT)"
   },
   {
+    "TCode": "KRHI",
+    "TName": "KARHI"
+  },
+  {
     "TCode": "KRHT",
     "TName": "KHARA HAT"
   },
@@ -26172,6 +26180,10 @@
     "TName": "KUNDAN GANJ"
   },
   {
+    "TCode": "KVGB",
+    "TName": "GCT OF M/S KALYANI VENTURES LIMITED"
+  },
+  {
     "TCode": "KVGM",
     "TName": "KOLVAGRAM"
   },
@@ -26346,6 +26358,10 @@
   {
     "TCode": "KWN",
     "TName": "KACHEWANI"
+  },
+  {
+    "TCode": "KWNI",
+    "TName": "KAWNPUI"
   },
   {
     "TCode": "KWO",
@@ -28022,6 +28038,10 @@
   {
     "TCode": "MAK",
     "TName": "MALLIKPUR"
+  },
+  {
+    "TCode": "MAKG",
+    "TName": "MUALKHANG"
   },
   {
     "TCode": "MAKH",
@@ -33288,6 +33308,10 @@
     "TName": "LOCO SHED NAGPUR"
   },
   {
+    "TCode": "NGPK",
+    "TName": "NAYAGAON PURA KUMARA"
+  },
+  {
     "TCode": "NGPM",
     "TName": "NIDUGUNTAPALEM"
   },
@@ -33658,6 +33682,10 @@
   {
     "TCode": "NKN",
     "TName": "NYOLIKALAN HALT"
+  },
+  {
+    "TCode": "NKOT",
+    "TName": "NEW KOTA"
   },
   {
     "TCode": "NKP",
@@ -38984,10 +39012,6 @@
     "TName": "RAYBAG"
   },
   {
-    "TCode": "RBGJ",
-    "TName": "ROBERTSGANJ"
-  },
-  {
     "TCode": "RBH",
     "TName": "RAJBANDH"
   },
@@ -41062,6 +41086,10 @@
   {
     "TCode": "SAN",
     "TName": "SANDILA"
+  },
+  {
+    "TCode": "SANG",
+    "TName": "SAIRANG"
   },
   {
     "TCode": "SANH",
@@ -46114,6 +46142,10 @@
   {
     "TCode": "THBN",
     "TName": "THANA BHAWAN"
+  },
+  {
+    "TCode": "THBS",
+    "TName": "THANA BIHPUR LINE NO. 06 ENGINEERING SIDING"
   },
   {
     "TCode": "THCN",

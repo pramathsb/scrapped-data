@@ -31,8 +31,8 @@
     "code": "AAGH",
     "name": "ANTAGARH",
     "name_other": "ANTAGARH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "AAH",
@@ -220,8 +220,8 @@
     "code": "ABT",
     "name": "AMBAGARATTUR",
     "name_other": "AMBAGARATTUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ABU",
@@ -1256,8 +1256,8 @@
     "code": "ALJ",
     "name": "ALIGANJ",
     "name_other": "ALIGANJ",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ALJN",
@@ -1291,8 +1291,8 @@
     "code": "ALMG",
     "name": "ALAMGANJ",
     "name_other": "ALAMGANJ",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ALMR",
@@ -1340,8 +1340,8 @@
     "code": "ALPD",
     "name": "ADALPAHARI",
     "name_other": "ADALPAHARI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ALPR",
@@ -1459,8 +1459,8 @@
     "code": "AMGU",
     "name": "AMMUGUDA",
     "name_other": "AMMUGUDA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "AMH",
@@ -1529,8 +1529,8 @@
     "code": "AMNE",
     "name": "AMALNER B",
     "name_other": "AMALNER B",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "AMNR",
@@ -1627,8 +1627,8 @@
     "code": "AMTA",
     "name": "AMTA",
     "name_other": "AMTA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "AMVA",
@@ -1744,10 +1744,10 @@
   },
   {
     "code": "ANG",
-    "name": "AHMADNAGAR",
-    "name_other": "AHMADNAGAR",
-    "lat": "19.075100",
-    "long": "74.721600"
+    "name": "AHILYANAGAR",
+    "name_other": "AHILYANAGAR",
+    "lat": "19.075178",
+    "long": "74.721622"
   },
   {
     "code": "ANGL",
@@ -1802,8 +1802,8 @@
     "code": "ANLG",
     "name": "AMAN LODGE",
     "name_other": "AMAN LODGE",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ANM",
@@ -1823,8 +1823,8 @@
     "code": "ANMP",
     "name": "ARJUN NAGAR",
     "name_other": "ARJUN NAGAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ANND",
@@ -1886,8 +1886,8 @@
     "code": "ANT",
     "name": "ANANTNAG",
     "name_other": "ANANTNAG",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ANTU",
@@ -2558,8 +2558,8 @@
     "code": "ATGC",
     "name": "ALPHA TERMINALS P LTD GSMCT CHANDISAR",
     "name_other": "ALPHA TERMINALS P LTD GSMCT CHANDISAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ATH",
@@ -2635,8 +2635,8 @@
     "code": "ATRI",
     "name": "ATRI PH",
     "name_other": "ATRI PH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "ATRR",
@@ -2950,8 +2950,8 @@
     "code": "AYC",
     "name": "AYODHYA CANTT",
     "name_other": "AYODHYA CANTT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "AYD",
@@ -3188,8 +3188,8 @@
     "code": "BAHL",
     "name": "BANIHAL",
     "name_other": "BANIHAL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BAHN",
@@ -3251,8 +3251,8 @@
     "code": "BAKK",
     "name": "BAKKAL",
     "name_other": "BAKKAL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BAKL",
@@ -3545,8 +3545,8 @@
     "code": "BAYP",
     "name": "BALLARI BYPASS CABIN",
     "name_other": "BALLARI BYPASS CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BAZ",
@@ -3888,15 +3888,15 @@
     "code": "BCL",
     "name": "MUMBAI CENTRAL(L)",
     "name_other": "MUMBAI CENTRAL(L)",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BCMR",
     "name": "BECHIMARI",
     "name_other": "BECHIMARI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BCN",
@@ -4224,8 +4224,8 @@
     "code": "BDNH",
     "name": "BHUDEVINAGAR HALT",
     "name_other": "BHUDEVINAGAR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BDNK",
@@ -4861,8 +4861,8 @@
     "code": "BGBI",
     "name": "BAGRIBARI",
     "name_other": "BAGRIBARI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BGBR",
@@ -5222,6 +5222,13 @@
     "long": "72.835000"
   },
   {
+    "code": "BHAN",
+    "name": "BHOYANI",
+    "name_other": "BHOYANI",
+    "lat": "23.358489",
+    "long": "72.234392"
+  },
+  {
     "code": "BHAS",
     "name": "BHOJRAS",
     "name_other": "BHOJRAS",
@@ -5547,8 +5554,8 @@
     "code": "BHNW",
     "name": "BHARUCH NEW",
     "name_other": "BHARUCH NEW",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BHOI",
@@ -5785,8 +5792,8 @@
     "code": "BIDD",
     "name": "BIDIYAD",
     "name_other": "BIDIYAD",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BIDR",
@@ -5932,8 +5939,8 @@
     "code": "BIR",
     "name": "BIR",
     "name_other": "BIR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BIRA",
@@ -5981,8 +5988,8 @@
     "code": "BIV",
     "name": "BAMHNI BANJAR",
     "name_other": "BAMHNI BANJAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BIWK",
@@ -6009,8 +6016,8 @@
     "code": "BIYA",
     "name": "BANIYANA",
     "name_other": "BANIYANA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BIZ",
@@ -6121,8 +6128,8 @@
     "code": "BJMA",
     "name": "BURJ MOHAR",
     "name_other": "BURJ MOHAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BJMD",
@@ -6576,8 +6583,8 @@
     "code": "BKTW",
     "name": "BAIKUNTH",
     "name_other": "BAIKUNTH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BKU",
@@ -6835,8 +6842,8 @@
     "code": "BLPA",
     "name": "BILASIPARA",
     "name_other": "BILASIPARA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BLPE",
@@ -7206,8 +7213,8 @@
     "code": "BMMP",
     "name": "BOMMAYAPALLI",
     "name_other": "BOMMAYAPALLI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BMN",
@@ -7311,8 +7318,8 @@
     "code": "BMWS",
     "name": "BAMANWAS",
     "name_other": "BAMANWAS",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BMY",
@@ -7416,8 +7423,8 @@
     "code": "BNDE",
     "name": "BONDA MUNDA LINK CAB",
     "name_other": "BONDA MUNDA LINK CAB",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BNDI",
@@ -7528,8 +7535,8 @@
     "code": "BNJN",
     "name": "BINJANA",
     "name_other": "BINJANA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BNK",
@@ -7640,8 +7647,8 @@
     "code": "BNOI",
     "name": "BINDORI",
     "name_other": "BINDORI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BNP",
@@ -7752,8 +7759,8 @@
     "code": "BNTL",
     "name": "BANTAWALA",
     "name_other": "BANTAWALA",
-    "lat": "12.878100",
-    "long": "75.034000"
+    "lat": "12.878135",
+    "long": "75.034046"
   },
   {
     "code": "BNU",
@@ -7836,8 +7843,8 @@
     "code": "BODG",
     "name": "BODAGRAM PH",
     "name_other": "BODAGRAM PH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BOE",
@@ -8011,8 +8018,8 @@
     "code": "BOYA",
     "name": "BOTHIA P.H.",
     "name_other": "BOTHIA P.H.",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BOZ",
@@ -8060,8 +8067,8 @@
     "code": "BPBS",
     "name": "BALLALPUR",
     "name_other": "BALLALPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BPC",
@@ -8102,8 +8109,8 @@
     "code": "BPGJ",
     "name": "BHARPURA PAHLEJAGHAT JN.",
     "name_other": "BHARPURA PAHLEJAGHAT JN.",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BPGR",
@@ -8368,8 +8375,8 @@
     "code": "BQSP",
     "name": "BASUCHAK HALT",
     "name_other": "BASUCHAK HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BQT",
@@ -8536,8 +8543,8 @@
     "code": "BRGL",
     "name": "BURGULA HALT",
     "name_other": "BURGULA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BRGM",
@@ -8809,8 +8816,8 @@
     "code": "BROR",
     "name": "BERORE",
     "name_other": "BERORE",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BRP",
@@ -8893,8 +8900,8 @@
     "code": "BRRZ",
     "name": "BARARA BUZURG",
     "name_other": "BARARA BUZURG",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BRS",
@@ -8921,8 +8928,8 @@
     "code": "BRSR",
     "name": "BIRANARSINGHPUR",
     "name_other": "BIRANARSINGHPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BRST",
@@ -9418,8 +9425,8 @@
     "code": "BSWD",
     "name": "BHEMSWADI",
     "name_other": "BHEMSWADI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BSX",
@@ -10104,8 +10111,8 @@
     "code": "BVAR",
     "name": "BEVARA",
     "name_other": "BEVARA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BVB",
@@ -10650,8 +10657,8 @@
     "code": "BYQ",
     "name": "BAHAI",
     "name_other": "BAHAI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "BYR",
@@ -10986,8 +10993,8 @@
     "code": "CBCC",
     "name": "CHANDLODIYA B CABIN",
     "name_other": "CHANDLODIYA B CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "CBD",
@@ -11000,8 +11007,8 @@
     "code": "CBDH",
     "name": "CBD P.H.",
     "name_other": "CBD P.H.",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "CBE",
@@ -11392,8 +11399,8 @@
     "code": "CECC",
     "name": "CHADOTAR END CABIN",
     "name_other": "CHADOTAR END CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "CEL",
@@ -11574,8 +11581,8 @@
     "code": "CHAA",
     "name": "CHAPAR",
     "name_other": "CHAPAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "CHAF",
@@ -11819,8 +11826,8 @@
     "code": "CHNU",
     "name": "CHHANUA",
     "name_other": "CHHANUA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "CHOD",
@@ -12750,8 +12757,8 @@
     "code": "CNJW",
     "name": "HOLDING LINE",
     "name_other": "HOLDING LINE",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "CNK",
@@ -12764,8 +12771,8 @@
     "code": "CNKH",
     "name": "CHINNAKOTE",
     "name_other": "CHINNAKOTE",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "CNKP",
@@ -13016,8 +13023,8 @@
     "code": "CPPR",
     "name": "CHAMPAPUR HALT",
     "name_other": "CHAMPAPUR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "CPQ",
@@ -13793,8 +13800,8 @@
     "code": "DAML",
     "name": "DAMODAR LINK CABIN",
     "name_other": "DAMODAR LINK CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DAN",
@@ -13968,8 +13975,8 @@
     "code": "DBHL",
     "name": "DOBH BAHALI",
     "name_other": "DOBH BAHALI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DBI",
@@ -14374,8 +14381,8 @@
     "code": "DDWA",
     "name": "DEEDWANA",
     "name_other": "DEEDWANA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DDX",
@@ -14416,8 +14423,8 @@
     "code": "DED",
     "name": "DANDELI",
     "name_other": "DANDELI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DEE",
@@ -14465,8 +14472,8 @@
     "code": "DELI",
     "name": "DEOLI",
     "name_other": "DEOLI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DELO",
@@ -14703,8 +14710,8 @@
     "code": "DGQ",
     "name": "DUGDOL",
     "name_other": "DUGDOL",
-    "lat": "",
-    "long": ""
+    "lat": "24.633171",
+    "long": "72.098161"
   },
   {
     "code": "DGR",
@@ -15578,8 +15585,8 @@
     "code": "DLPR",
     "name": "DAYALPUR",
     "name_other": "DAYALPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DLPT",
@@ -16012,8 +16019,8 @@
     "code": "DNU",
     "name": "DALSANUR",
     "name_other": "DALSANUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DNV",
@@ -16257,8 +16264,8 @@
     "code": "DPDH",
     "name": "DHANPATDIH",
     "name_other": "DHANPATDIH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DPDP",
@@ -16467,8 +16474,8 @@
     "code": "DRDG",
     "name": "DARIDAG",
     "name_other": "DARIDAG",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DRGJ",
@@ -16740,8 +16747,8 @@
     "code": "DSPL",
     "name": "DASPALLA",
     "name_other": "DASPALLA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DSPN",
@@ -16754,8 +16761,8 @@
     "code": "DSPR",
     "name": "DHANSIRIPAR",
     "name_other": "DHANSIRIPAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DSPT",
@@ -16985,8 +16992,8 @@
     "code": "DUGA",
     "name": "DUGGA",
     "name_other": "DUGGA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "DUI",
@@ -17559,8 +17566,8 @@
     "code": "EKNR",
     "name": "EKTA NAGAR",
     "name_other": "EKTA NAGAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "EKR",
@@ -17993,8 +18000,8 @@
     "code": "FPMP",
     "name": "FATEHPUR MAKRANDPUR",
     "name_other": "FATEHPUR MAKRANDPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "FPS",
@@ -18049,8 +18056,8 @@
     "code": "FSW",
     "name": "FATEH SINGHWALA",
     "name_other": "FATEH SINGHWALA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "FTC",
@@ -18126,8 +18133,8 @@
     "code": "FZGH",
     "name": "FEROZGUDA HALT",
     "name_other": "FEROZGUDA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "FZL",
@@ -18357,8 +18364,8 @@
     "code": "GATL",
     "name": "GHATOLI",
     "name_other": "GHATOLI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GAUR",
@@ -18455,8 +18462,8 @@
     "code": "GBPM",
     "name": "GADHI BERI",
     "name_other": "GADHI BERI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GBQ",
@@ -18574,8 +18581,8 @@
     "code": "GDGB",
     "name": "GADAG BYPASS",
     "name_other": "GADAG BYPASS",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GDGN",
@@ -18588,15 +18595,15 @@
     "code": "GDGP",
     "name": "GADAG BYPASS",
     "name_other": "GADAG BYPASS",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GDH",
     "name": "GIDNAHALI",
     "name_other": "GIDNAHALI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GDHA",
@@ -18980,8 +18987,8 @@
     "code": "GGWT",
     "name": "GOVINDGARH WHITE TIGER",
     "name_other": "GOVINDGARH WHITE TIGER",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GGY",
@@ -19085,8 +19092,8 @@
     "code": "GHLU",
     "name": "GHALLU",
     "name_other": "GHALLU",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GHN",
@@ -19365,8 +19372,8 @@
     "code": "GJT",
     "name": "GANNAGHATTA",
     "name_other": "GANNAGHATTA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GJTA",
@@ -19393,8 +19400,8 @@
     "code": "GJWL",
     "name": "GAJWEL",
     "name_other": "GAJWEL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GK",
@@ -19435,8 +19442,8 @@
     "code": "GKG",
     "name": "GOKULGARH",
     "name_other": "GOKULGARH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GKH",
@@ -19498,8 +19505,8 @@
     "code": "GKV",
     "name": "GOOTIHALLI",
     "name_other": "GOOTIHALLI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GKX",
@@ -20016,8 +20023,8 @@
     "code": "GNWA",
     "name": "GHUNWARA",
     "name_other": "GHUNWARA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GNZ",
@@ -20289,8 +20296,8 @@
     "code": "GPSA",
     "name": "GHATPARSIA HALT",
     "name_other": "GHATPARSIA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GPSL",
@@ -20443,8 +20450,8 @@
     "code": "GRHI",
     "name": "GARHI",
     "name_other": "GARHI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GRHM",
@@ -20499,8 +20506,8 @@
     "code": "GRLC",
     "name": "GARHWA LINK CABIN",
     "name_other": "GARHWA LINK CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GRM",
@@ -20688,8 +20695,8 @@
     "code": "GSK",
     "name": "GHUSIA KALAN HALT",
     "name_other": "GHUSIA KALAN HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GSL",
@@ -20751,8 +20758,8 @@
     "code": "GSX",
     "name": "GANDHI SMRAK RD",
     "name_other": "GANDHI SMRAK RD",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "GT",
@@ -21416,8 +21423,8 @@
     "code": "HAPR",
     "name": "HANAMAPUR",
     "name_other": "HANAMAPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HAQ",
@@ -21521,8 +21528,8 @@
     "code": "HBLN",
     "name": "HBL NAGAR",
     "name_other": "HBL NAGAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HBN",
@@ -21850,8 +21857,8 @@
     "code": "HHAL",
     "name": "HEHAL",
     "name_other": "HEHAL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HHD",
@@ -21878,8 +21885,8 @@
     "code": "HHP",
     "name": "HARISHPUR",
     "name_other": "HARISHPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HHR",
@@ -22102,8 +22109,8 @@
     "code": "HLKT",
     "name": "HALAKATTA",
     "name_other": "HALAKATTA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HLN",
@@ -22326,8 +22333,8 @@
     "code": "HNEO",
     "name": "HATHBANDH",
     "name_other": "HATHBANDH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HNG",
@@ -22557,8 +22564,8 @@
     "code": "HPU",
     "name": "HAPUR",
     "name_other": "HAPUR",
-    "lat": "28.739800",
-    "long": "77.779800"
+    "lat": "28.739893",
+    "long": "77.779856"
   },
   {
     "code": "HPUR",
@@ -22655,8 +22662,8 @@
     "code": "HRLT",
     "name": "HARLATANR",
     "name_other": "HARLATANR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HRM",
@@ -22690,8 +22697,8 @@
     "code": "HRNS",
     "name": "HARISING",
     "name_other": "HARISING",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HRO",
@@ -22942,8 +22949,8 @@
     "code": "HTLA",
     "name": "HATOLA",
     "name_other": "HATOLA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HTN",
@@ -22991,8 +22998,8 @@
     "code": "HUD",
     "name": "HUDUKULA",
     "name_other": "HUDUKULA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HUDU",
@@ -23005,8 +23012,8 @@
     "code": "HUFP",
     "name": "HARAULI FATEHPUR",
     "name_other": "HARAULI FATEHPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HUK",
@@ -23019,8 +23026,8 @@
     "code": "HUN",
     "name": "HUNSENAHALLI",
     "name_other": "HUNSENAHALLI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "HUP",
@@ -23201,8 +23208,8 @@
     "code": "IBHA",
     "name": "IBH A",
     "name_other": "IBH A",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "IBHC",
@@ -23297,8 +23304,8 @@
   },
   {
     "code": "IDH",
-    "name": "IDGAH AGRA JN",
-    "name_other": "IDGAH AGRA JN",
+    "name": "IDGAH JN",
+    "name_other": "IDGAH JN",
     "lat": "27.172880",
     "long": "77.998037"
   },
@@ -23341,8 +23348,8 @@
     "code": "IDS",
     "name": "ISHARDASPUR",
     "name_other": "ISHARDASPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "IDT",
@@ -23474,8 +23481,8 @@
     "code": "IMBG",
     "name": "IMLIBHAGA HALT",
     "name_other": "IMLIBHAGA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "IMGE",
@@ -23782,8 +23789,8 @@
     "code": "JAKA",
     "name": "JUNAKHERA",
     "name_other": "JUNAKHERA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JAL",
@@ -23831,8 +23838,8 @@
     "code": "JAPN",
     "name": "JHALRAPATAN",
     "name_other": "JHALRAPATAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JAQ",
@@ -24034,8 +24041,8 @@
     "code": "JCSK",
     "name": "M/S JSW STEEL COATED PRODUCT LTD OF KSWR",
     "name_other": "M/S JSW STEEL COATED PRODUCT LTD OF KSWR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JCU",
@@ -24097,8 +24104,8 @@
     "code": "JDHH",
     "name": "JANDHERA HALT",
     "name_other": "JANDHERA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JDI",
@@ -24664,8 +24671,8 @@
     "code": "JKDK",
     "name": "JHARKHAND DHAM",
     "name_other": "JHARKHAND DHAM",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JKDP",
@@ -24860,8 +24867,8 @@
     "code": "JLPH",
     "name": "JALALPUR HALT",
     "name_other": "JALALPUR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JLQ",
@@ -25252,8 +25259,8 @@
     "code": "JOBT",
     "name": "JOBAT",
     "name_other": "JOBAT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JOC",
@@ -25280,8 +25287,8 @@
     "code": "JOKT",
     "name": "JOKATTE",
     "name_other": "JOKATTE",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JOL",
@@ -25581,8 +25588,8 @@
     "code": "JRMA",
     "name": "JHARAMUNDA",
     "name_other": "JHARAMUNDA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JRMG",
@@ -25644,15 +25651,15 @@
     "code": "JRTB",
     "name": "JHARTARBHA",
     "name_other": "JHARTARBHA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JRTR",
     "name": "JURTARA HALT",
     "name_other": "JURTARA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JRU",
@@ -25714,8 +25721,8 @@
     "code": "JSE",
     "name": "JAMSOLE",
     "name_other": "JAMSOLE",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JSG",
@@ -25847,8 +25854,8 @@
     "code": "JTHT",
     "name": "JUNCTION HUT MGS",
     "name_other": "JUNCTION HUT MGS",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JTI",
@@ -26127,8 +26134,8 @@
     "code": "JWKA",
     "name": "JANDWALA KHARTA",
     "name_other": "JANDWALA KHARTA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "JWL",
@@ -26239,8 +26246,15 @@
     "code": "KADA",
     "name": "KHANDALA(M.P.)",
     "name_other": "KHANDALA(M.P.)",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
+  },
+  {
+    "code": "KADI",
+    "name": "KADI",
+    "name_other": "KADI",
+    "lat": "23.292323",
+    "long": "72.326295"
   },
   {
     "code": "KADL",
@@ -26316,8 +26330,8 @@
     "code": "KAJC",
     "name": "KALAMNA JUNCTION CABIN",
     "name_other": "KALAMNA JUNCTION CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KAJG",
@@ -26330,8 +26344,8 @@
     "code": "KAKI",
     "name": "KAKNI",
     "name_other": "KAKNI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KAL",
@@ -26351,8 +26365,8 @@
     "code": "KALM",
     "name": "KALAMB",
     "name_other": "KALAMB",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KALN",
@@ -26421,8 +26435,8 @@
     "code": "KANR",
     "name": "KUKANUR",
     "name_other": "KUKANUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KANS",
@@ -26505,8 +26519,8 @@
     "code": "KARI",
     "name": "KHARI",
     "name_other": "KHARI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KARJ",
@@ -26547,8 +26561,8 @@
     "code": "KASA",
     "name": "KANSA",
     "name_other": "KANSA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KASH",
@@ -26792,8 +26806,8 @@
     "code": "KBPR",
     "name": "KABAKA PUTTUR",
     "name_other": "KABAKA PUTTUR",
-    "lat": "12.768600",
-    "long": "75.204700"
+    "lat": "12.768667",
+    "long": "75.204772"
   },
   {
     "code": "KBQ",
@@ -27044,8 +27058,8 @@
     "code": "KDBA",
     "name": "KODIMBALA HALT",
     "name_other": "KODIMBALA HALT",
-    "lat": "12.718300",
-    "long": "75.476700"
+    "lat": "12.718382",
+    "long": "75.476761"
   },
   {
     "code": "KDBR",
@@ -27716,8 +27730,8 @@
     "code": "KGBP",
     "name": "KHONGSANG",
     "name_other": "KHONGSANG",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KGBS",
@@ -27849,8 +27863,8 @@
     "code": "KGV",
     "name": "KONAGAYALLI",
     "name_other": "KONAGAYALLI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KGVL",
@@ -27898,8 +27912,8 @@
     "code": "KHAA",
     "name": "WETALWADI",
     "name_other": "WETALWADI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KHAG",
@@ -27933,8 +27947,8 @@
     "code": "KHBH",
     "name": "HARDOI KARNA BLOCK H",
     "name_other": "HARDOI KARNA BLOCK H",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KHBJ",
@@ -27989,8 +28003,8 @@
     "code": "KHDR",
     "name": "KHANDARI HALT",
     "name_other": "KHANDARI HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KHE",
@@ -28248,8 +28262,8 @@
     "code": "KHTX",
     "name": "KHED TEMPLE HLT",
     "name_other": "KHED TEMPLE HLT",
-    "lat": "25.885900",
-    "long": "72.108900"
+    "lat": "25.885944",
+    "long": "72.108936"
   },
   {
     "code": "KHU",
@@ -28262,15 +28276,15 @@
     "code": "KHUH",
     "name": "KHARUARA HALT",
     "name_other": "KHARUARA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KHUT",
     "name": "KHUNTALA",
     "name_other": "KHUNTALA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KHV",
@@ -28304,8 +28318,8 @@
     "code": "KIAD",
     "name": "KEMPEGOWDA INTERNATIONAL AIRPORT STATION",
     "name_other": "KEMPEGOWDA INTERNATIONAL AIRPORT STATION",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KIAT",
@@ -28325,8 +28339,8 @@
     "code": "KIBH",
     "name": "KOSHI BLOCK HUT",
     "name_other": "KOSHI BLOCK HUT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KIC",
@@ -29711,8 +29725,8 @@
     "code": "KMPS",
     "name": "KUMARA PATNAM BG SD",
     "name_other": "KUMARA PATNAM BG SD",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KMPT",
@@ -29725,8 +29739,8 @@
     "code": "KMPU",
     "name": "KAMALAPUR",
     "name_other": "KAMALAPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KMQ",
@@ -29893,8 +29907,8 @@
     "code": "KNCN",
     "name": "KANALUS NORTH CABIN",
     "name_other": "KANALUS NORTH CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KND",
@@ -30236,8 +30250,8 @@
     "code": "KNYR",
     "name": "KANIURU HALT",
     "name_other": "KANIURU HALT",
-    "lat": "12.717300",
-    "long": "75.365600"
+    "lat": "12.717377",
+    "long": "75.365696"
   },
   {
     "code": "KNZ",
@@ -30460,8 +30474,8 @@
     "code": "KOTT",
     "name": "KOTTUR HALT",
     "name_other": "KOTTUR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KOU",
@@ -31713,8 +31727,8 @@
     "code": "KSVR",
     "name": "KESHAV NAGAR HALT",
     "name_other": "KESHAV NAGAR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KSW",
@@ -31853,8 +31867,8 @@
     "code": "KTGG",
     "name": "KARATAGI",
     "name_other": "KARATAGI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KTGM",
@@ -31867,8 +31881,8 @@
     "code": "KTGN",
     "name": "KOTLA GUJRAN",
     "name_other": "KOTLA GUJRAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KTH",
@@ -32119,8 +32133,8 @@
     "code": "KTRI",
     "name": "KATARI",
     "name_other": "KATARI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KTRK",
@@ -32252,8 +32266,8 @@
     "code": "KUCE",
     "name": "KUCHAI",
     "name_other": "KUCHAI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KUD",
@@ -32364,8 +32378,8 @@
     "code": "KULH",
     "name": "KULHA-HALT",
     "name_other": "KULHA-HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KUM",
@@ -32469,8 +32483,8 @@
     "code": "KURV",
     "name": "KURVA",
     "name_other": "KURVA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "KUT",
@@ -33344,8 +33358,8 @@
     "code": "LAGK",
     "name": "GCT M/S LEAP AGRI LOGISTIC PVT. LTD. - KAYAVAROHAN",
     "name_other": "GCT M/S LEAP AGRI LOGISTIC PVT. LTD. - KAYAVAROHAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "LAK",
@@ -33372,8 +33386,8 @@
     "code": "LAMP",
     "name": "LAMP",
     "name_other": "LAMP",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "LAN",
@@ -33841,8 +33855,8 @@
     "code": "LIL",
     "name": "LILMA",
     "name_other": "LILMA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "LIM",
@@ -34163,8 +34177,8 @@
     "code": "LLST",
     "name": "LALSOT",
     "name_other": "LALSOT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "LLTG",
@@ -34289,8 +34303,8 @@
     "code": "LNBI",
     "name": "LINGANABANDI",
     "name_other": "LINGANABANDI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "LNH",
@@ -34646,8 +34660,8 @@
     "code": "LSMP",
     "name": "LAKSHMAPUR",
     "name_other": "LAKSHMAPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "LSR",
@@ -34912,8 +34926,8 @@
     "code": "MACH",
     "name": "MOULA ALI HB COLONY HALT",
     "name_other": "MOULA ALI HB COLONY HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MACR",
@@ -35017,8 +35031,8 @@
     "code": "MAHM",
     "name": "MEHAM",
     "name_other": "MEHAM",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MAHO",
@@ -35122,8 +35136,8 @@
     "code": "MALR",
     "name": "MALLUR",
     "name_other": "MALLUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MAM",
@@ -35136,8 +35150,8 @@
     "code": "MAMN",
     "name": "NEW MAMAN",
     "name_other": "NEW MAMAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MAN",
@@ -35255,15 +35269,15 @@
     "code": "MASS",
     "name": "CHENNAI CENTRAL SUBURBAN STATION",
     "name_other": "CHENNAI CENTRAL SUBURBAN STATION",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MATL",
     "name": "MATLA",
     "name_other": "MATLA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MAU",
@@ -35353,8 +35367,8 @@
     "code": "MBBC",
     "name": "MYSORE NEW GOODS TER",
     "name_other": "MYSORE NEW GOODS TER",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MBC",
@@ -35374,15 +35388,15 @@
     "code": "MBDD",
     "name": "MAA BARAHI DEVI DHAM",
     "name_other": "MAA BARAHI DEVI DHAM",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MBDP",
     "name": "MAA BELHA DEVI DHAM PRATAPGARH JUNCTION",
     "name_other": "MAA BELHA DEVI DHAM PRATAPGARH JUNCTION",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MBE",
@@ -35535,8 +35549,15 @@
     "code": "MCDA",
     "name": "MAA CHANDIKA DEVI DHAM ANTU",
     "name_other": "MAA CHANDIKA DEVI DHAM ANTU",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
+  },
+  {
+    "code": "MCF",
+    "name": "MANIK CHOWREE P.H.",
+    "name_other": "MANIK CHOWREE P.H.",
+    "lat": "21.004394",
+    "long": "81.783428"
   },
   {
     "code": "MCI",
@@ -35640,8 +35661,8 @@
     "code": "MCTM",
     "name": "MARTYR CAPTAIN TUSHAR MAHAJAN",
     "name_other": "MARTYR CAPTAIN TUSHAR MAHAJAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MCU",
@@ -35668,8 +35689,8 @@
     "code": "MCY",
     "name": "MACHHRIAWAN HALT",
     "name_other": "MACHHRIAWAN HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MCZ",
@@ -35689,8 +35710,8 @@
     "code": "MDAK",
     "name": "MEDAK",
     "name_other": "MEDAK",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MDB",
@@ -35766,8 +35787,8 @@
     "code": "MDGB",
     "name": "MADHABNAGAR HALT",
     "name_other": "MADHABNAGAR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MDGR",
@@ -36011,8 +36032,8 @@
     "code": "MDWI",
     "name": "MANDAWARI",
     "name_other": "MANDAWARI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MDXR",
@@ -36144,8 +36165,8 @@
     "code": "METR",
     "name": "METHI TIKUR",
     "name_other": "METHI TIKUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MEU",
@@ -37159,8 +37180,8 @@
     "code": "MKAK",
     "name": "MUNDAKAKANNI AMMAN KOIL",
     "name_other": "MUNDAKAKANNI AMMAN KOIL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MKB",
@@ -37229,8 +37250,8 @@
     "code": "MKGD",
     "name": "MANIKAGODA",
     "name_other": "MANIKAGODA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MKH",
@@ -37292,8 +37313,8 @@
     "code": "MKMN",
     "name": "MOKHRA MADINA",
     "name_other": "MOKHRA MADINA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MKN",
@@ -37390,8 +37411,8 @@
     "code": "MKTL",
     "name": "MAKTHAL",
     "name_other": "MAKTHAL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MKTP",
@@ -37502,8 +37523,8 @@
     "code": "MLGC",
     "name": "M/S MPL L H PVT LTD",
     "name_other": "M/S MPL L H PVT LTD",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MLGH",
@@ -37572,8 +37593,8 @@
     "code": "MLKN",
     "name": "MUNDHAL KALAN",
     "name_other": "MUNDHAL KALAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MLKP",
@@ -38076,8 +38097,8 @@
     "code": "MNGT",
     "name": "MYSURU NEW GOODS TER",
     "name_other": "MYSURU NEW GOODS TER",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MNH",
@@ -38867,8 +38888,8 @@
     "code": "MRDA",
     "name": "MARODA P.H.",
     "name_other": "MARODA P.H.",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MRDG",
@@ -38923,8 +38944,8 @@
     "code": "MRFO",
     "name": "MOURIGRAM FLY OVER C",
     "name_other": "MOURIGRAM FLY OVER C",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "MRG",
@@ -39469,8 +39490,8 @@
     "code": "MTDB",
     "name": "MERTA ROAD BYPASS",
     "name_other": "MERTA ROAD BYPASS",
-    "lat": "0.000000",
-    "long": "0.000000"
+    "lat": null,
+    "long": null
   },
   {
     "code": "MTDI",
@@ -39882,8 +39903,8 @@
     "code": "MUY",
     "name": "MUGAIYUR",
     "name_other": "MUGAIYUR",
-    "lat": "11.976600",
-    "long": "79.305400"
+    "lat": "11.976692",
+    "long": "79.305496"
   },
   {
     "code": "MUZ",
@@ -40295,8 +40316,8 @@
     "code": "MY",
     "name": "MALLIYAM",
     "name_other": "MALLIYAM",
-    "lat": "11.079000",
-    "long": "79.595700"
+    "lat": "11.079026",
+    "long": "79.595776"
   },
   {
     "code": "MYA",
@@ -40953,8 +40974,8 @@
     "code": "NCPM",
     "name": "NISCHINDAPUR MARKET HALT",
     "name_other": "NISCHINDAPUR MARKET HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NCR",
@@ -40967,8 +40988,8 @@
     "code": "NCRM",
     "name": "NACHARAM",
     "name_other": "NACHARAM",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NCU",
@@ -40995,8 +41016,8 @@
     "code": "NDAM",
     "name": "NADIGAM HALT",
     "name_other": "NADIGAM HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NDB",
@@ -41044,8 +41065,8 @@
     "code": "NDIM",
     "name": "NANDAIGRAM HALT",
     "name_other": "NANDAIGRAM HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NDJ",
@@ -41107,8 +41128,8 @@
     "code": "NDMH",
     "name": "NEREDMET HALT",
     "name_other": "NEREDMET HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NDN",
@@ -41142,8 +41163,8 @@
     "code": "NDON",
     "name": "NADAON HALT",
     "name_other": "NADAON HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NDPM",
@@ -41408,8 +41429,8 @@
     "code": "NGI",
     "name": "NAGARI",
     "name_other": "NAGARI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NGIM",
@@ -41793,8 +41814,8 @@
     "code": "NITR",
     "name": "NETAJI SUBHASH CHANDRA BOSE ITWARI JN.",
     "name_other": "NETAJI SUBHASH CHANDRA BOSE ITWARI JN.",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NIU",
@@ -42119,6 +42140,13 @@
     "long": "80.397600"
   },
   {
+    "code": "NLPI",
+    "name": "NEMALIPURI",
+    "name_other": "NEMALIPURI",
+    "lat": "16.425760",
+    "long": "79.933670"
+  },
+  {
     "code": "NLQ",
     "name": "NANGAL PATHANI HALT",
     "name_other": "NANGAL PATHANI HALT",
@@ -42283,8 +42311,8 @@
     "code": "NMKL",
     "name": "NAMAKKAL",
     "name_other": "NAMAKKAL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NML",
@@ -42318,8 +42346,8 @@
     "code": "NMWP",
     "name": "NEW MAJHAGAWAN PHATAK",
     "name_other": "NEW MAJHAGAWAN PHATAK",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NMX",
@@ -42563,8 +42591,8 @@
     "code": "NOR",
     "name": "NEORA NADDI",
     "name_other": "NEORA NADDI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NOSM",
@@ -42661,8 +42689,8 @@
     "code": "NPR",
     "name": "NEPALGANJ ROAD",
     "name_other": "NEPALGANJ ROAD",
-    "lat": "28.010900",
-    "long": "81.600700"
+    "lat": "28.010922",
+    "long": "81.600780"
   },
   {
     "code": "NPRD",
@@ -42780,8 +42808,8 @@
     "code": "NRF",
     "name": "NERALAKATTE HALT",
     "name_other": "NERALAKATTE HALT",
-    "lat": "12.816900",
-    "long": "75.126200"
+    "lat": "12.816990",
+    "long": "75.126228"
   },
   {
     "code": "NRG",
@@ -42815,8 +42843,8 @@
     "code": "NRJ",
     "name": "NARIMOGARU",
     "name_other": "NARIMOGARU",
-    "lat": "12.750300",
-    "long": "75.267100"
+    "lat": "12.750363",
+    "long": "75.267162"
   },
   {
     "code": "NRK",
@@ -42878,8 +42906,8 @@
     "code": "NRMH",
     "name": "NAVA RAIPUR",
     "name_other": "NAVA RAIPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NRN",
@@ -43004,8 +43032,8 @@
     "code": "NRWN",
     "name": "NANGAL RAJAWATAN",
     "name_other": "NANGAL RAJAWATAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NRX",
@@ -43081,8 +43109,8 @@
     "code": "NSGR",
     "name": "NARASINGHGARH",
     "name_other": "NARASINGHGARH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "NSI",
@@ -43802,8 +43830,8 @@
     "code": "OHV",
     "name": "ODHAVA",
     "name_other": "ODHAVA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "OKA",
@@ -44096,8 +44124,8 @@
     "code": "PAHB",
     "name": "PURA HALT",
     "name_other": "PURA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PAI",
@@ -44110,8 +44138,8 @@
     "code": "PAIL",
     "name": "PALI A",
     "name_other": "PALI A",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PAJ",
@@ -44369,8 +44397,8 @@
     "code": "PBC",
     "name": "PARVATSAR CITY",
     "name_other": "PARVATSAR CITY",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PBE",
@@ -44467,8 +44495,8 @@
     "code": "PCAB",
     "name": "P CABIN",
     "name_other": "P CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PCC",
@@ -44586,8 +44614,8 @@
     "code": "PCTM",
     "name": "PUDUCHATTIRAM H",
     "name_other": "PUDUCHATTIRAM H",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PCU",
@@ -44880,8 +44908,8 @@
     "code": "PDWA",
     "name": "PINDWARA",
     "name_other": "PINDWARA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PDX",
@@ -45675,13 +45703,6 @@
     "long": "77.472700"
   },
   {
-    "code": "PKYN",
-    "name": "NEW PILKHANI JN",
-    "name_other": "NEW PILKHANI JN",
-    "lat": "",
-    "long": ""
-  },
-  {
     "code": "PKZ",
     "name": "PPLI PKHI KALAN",
     "name_other": "PPLI PKHI KALAN",
@@ -45743,13 +45764,6 @@
     "name_other": "PALIGARH",
     "lat": "25.959400",
     "long": "83.505000"
-  },
-  {
-    "code": "PLGN",
-    "name": "NEW PALGHAR",
-    "name_other": "NEW PALGHAR",
-    "lat": "0.000000",
-    "long": "0.000000"
   },
   {
     "code": "PLH",
@@ -46028,8 +46042,8 @@
     "code": "PMPE",
     "name": "PAMPORA",
     "name_other": "PAMPORA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PMPR",
@@ -46252,8 +46266,8 @@
     "code": "PNPI",
     "name": "PURUNAPANI",
     "name_other": "PURUNAPANI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PNPL",
@@ -46315,8 +46329,8 @@
     "code": "PNTR",
     "name": "PENNATHUR H",
     "name_other": "PENNATHUR H",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PNU",
@@ -46630,8 +46644,8 @@
     "code": "PPLA",
     "name": "PIPLAI",
     "name_other": "PIPLAI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PPLI",
@@ -46861,8 +46875,8 @@
     "code": "PRBR",
     "name": "PARSA BASUARI HALT",
     "name_other": "PARSA BASUARI HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PRBZ",
@@ -47603,8 +47617,8 @@
     "code": "PTRA",
     "name": "PATRA",
     "name_other": "PATRA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PTRD",
@@ -47771,8 +47785,8 @@
     "code": "PUKK",
     "name": "PURUNAKATAK",
     "name_other": "PURUNAKATAK",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PUL",
@@ -47806,8 +47820,8 @@
     "code": "PUNA",
     "name": "PAUNIA",
     "name_other": "PAUNIA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PUNE",
@@ -47827,8 +47841,8 @@
     "code": "PUPU",
     "name": "POTHULAPADU",
     "name_other": "POTHULAPADU",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "PUQ",
@@ -48128,8 +48142,8 @@
     "code": "QCAB",
     "name": "Q CABIN",
     "name_other": "Q CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "QDN",
@@ -48352,8 +48366,8 @@
     "code": "RASP",
     "name": "RASIPURAM",
     "name_other": "RASIPURAM",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RAU",
@@ -48562,15 +48576,15 @@
     "code": "RD",
     "name": "RAM DAYALU NAGAR",
     "name_other": "RAM DAYALU NAGAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RDBR",
     "name": "RANDIA BAUDPUR",
     "name_other": "RANDIA BAUDPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RDD",
@@ -48618,8 +48632,8 @@
     "code": "RDHR",
     "name": "RIDDHAPUR",
     "name_other": "RIDDHAPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RDI",
@@ -48667,8 +48681,8 @@
     "code": "RDPS",
     "name": "RAJNANDGAON PUBLIC SIDING",
     "name_other": "RAJNANDGAON PUBLIC SIDING",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RDRA",
@@ -48730,8 +48744,8 @@
     "code": "REAI",
     "name": "REASI",
     "name_other": "REASI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RECH",
@@ -48870,8 +48884,8 @@
     "code": "RGBP",
     "name": "RANI GAIDINLIU",
     "name_other": "RANI GAIDINLIU",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RGCR",
@@ -49133,6 +49147,13 @@
     "long": "86.561619"
   },
   {
+    "code": "RIM",
+    "name": "RAJIM",
+    "name_other": "RAJIM",
+    "lat": "20.969935",
+    "long": "81.867886"
+  },
+  {
     "code": "RIS",
     "name": "RISHRA",
     "name_other": "RISHRA",
@@ -49206,8 +49227,8 @@
     "code": "RJJN",
     "name": "RAJAJAN HALT",
     "name_other": "RAJAJAN HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RJK",
@@ -49227,8 +49248,8 @@
     "code": "RJLA",
     "name": "RAJLA",
     "name_other": "RAJLA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RJLK",
@@ -49696,8 +49717,8 @@
     "code": "RMPR",
     "name": "RAMPUR HALT",
     "name_other": "RAMPUR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RMR",
@@ -50088,8 +50109,8 @@
     "code": "RPAP",
     "name": "RATNIPORA HALT",
     "name_other": "RATNIPORA HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RPAR",
@@ -50111,6 +50132,13 @@
     "name_other": "RAMPUR - BAMPUR",
     "lat": "0.000000",
     "long": "0.000000"
+  },
+  {
+    "code": "RPCA",
+    "name": "ROMPICHERLA",
+    "name_other": "ROMPICHERLA",
+    "lat": "16.239717",
+    "long": "79.895196"
   },
   {
     "code": "RPD",
@@ -50382,8 +50410,8 @@
     "code": "RSBH",
     "name": "RAHIMABAD SANDILA BL",
     "name_other": "RAHIMABAD SANDILA BL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "RSG",
@@ -50949,8 +50977,8 @@
     "code": "SACH",
     "name": "SUCHITRA CENTRE HALT",
     "name_other": "SUCHITRA CENTRE HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SAD",
@@ -51019,15 +51047,8 @@
     "code": "SAHL",
     "name": "SAHELI",
     "name_other": "SAHELI",
-    "lat": "",
-    "long": ""
-  },
-  {
-    "code": "SAHN",
-    "name": "NEW SAPHALE",
-    "name_other": "NEW SAPHALE",
-    "lat": "0.000000",
-    "long": "0.000000"
+    "lat": null,
+    "long": null
   },
   {
     "code": "SAHP",
@@ -51166,8 +51187,8 @@
     "code": "SAPD",
     "name": "SANAPADAR PASSENGER HALT (PH)",
     "name_other": "SANAPADAR PASSENGER HALT (PH)",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SAPE",
@@ -51203,6 +51224,13 @@
     "name_other": "SIDHAOUNA RAMPUR HALT",
     "lat": "25.521616",
     "long": "83.140725"
+  },
+  {
+    "code": "SARY",
+    "name": "SARAIYA HALT",
+    "name_other": "SARAIYA HALT",
+    "lat": null,
+    "long": null
   },
   {
     "code": "SAS",
@@ -51397,8 +51425,8 @@
     "code": "SBHR",
     "name": "SUBRAHMANYA ROAD",
     "name_other": "SUBRAHMANYA ROAD",
-    "lat": "12.732600",
-    "long": "75.558200"
+    "lat": "12.732656",
+    "long": "75.558257"
   },
   {
     "code": "SBIB",
@@ -51537,8 +51565,8 @@
     "code": "SBTJ",
     "name": "SHANIDEV DHAM BISHNATHGANJ",
     "name_other": "SHANIDEV DHAM BISHNATHGANJ",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SBV",
@@ -52300,8 +52328,8 @@
     "code": "SGDN",
     "name": "SANGALDAN",
     "name_other": "SANGALDAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SGDP",
@@ -52384,8 +52412,8 @@
     "code": "SGNL",
     "name": "SANGANAL",
     "name_other": "SANGANAL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SGNR",
@@ -52930,8 +52958,8 @@
     "code": "SIDG",
     "name": "SIDDAPUR",
     "name_other": "SIDDAPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SIE",
@@ -53000,8 +53028,8 @@
     "code": "SIKI",
     "name": "SULIKERI",
     "name_other": "SULIKERI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SIKR",
@@ -53028,8 +53056,8 @@
     "code": "SILP",
     "name": "SILPARA",
     "name_other": "SILPARA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SILR",
@@ -53077,8 +53105,8 @@
     "code": "SION",
     "name": "SION",
     "name_other": "SION",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SIP",
@@ -53231,8 +53259,8 @@
     "code": "SJHG",
     "name": "SHAHEED JITENDRA HALT GOPALPUR",
     "name_other": "SHAHEED JITENDRA HALT GOPALPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SJJ",
@@ -53399,8 +53427,8 @@
     "code": "SKBN",
     "name": "SILAKERI",
     "name_other": "SILAKERI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SKBR",
@@ -53413,8 +53441,8 @@
     "code": "SKDG",
     "name": "SHUKDASGRAM HALT",
     "name_other": "SHUKDASGRAM HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SKDM",
@@ -53462,8 +53490,8 @@
     "code": "SKHV",
     "name": "SUKHOVI",
     "name_other": "SUKHOVI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SKI",
@@ -54008,8 +54036,8 @@
     "code": "SMAP",
     "name": "SHAMNAPUR",
     "name_other": "SHAMNAPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SMBH",
@@ -54029,8 +54057,8 @@
     "code": "SMBR",
     "name": "SUMBAR",
     "name_other": "SUMBAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SMBX",
@@ -54071,8 +54099,8 @@
     "code": "SMDC",
     "name": "SWAI MADHOPUR D CABI",
     "name_other": "SWAI MADHOPUR D CABI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SMDM",
@@ -54330,15 +54358,15 @@
     "code": "SMVB",
     "name": "SMVT BENGALURU",
     "name_other": "SMVT BENGALURU",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SMVJ",
     "name": "SHRI MAHAVEERJI",
     "name_other": "SHRI MAHAVEERJI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SMWA",
@@ -54624,8 +54652,8 @@
     "code": "SNNR",
     "name": "SINDHANUR",
     "name_other": "SINDHANUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SNO",
@@ -54652,8 +54680,8 @@
     "code": "SNPU",
     "name": "SONEPUR",
     "name_other": "SONEPUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SNQ",
@@ -54743,8 +54771,8 @@
     "code": "SNTR",
     "name": "SHANTINAGAR HALT",
     "name_other": "SHANTINAGAR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SNU",
@@ -55002,8 +55030,8 @@
     "code": "SPAK",
     "name": "SALEMPUR ARNIYA KHURD",
     "name_other": "SALEMPUR ARNIYA KHURD",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SPAM",
@@ -55030,8 +55058,8 @@
     "code": "SPBK",
     "name": "SUNDERPUR (BARAH KALAN)",
     "name_other": "SUNDERPUR (BARAH KALAN)",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SPC",
@@ -55149,8 +55177,8 @@
     "code": "SPNG",
     "name": "GCT SHIRPUR POWER PVT LTD",
     "name_other": "GCT SHIRPUR POWER PVT LTD",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SPO",
@@ -55597,8 +55625,8 @@
     "code": "SRNM",
     "name": "SRIRAMNAGAR H",
     "name_other": "SRIRAMNAGAR H",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SRNR",
@@ -55884,8 +55912,8 @@
     "code": "SSGM",
     "name": "SARSOGRAM",
     "name_other": "SARSOGRAM",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SSGR",
@@ -55926,8 +55954,8 @@
     "code": "SSKI",
     "name": "SARSOKI",
     "name_other": "SARSOKI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SSKL",
@@ -55947,8 +55975,8 @@
     "code": "SSLM",
     "name": "SRI SANTH SEVALAL MAHARAJ RAILWAY CROSSING STATION",
     "name_other": "SRI SANTH SEVALAL MAHARAJ RAILWAY CROSSING STATION",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SSM",
@@ -55989,8 +56017,8 @@
     "code": "SSNT",
     "name": "SIRSA NUNTHAR HALT",
     "name_other": "SIRSA NUNTHAR HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SSP",
@@ -56199,8 +56227,8 @@
     "code": "STLA",
     "name": "SITHOULI A CABIN",
     "name_other": "SITHOULI A CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "STLB",
@@ -56871,8 +56899,8 @@
     "code": "SWKE",
     "name": "SAWALKOTE",
     "name_other": "SAWALKOTE",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "SWLN",
@@ -57592,8 +57620,8 @@
     "code": "TDE",
     "name": "THUDIYALUR",
     "name_other": "THUDIYALUR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TDH",
@@ -57802,8 +57830,8 @@
     "code": "TGBP",
     "name": "THINGOU",
     "name_other": "THINGOU",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TGDE",
@@ -57837,8 +57865,8 @@
     "code": "TGLN",
     "name": "TARADGAON",
     "name_other": "TARADGAON",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TGM",
@@ -57949,8 +57977,8 @@
     "code": "THED",
     "name": "TAUHEED",
     "name_other": "TAUHEED",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "THJ",
@@ -58390,8 +58418,8 @@
     "code": "TKMG",
     "name": "TIKAMGARH",
     "name_other": "TIKAMGARH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TKN",
@@ -58537,8 +58565,8 @@
     "code": "TKV",
     "name": "TEKANWAS",
     "name_other": "TEKANWAS",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TKW",
@@ -58586,8 +58614,8 @@
     "code": "TLB",
     "name": "TALWA BAZAR",
     "name_other": "TALWA BAZAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TLC",
@@ -58614,8 +58642,8 @@
     "code": "TLES",
     "name": "TALGORIA SOUTH",
     "name_other": "TALGORIA SOUTH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TLEW",
@@ -58691,8 +58719,8 @@
     "code": "TLKL",
     "name": "TALAKAL",
     "name_other": "TALAKAL",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TLL",
@@ -59097,8 +59125,8 @@
     "code": "TNJR",
     "name": "TAJNAGAR",
     "name_other": "TAJNAGAR",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TNK",
@@ -59265,8 +59293,8 @@
     "code": "TOY",
     "name": "TOPPUTURAI",
     "name_other": "TOPPUTURAI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TP",
@@ -59512,6 +59540,13 @@
     "name_other": "TARABARI",
     "lat": "26.435993",
     "long": "92.683067"
+  },
+  {
+    "code": "TRBI",
+    "name": "TARABOI PASSENGER HALT",
+    "name_other": "TARABOI PASSENGER HALT",
+    "lat": null,
+    "long": null
   },
   {
     "code": "TRDI",
@@ -59944,15 +59979,15 @@
     "code": "TVCN",
     "name": "THIRUVANANTHAPURAM NORTH",
     "name_other": "THIRUVANANTHAPURAM NORTH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TVCS",
     "name": "THIRUVANANTHAPURAM SOUTH",
     "name_other": "THIRUVANANTHAPURAM SOUTH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TVG",
@@ -60070,8 +60105,8 @@
     "code": "TXR",
     "name": "TIRUNALLARU",
     "name_other": "TIRUNALLARU",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "TY",
@@ -60252,8 +60287,8 @@
     "code": "UDKL",
     "name": "UDAI KALAN",
     "name_other": "UDAI KALAN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "UDKN",
@@ -60364,8 +60399,8 @@
     "code": "UGNC",
     "name": "UJN C CABIN",
     "name_other": "UJN C CABIN",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "UGP",
@@ -60511,8 +60546,8 @@
     "code": "UKLR",
     "name": "UKILERHAT HALT",
     "name_other": "UKILERHAT HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "UKN",
@@ -60791,8 +60826,8 @@
     "code": "UPRD",
     "name": "USMANPUR DEHAT HALT",
     "name_other": "USMANPUR DEHAT HALT",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "UPW",
@@ -60847,8 +60882,8 @@
     "code": "URGR",
     "name": "UDAYAGIRI-RATNAGIRI ROAD",
     "name_other": "UDAYAGIRI-RATNAGIRI ROAD",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "URI",
@@ -61008,8 +61043,8 @@
     "code": "VADR",
     "name": "VARUD",
     "name_other": "VARUD",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "VAJ",
@@ -61092,8 +61127,8 @@
     "code": "VBC",
     "name": "VIJAYWADA BULB",
     "name_other": "VIJAYWADA BULB",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "VBH",
@@ -61428,8 +61463,8 @@
     "code": "VIGB",
     "name": "M/S VIMLA INFRA(INDIA)PVT. LTD. GATI SHAKTI MULTI",
     "name_other": "M/S VIMLA INFRA(INDIA)PVT. LTD. GATI SHAKTI MULTI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "VINH",
@@ -61687,8 +61722,8 @@
     "code": "VLNK",
     "name": "VELLANKANNI",
     "name_other": "VELLANKANNI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "VLP",
@@ -61890,8 +61925,8 @@
     "code": "VNTD",
     "name": "VANTADA",
     "name_other": "VANTADA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "VNUP",
@@ -62163,8 +62198,8 @@
     "code": "VSHI",
     "name": "VAISHALI",
     "name_other": "VAISHALI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "VSKP",
@@ -62184,8 +62219,8 @@
     "code": "VSR",
     "name": "VASUNDHARA",
     "name_other": "VASUNDHARA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "VST",
@@ -62737,8 +62772,8 @@
     "code": "WNGS",
     "name": "WANI NEW GOODS SHED",
     "name_other": "WANI NEW GOODS SHED",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "WOC",
@@ -62884,8 +62919,8 @@
     "code": "WTWI",
     "name": "WETALWADI",
     "name_other": "WETALWADI",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "WWA",
@@ -63010,8 +63045,8 @@
     "code": "YDM",
     "name": "YEDAMANGALA",
     "name_other": "YEDAMANGALA",
-    "lat": "12.714600",
-    "long": "75.443100"
+    "lat": "12.714698",
+    "long": "75.443115"
   },
   {
     "code": "YDV",
@@ -63094,8 +63129,8 @@
     "code": "YLBA",
     "name": "YELBURGA",
     "name_other": "YELBURGA",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "YLG",
@@ -63122,8 +63157,8 @@
     "code": "YLSC",
     "name": "Y-LEG",
     "name_other": "Y-LEG",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "YNA",
@@ -63150,8 +63185,8 @@
     "code": "YNRK",
     "name": "YOG NAGARI RISHIKESH",
     "name_other": "YOG NAGARI RISHIKESH",
-    "lat": "",
-    "long": ""
+    "lat": null,
+    "long": null
   },
   {
     "code": "YP",

@@ -941,7 +941,7 @@
   },
   {
     "code": "ANG",
-    "name": "AHMADNAGAR"
+    "name": "AHILYANAGAR"
   },
   {
     "code": "ANGL",
@@ -2838,6 +2838,10 @@
   {
     "code": "BHAL",
     "name": "BHATIEL"
+  },
+  {
+    "code": "BHAN",
+    "name": "BHOYANI"
   },
   {
     "code": "BHAS",
@@ -12673,7 +12677,7 @@
   },
   {
     "code": "IDH",
-    "name": "IDGAH AGRA JN"
+    "name": "IDGAH JN"
   },
   {
     "code": "IDJ",
@@ -14306,6 +14310,10 @@
   {
     "code": "KADA",
     "name": "KHANDALA(M.P.)"
+  },
+  {
+    "code": "KADI",
+    "name": "KADI"
   },
   {
     "code": "KADL",
@@ -19386,6 +19394,10 @@
   {
     "code": "MCDA",
     "name": "MAA CHANDIKA DEVI DHAM ANTU"
+  },
+  {
+    "code": "MCF",
+    "name": "MANIK CHOWREE P.H."
   },
   {
     "code": "MCI",
@@ -24960,10 +24972,6 @@
     "name": "PALIGARH"
   },
   {
-    "code": "PLGN",
-    "name": "NEW PALGHAR"
-  },
-  {
     "code": "PLH",
     "name": "PARALAKHEMUNDI"
   },
@@ -26824,6 +26832,10 @@
     "name": "RISHIKUND"
   },
   {
+    "code": "RIM",
+    "name": "RAJIM"
+  },
+  {
     "code": "RIS",
     "name": "RISHRA"
   },
@@ -27368,6 +27380,10 @@
     "name": "RAMPUR - BAMPUR"
   },
   {
+    "code": "RPCA",
+    "name": "ROMPICHERLA"
+  },
+  {
     "code": "RPD",
     "name": "RUPAUND"
   },
@@ -27856,10 +27872,6 @@
     "name": "SATHI"
   },
   {
-    "code": "SAHN",
-    "name": "NEW SAPHALE"
-  },
-  {
     "code": "SAHP",
     "name": "SAHIJPUR"
   },
@@ -27954,6 +27966,10 @@
   {
     "code": "SARR",
     "name": "SIDHAOUNA RAMPUR HALT"
+  },
+  {
+    "code": "SARY",
+    "name": "SARAIYA HALT"
   },
   {
     "code": "SAS",
@@ -32578,6 +32594,10 @@
   {
     "code": "TRBE",
     "name": "TARABARI"
+  },
+  {
+    "code": "TRBI",
+    "name": "TARABOI PASSENGER HALT"
   },
   {
     "code": "TRDI",

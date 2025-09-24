@@ -1973,6 +1973,17 @@
     "activeFlag": "Y"
   },
   {
+    "code": "KVGB",
+    "name": "GCT of M/s Kalyani Ventures Limited",
+    "zone": "ECOR",
+    "servingStation": "BXQ",
+    "distance": "1.5",
+    "distanceType": "IN and OUT",
+    "validFrom": "21-9-2025",
+    "validUpto": "31-12-2999",
+    "activeFlag": "Y"
+  },
+  {
     "code": "LMGT",
     "name": "Private Siding, Lingaraj MGR of M/s MCL at Talcher",
     "zone": "ECOR",
@@ -3840,6 +3851,17 @@
     "activeFlag": "Y"
   },
   {
+    "code": "LAGP",
+    "name": "Leap Agri Logistics (Khagaria) Pvt. Ltd.",
+    "zone": "ECR",
+    "servingStation": "PSR",
+    "distance": "1.95",
+    "distanceType": "IN and OUT",
+    "validFrom": "18-9-2025",
+    "validUpto": "31-12-2999",
+    "activeFlag": "Y"
+  },
+  {
     "code": "LAKS",
     "name": "Lanco Anpara (Anpara C) TPS PVT. SDG.",
     "zone": "ECR",
@@ -3902,6 +3924,28 @@
     "distance": "3.66",
     "distanceType": "IN and OUT",
     "validFrom": "9-3-2019",
+    "validUpto": "31-12-2999",
+    "activeFlag": "Y"
+  },
+  {
+    "code": "NPGA",
+    "name": "NABINAGAR Super thermal POWER station",
+    "zone": "ECR",
+    "servingStation": "ANH",
+    "distance": "3.53",
+    "distanceType": "IN and OUT",
+    "validFrom": "23-9-2025",
+    "validUpto": "31-12-2999",
+    "activeFlag": "Y"
+  },
+  {
+    "code": "NPGA",
+    "name": "NABINAGAR Super thermal POWER station",
+    "zone": "ECR",
+    "servingStation": "BSYA",
+    "distance": "7.02",
+    "distanceType": "IN and OUT",
+    "validFrom": "23-9-2025",
     "validUpto": "31-12-2999",
     "activeFlag": "Y"
   },
@@ -4258,6 +4302,17 @@
     "activeFlag": "Y"
   },
   {
+    "code": "THBS",
+    "name": "Thana Bihpur Line No. 06 Engineering Siding",
+    "zone": "ECR",
+    "servingStation": "THB",
+    "distance": "0.83",
+    "distanceType": "IN and OUT",
+    "validFrom": "18-9-2025",
+    "validUpto": "31-12-2999",
+    "activeFlag": "Y"
+  },
+  {
     "code": "TPSM",
     "name": "Thermal Power STation Siding Kanti",
     "zone": "ECR",
@@ -4491,38 +4546,11 @@
     "activeFlag": "Y"
   },
   {
-    "code": "LAGP",
-    "name": "Leap Agri (Khagaria) Logistics Pvt. Ltd.",
+    "code": "NGNS",
+    "name": "Nigahi New Silo (03) GCT of NCL",
     "zone": "ECR",
-    "servingStation": "PSR",
-    "validFrom": "31-5-2025",
-    "validUpto": "31-12-2999",
-    "activeFlag": "Y"
-  },
-  {
-    "code": "LAGP",
-    "name": "Leap Agri Logistics (Khagaria) Pvt. Ltd.",
-    "zone": "ECR",
-    "servingStation": "PSR",
-    "validFrom": "31-5-2025",
-    "validUpto": "31-12-2999",
-    "activeFlag": "Y"
-  },
-  {
-    "code": "NPGA",
-    "name": "NABINAGAR POWER GENERATING COMPANY LTD. (NPGCL)",
-    "zone": "ECR",
-    "servingStation": "ANH",
-    "validFrom": "13-6-2019",
-    "validUpto": "31-12-2999",
-    "activeFlag": "Y"
-  },
-  {
-    "code": "NPGA",
-    "name": "NABINAGAR Super thermal POWER station",
-    "zone": "ECR",
-    "servingStation": "ANH",
-    "validFrom": "13-6-2019",
+    "servingStation": "SKTN",
+    "validFrom": "20-9-2025",
     "validUpto": "31-12-2999",
     "activeFlag": "Y"
   },
@@ -7059,8 +7087,8 @@
     "servingStation": "SOM",
     "distance": "1.68",
     "distanceType": "IN and OUT",
-    "validFrom": "12-7-2025",
-    "validUpto": "10-9-2025",
+    "validFrom": "12-9-2025",
+    "validUpto": "10-12-2025",
     "activeFlag": "Y"
   },
   {
@@ -12062,6 +12090,17 @@
     "activeFlag": "Y"
   },
   {
+    "code": "VCSG",
+    "name": "M/s. Cement Division Unit of Kesoram Industries Ltd, (VCSG)",
+    "zone": "SCR",
+    "servingStation": "SEM",
+    "distance": "4.22",
+    "distanceType": "IN and OUT",
+    "validFrom": "19-9-2025",
+    "validUpto": "31-12-2999",
+    "activeFlag": "Y"
+  },
+  {
     "code": "WCF",
     "name": "WESTERN COAL FIELDS LTD SIDING",
     "zone": "SCR",
@@ -12294,15 +12333,6 @@
     "zone": "SCR",
     "servingStation": "STHM",
     "validFrom": "13-1-2020",
-    "validUpto": "31-12-2999",
-    "activeFlag": "Y"
-  },
-  {
-    "code": "VCSG",
-    "name": "M/s. Cement Division Unit of Kesoram Industries Ltd, (VCSG)",
-    "zone": "SCR",
-    "servingStation": "SEM",
-    "validFrom": "12-12-2017",
     "validUpto": "31-12-2999",
     "activeFlag": "Y"
   },

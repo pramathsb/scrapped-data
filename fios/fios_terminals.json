@@ -1106,7 +1106,7 @@
   },
   {
     "Sttn": "ANG",
-    "SttnName": "AHMEDNAGAR",
+    "SttnName": "AHILYANAGAR",
     "Dvsn": "PUNE-PUNE (CR)",
     "Dstt": "AHMEDNAGAR (MAHARASHTRA)",
     "AgCont": "0",
@@ -1714,6 +1714,19 @@
     "Lat": "13.118017",
     "Lng": "80.100288",
     "Fcty": "Y/1/MECHANICAL/N/Y/N"
+  },
+  {
+    "Sttn": "AVP",
+    "SttnName": "ABHANPUR JN.",
+    "Dvsn": "R-RAIPUR (SEC)",
+    "Dstt": "RAIPUR (CHHATTISGARH)",
+    "AgCont": "0",
+    "TrckCont": "0",
+    "WHCont": "0",
+    "LabCont": "0",
+    "Lat": "21.05169167",
+    "Lng": "81.74540833",
+    "Fcty": "/////"
   },
   {
     "Sttn": "AWB",
@@ -20358,6 +20371,19 @@
     "Fcty": "Y/1/MANUAL/N/Y/N"
   },
   {
+    "Sttn": "KVGB",
+    "SttnName": "GCT OF M/S KALYANI VENTURES LIMITED",
+    "Dvsn": "SBP-SAMBALPUR (ECO)",
+    "Dstt": "JHARSUGUDA (ODISHA)",
+    "AgCont": "0",
+    "TrckCont": "0",
+    "WHCont": "0",
+    "LabCont": "0",
+    "Lat": "21.806643",
+    "Lng": "84.016356",
+    "Fcty": "/////"
+  },
+  {
     "Sttn": "KVJN",
     "SttnName": "NEW KESHAV GANJ",
     "Dvsn": "WDFC-WESTERN DEDICATED FREIGHT CORR (DFCR)",
@@ -31031,6 +31057,19 @@
     "Fcty": "N/1/MECHANICAL/N/Y/N"
   },
   {
+    "Sttn": "PTRE",
+    "SttnName": "PATARA",
+    "Dvsn": "JHS-JHANSI (NC)",
+    "Dstt": "KANPUR NAGAR (UTTAR PRADESH)",
+    "AgCont": "0",
+    "TrckCont": "0",
+    "WHCont": "0",
+    "LabCont": "0",
+    "Lat": "26.232701",
+    "Lng": "80.204025",
+    "Fcty": "/////"
+  },
+  {
     "Sttn": "PTRU",
     "SttnName": "PATRATU",
     "Dvsn": "DHN-DHANBAD (EC)",
@@ -32914,6 +32953,19 @@
     "Lat": "27.059946",
     "Lng": "80.51643683",
     "Fcty": "N/1/MANUAL/N/Y/N"
+  },
+  {
+    "Sttn": "SANG",
+    "SttnName": "SAIRANG",
+    "Dvsn": "LMG-LUMDING (NF)",
+    "Dstt": "AIZAWL (MIZORAM)",
+    "AgCont": "0",
+    "TrckCont": "0",
+    "WHCont": "0",
+    "LabCont": "0",
+    "Lat": "24.19545969",
+    "Lng": "92.54106045",
+    "Fcty": "/////"
   },
   {
     "Sttn": "SANK",
@@ -39975,19 +40027,6 @@
     "Fcty": "N/1/MECHANICAL/N/N/N"
   },
   {
-    "Sttn": "AKLA",
-    "SttnName": "AKOLA JN.",
-    "Dvsn": "NED-NANDED (SC)",
-    "Dstt": "AMRAVATI (MAHARASHTRA)",
-    "AgCont": "0",
-    "TrckCont": "0",
-    "WHCont": "0",
-    "LabCont": "0",
-    "Lat": "20.7233",
-    "Lng": "77.0057",
-    "Fcty": "N/1/MECHANICAL/N/Y/N"
-  },
-  {
     "Sttn": "AKWS",
     "SttnName": "KARGALI WASHERY",
     "Dvsn": "DHN-DHANBAD (EC)",
@@ -40103,19 +40142,6 @@
     "Lat": "19.916387",
     "Lng": "75.210514",
     "Fcty": "Y/2/MANUAL/N/Y/N"
-  },
-  {
-    "Sttn": "ARW",
-    "SttnName": "AHRAURA ROAD",
-    "Dvsn": "PRYJ-PRAYAGRAJ (NC)",
-    "Dstt": "MIRZAPUR (UTTAR PRADESH)",
-    "AgCont": "0",
-    "TrckCont": "0",
-    "WHCont": "0",
-    "LabCont": "0",
-    "Lat": "25.19636",
-    "Lng": "83.018955",
-    "Fcty": "/////"
   },
   {
     "Sttn": "ASAN",
@@ -44587,7 +44613,7 @@
     "LabCont": "0",
     "Lat": "27.572075",
     "Lng": "78.653735",
-    "Fcty": "/////"
+    "Fcty": "Y/////"
   },
   {
     "Sttn": "JRC",
@@ -47840,19 +47866,6 @@
     "Fcty": "/////"
   },
   {
-    "Sttn": "PTRE",
-    "SttnName": "PATARA",
-    "Dvsn": "JHS-JHANSI (NC)",
-    "Dstt": "KANPUR NAGAR (UTTAR PRADESH)",
-    "AgCont": "0",
-    "TrckCont": "0",
-    "WHCont": "0",
-    "LabCont": "0",
-    "Lat": "26.232701",
-    "Lng": "80.204025",
-    "Fcty": "/////"
-  },
-  {
     "Sttn": "PTSC",
     "SttnName": "PARICHA THERMAL SIDING CABIN",
     "Dvsn": "JHS-JHANSI (NC)",
@@ -49241,6 +49254,19 @@
     "LabCont": "0",
     "Lat": "25.51057",
     "Lng": "85.941324",
+    "Fcty": "/////"
+  },
+  {
+    "Sttn": "THBS",
+    "SttnName": "THANA BIHPUR LINE NO. 06 ENGINEERING SIDING",
+    "Dvsn": "SEE-SONPUR (EC)",
+    "Dstt": "BHAGALPUR (BIHAR)",
+    "AgCont": "0",
+    "TrckCont": "0",
+    "WHCont": "0",
+    "LabCont": "0",
+    "Lat": "25.393971",
+    "Lng": "86.935158",
     "Fcty": "/////"
   },
   {

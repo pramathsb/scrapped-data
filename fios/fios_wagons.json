@@ -133,15 +133,15 @@
   },
   {
     "name": "BCNHS",
-    "id": "BOGIE COV. AIR BRAK "
+    "id": "BOGIE COV. AIR BRAK"
   },
   {
     "name": "BCNHSM1",
-    "id": "BOGIE COV. AIR BRAK "
+    "id": "BOGIE COV. AIR BRAK"
   },
   {
     "name": "BCNHSM2",
-    "id": "BOGIE COV. AIR BRAK "
+    "id": "BOGIE COV. AIR BRAK"
   },
   {
     "name": "BCNM1",
@@ -293,7 +293,7 @@
   },
   {
     "name": "BKCXY",
-    "id": "BOX  WAGONS WITH SEALED UPWARD OPENING DOOR"
+    "id": "BOX WAGONS WITH SEALED UPWARD OPENING DOOR"
   },
   {
     "name": "BKD",
@@ -441,11 +441,11 @@
   },
   {
     "name": "BOBSNM",
-    "id": "BOBSNMI  LOADED WITH IORE ON MXA-DRZ"
+    "id": "BOBSNMI LOADED WITH IORE ON MXA-DRZ"
   },
   {
     "name": "BOBSNM1",
-    "id": "BOBSNMI  LOADED WITH IORE ON MXA-DRZ"
+    "id": "BOBSNMI LOADED WITH IORE ON MXA-DRZ"
   },
   {
     "name": "BOBSNS",
@@ -533,7 +533,7 @@
   },
   {
     "name": "BOXC",
-    "id": "BOX WAGONS WITH  CBC"
+    "id": "BOX WAGONS WITH CBC"
   },
   {
     "name": "BOXCY",
@@ -597,15 +597,15 @@
   },
   {
     "name": "BOXNHS",
-    "id": "BOGIE OPEN AIR-BRAK "
+    "id": "BOGIE OPEN AIR-BRAK"
   },
   {
     "name": "BOXNHSM1",
-    "id": "BOGIE OPEN AIR-BRAK "
+    "id": "BOGIE OPEN AIR-BRAK"
   },
   {
     "name": "BOXNHSM2",
-    "id": "BOGIE OPEN AIR-BRAK "
+    "id": "BOGIE OPEN AIR-BRAK"
   },
   {
     "name": "BOXNLW",
@@ -689,7 +689,7 @@
   },
   {
     "name": "BOYEL",
-    "id": "BOYEL  LOADED WITH IORE ON  KRDL-KTV-VZP"
+    "id": "BOYEL LOADED WITH IORE ON KRDL-KTV-VZP"
   },
   {
     "name": "BOYN",
@@ -825,7 +825,7 @@
   },
   {
     "name": "BTK",
-    "id": " BOGIE TANK WAGON KEROSENE"
+    "id": "BOGIE TANK WAGON KEROSENE"
   },
   {
     "name": "BTL",
@@ -833,7 +833,7 @@
   },
   {
     "name": "BTM",
-    "id": " BOGIETANK WAGON MOLASSES"
+    "id": "BOGIETANK WAGON MOLASSES"
   },
   {
     "name": "BTO",
@@ -841,11 +841,11 @@
   },
   {
     "name": "BTOH",
-    "id": " BOGIE TANK WAGON HEAVY OIL"
+    "id": "BOGIE TANK WAGON HEAVY OIL"
   },
   {
     "name": "BTP",
-    "id": " BOGIE TANK WAGON PETROL"
+    "id": "BOGIE TANK WAGON PETROL"
   },
   {
     "name": "BTPA",
@@ -869,11 +869,15 @@
   },
   {
     "name": "BTPH",
-    "id": " BOGIE TANK WAGON PHOSPHORIC ACID"
+    "id": "BOGIE TANK WAGON PHOSPHORIC ACID"
   },
   {
     "name": "BTPN",
     "id": "BOGIE TANK WAGON AIR BRAKE"
+  },
+  {
+    "name": "BTPNM1",
+    "id": "BOBIE POL TANK WAGON TYPE"
   },
   {
     "name": "BTPX",
@@ -889,7 +893,7 @@
   },
   {
     "name": "BTV",
-    "id": " BOGIE TANK WAGON VEGETABLE OIL"
+    "id": "BOGIE TANK WAGON VEGETABLE OIL"
   },
   {
     "name": "BTW",
@@ -1553,7 +1557,7 @@
   },
   {
     "name": "TPGL",
-    "id": " 4 WHEELER TANK WAGON LIQ. PETROL GAS"
+    "id": "4 WHEELER TANK WAGON LIQ. PETROL GAS"
   },
   {
     "name": "TPGLR",
@@ -1561,7 +1565,7 @@
   },
   {
     "name": "TPR",
-    "id": " 4 WHEELER TANK WAGON PETROL"
+    "id": "4 WHEELER TANK WAGON PETROL"
   },
   {
     "name": "TPRC",
@@ -1625,15 +1629,15 @@
   },
   {
     "name": "VB",
-    "id": "4 WHEELER BRAKE VAN.  ORDINARY"
+    "id": "4 WHEELER BRAKE VAN. ORDINARY"
   },
   {
     "name": "VH",
-    "id": "4 WHEELER BRAKE VAN.  HEAVY"
+    "id": "4 WHEELER BRAKE VAN. HEAVY"
   },
   {
     "name": "VM",
-    "id": "4 WHEELER BRAKE VAN.  MEDIUM"
+    "id": "4 WHEELER BRAKE VAN. MEDIUM"
   },
   {
     "name": "VP",

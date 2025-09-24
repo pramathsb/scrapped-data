@@ -1410,6 +1410,13 @@
     "sh": "महाराष्ट्र"
   },
   {
+    "sc": "ANG",
+    "en": "AHILYANAGAR",
+    "hi": "अहिल्यानगर",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
+  },
+  {
     "sc": "AHM",
     "en": "AHIMANPUR",
     "hi": "अहिमनंपुर",
@@ -1443,13 +1450,6 @@
     "hi": "अह्मदगढ",
     "se": "PUNJAB",
     "sh": "पंजाब"
-  },
-  {
-    "sc": "ANG",
-    "en": "AHMADNAGAR",
-    "hi": "अहमदनगर",
-    "se": "MAHARASHTRA",
-    "sh": "महाराष्ट्र"
   },
   {
     "sc": "AMP",
@@ -2057,6 +2057,13 @@
     "sc": "AN",
     "en": "AMALNER",
     "hi": "अमलनेर",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
+  },
+  {
+    "sc": "AMNE",
+    "en": "AMALNER B",
+    "hi": "अमलनेर भां",
     "se": "MAHARASHTRA",
     "sh": "महाराष्ट्र"
   },
@@ -4423,6 +4430,13 @@
     "sh": "ओडिशा"
   },
   {
+    "sc": "BGWR",
+    "en": "BAGHWAR",
+    "hi": "बघवार",
+    "se": "MADHYA PRADESH",
+    "sh": "मध्य प्रदेश"
+  },
+  {
     "sc": "BGF",
     "en": "BAGILA",
     "hi": "बगीला",
@@ -6381,6 +6395,13 @@
     "sh": "मध्य प्रदेश"
   },
   {
+    "sc": "BETA",
+    "en": "BARETHIYA",
+    "hi": "बरेठिया",
+    "se": "MADHYA PRADESH",
+    "sh": "मध्य प्रदेश"
+  },
+  {
     "sc": "BRGJ",
     "en": "BARGAON GUJAR",
     "hi": "भरगांव गुज्जर",
@@ -7314,6 +7335,13 @@
     "hi": "बेढम",
     "se": "RAJASTHAN",
     "sh": "राजस्थान"
+  },
+  {
+    "sc": "BEED",
+    "en": "BEED",
+    "hi": "बीड",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
   },
   {
     "sc": "BMT",
@@ -22099,6 +22127,13 @@
     "sh": "महाराष्ट्र"
   },
   {
+    "sc": "HTLA",
+    "en": "HATOLA",
+    "hi": "हतोला",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
+  },
+  {
     "sc": "HPLE",
     "en": "HATPURAINI",
     "hi": "हत्पुरैनी",
@@ -24370,6 +24405,13 @@
     "hi": "जत्कनहर",
     "se": "CHHATTISGARH",
     "sh": "छत्तीसगढ"
+  },
+  {
+    "sc": "JTNU",
+    "en": "JATNANDUR",
+    "hi": "जाटनांदूर",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
   },
   {
     "sc": "JTX",
@@ -27857,6 +27899,13 @@
     "sh": "उत्तर प्रदेश"
   },
   {
+    "sc": "KRHI",
+    "en": "KARHI",
+    "hi": "करही",
+    "se": "MADHYA PRADESH",
+    "sh": "मध्य प्रदेश"
+  },
+  {
     "sc": "KYX",
     "en": "KARHIYA BHADELI",
     "hi": "करहिया भदोली",
@@ -28508,6 +28557,13 @@
     "hi": "कटोरा",
     "se": "CHHATTISGARH",
     "sh": "छत्तीसगढ"
+  },
+  {
+    "sc": "KTOR",
+    "en": "KATORIYA",
+    "hi": "कटोरिया",
+    "se": "BIHAR",
+    "sh": "बिहार"
   },
   {
     "sc": "KTRD",
@@ -39660,18 +39716,18 @@
     "sh": "कर्नाटक"
   },
   {
-    "sc": "NG",
-    "en": "NAGARI",
-    "hi": "नगरी",
-    "se": "ANDHRA PRADESH",
-    "sh": "आंध्र प्रदेश"
-  },
-  {
     "sc": "NGI",
     "en": "NAGARI",
     "hi": "नागरी",
     "se": "MAHARASHTRA",
     "sh": "महाराष्ट्र"
+  },
+  {
+    "sc": "NG",
+    "en": "NAGARI",
+    "hi": "नगरी",
+    "se": "ANDHRA PRADESH",
+    "sh": "आंध्र प्रदेश"
   },
   {
     "sc": "NRS",
@@ -40550,7 +40606,7 @@
   {
     "sc": "NYDO",
     "en": "NARAYANDOHO",
-    "hi": "नरायणडोहो",
+    "hi": "नारायणडोहो",
     "se": "MAHARASHTRA",
     "sh": "महाराष्ट्र"
   },
@@ -46896,6 +46952,13 @@
     "sh": "हिमाचल प्रदेश"
   },
   {
+    "sc": "RMOA",
+    "en": "RAIMOHA",
+    "hi": "रायमोहा",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
+  },
+  {
     "sc": "RNGR",
     "en": "RAINAGAR",
     "hi": "रायनगर",
@@ -47304,6 +47367,13 @@
     "sc": "RAJR",
     "en": "RAJUR",
     "hi": "राजुर",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
+  },
+  {
+    "sc": "RJIN",
+    "en": "RAJURI NAVGAN",
+    "hi": "राजुरी नवगण",
     "se": "MAHARASHTRA",
     "sh": "महाराष्ट्र"
   },
@@ -49165,18 +49235,18 @@
     "sh": "बिहार"
   },
   {
-    "sc": "BIH",
-    "en": "S HIRDARAMNAGAR",
-    "hi": "संत हिरदारामनगर",
-    "se": "MADHYA PRADESH",
-    "sh": "मध्य प्रदेश"
-  },
-  {
     "sc": "SHRN",
     "en": "S HIRDARAMNAGAR",
     "hi": "संत हिरदारामनगर",
     "ec": "BHOPAL",
     "hc": "भोपाल",
+    "se": "MADHYA PRADESH",
+    "sh": "मध्य प्रदेश"
+  },
+  {
+    "sc": "BIH",
+    "en": "S HIRDARAMNAGAR",
+    "hi": "संत हिरदारामनगर",
     "se": "MADHYA PRADESH",
     "sh": "मध्य प्रदेश"
   },
@@ -54504,18 +54574,18 @@
     "sh": "उत्तर प्रदेश"
   },
   {
-    "sc": "SINA",
-    "en": "SRINAGAR",
-    "hi": "श्रीनगर",
-    "se": "JAMMU AND KASHMIR",
-    "sh": "जम्मू और कश्मीर"
-  },
-  {
     "sc": "SNAR",
     "en": "SRINAGAR",
     "hi": "श्रीनगर",
     "se": "RAJASTHAN",
     "sh": "राजस्थान"
+  },
+  {
+    "sc": "SINA",
+    "en": "SRINAGAR",
+    "hi": "श्रीनगर",
+    "se": "JAMMU AND KASHMIR",
+    "sh": "जम्मू और कश्मीर"
   },
   {
     "sc": "SHAN",
@@ -57363,6 +57433,13 @@
     "sh": "तमिलनाडु"
   },
   {
+    "sc": "TXR",
+    "en": "TIRUNALLARU",
+    "hi": "तिरूनल्लार",
+    "se": "PUDUCHERRY",
+    "sh": "पुदुचेरी"
+  },
+  {
     "sc": "TNK",
     "en": "TIRUNELLIKAVAL",
     "hi": "तिरुनेल्लिकवल",
@@ -58470,6 +58547,13 @@
     "sh": "गुजरात"
   },
   {
+    "sc": "UBR",
+    "en": "UMARGAM ROAD",
+    "hi": "उमरगाम रोड",
+    "se": "GUJARAT",
+    "sh": "गुजरात"
+  },
+  {
     "sc": "UMR",
     "en": "UMARIA",
     "hi": "उमरिया",
@@ -58489,13 +58573,6 @@
     "sc": "UMPD",
     "en": "UMARPADA",
     "hi": "उमर्पदा",
-    "se": "GUJARAT",
-    "sh": "गुजरात"
-  },
-  {
-    "sc": "UBR",
-    "en": "UMBARGAM ROAD",
-    "hi": "उमबरगाम राोड",
     "se": "GUJARAT",
     "sh": "गुजरात"
   },
@@ -60033,6 +60110,13 @@
     "sh": "महाराष्ट्र"
   },
   {
+    "sc": "VNWI",
+    "en": "VIGHANWADI",
+    "hi": "विघनवाडी",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
+  },
+  {
     "sc": "VJF",
     "en": "VIJAPUR",
     "hi": "विजपुर",
@@ -60432,18 +60516,18 @@
     "sh": "गुजरात"
   },
   {
+    "sc": "VSI",
+    "en": "VISHVAMITRI",
+    "hi": "विश्वामित्री",
+    "se": "GUJARAT",
+    "sh": "गुजरात"
+  },
+  {
     "sc": "VS",
     "en": "VISHVAMITRI",
     "hi": "विश्वामित्री",
     "ec": "VADODARA",
     "hc": "वडोदरा",
-    "se": "GUJARAT",
-    "sh": "गुजरात"
-  },
-  {
-    "sc": "VSI",
-    "en": "VISHVAMITRI",
-    "hi": "विश्वामित्री",
     "se": "GUJARAT",
     "sh": "गुजरात"
   },
@@ -60920,6 +61004,13 @@
     "hi": "वेस्ट हिल्ल",
     "se": "KERALA",
     "sh": "केरल"
+  },
+  {
+    "sc": "WTWI",
+    "en": "WETALWADI",
+    "hi": "वेतालवाडी",
+    "se": "MAHARASHTRA",
+    "sh": "महाराष्ट्र"
   },
   {
     "sc": "WFD",
